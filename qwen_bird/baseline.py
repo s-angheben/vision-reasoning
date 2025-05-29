@@ -13,7 +13,7 @@ for class_name in class_names:
 print(class_names_dict)
 
 
-first_example = CUB_200_test[43]
+first_example = CUB_200_test[0]
 print(f"First example: {first_example}")
 
 import torch
