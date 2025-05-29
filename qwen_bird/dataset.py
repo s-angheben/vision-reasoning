@@ -10,12 +10,12 @@ class CUB200Dataset:
         # Pre-compute class names mapping
         class_names = self.CUB_200.features["label"].names
         self.class_names_dict = {
-            int(name.split(".")[0]) - 1: name.split(".")[1].strip()
+            int(name.split(".")[0]) - 1: name.split(".")[1].strip().replace('_', ' ')
             for name in class_names
         }
         
         self.prompt_class_list = "\n".join([
-            f"{i+1}. {self.class_names_dict[i].replace('_', ' ')}" 
+            f"{i+1}. {self.class_names_dict[i]}" 
             for i in range(len(self.class_names_dict))
         ])
 
