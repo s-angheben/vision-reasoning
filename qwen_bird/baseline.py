@@ -4,20 +4,23 @@ from model import QwenVLModel
 import os
 import datetime
 
+# Base path configuration
+BASE_PATH = "/home/samuele.angheben/vision-reasoning"
+
 CUB200Dataset = CUB200Dataset(split='test')
 
 model = QwenVLModel()
 prompt = f"Please identify the bird species in this image. Choose from the following list of bird species:\n\n{CUB200Dataset.prompt_class_list}\n\nProvide your answer as the species name."
 
 # Create output directory
-os.makedirs("/home/sam/vision-reasoning/outputs", exist_ok=True)
+os.makedirs(f"{BASE_PATH}/outputs", exist_ok=True)
 timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
 
 # test original dataset
 correct_original = 0
 total_original = 0
 
-output_file_original = f"/home/sam/vision-reasoning/outputs/predictions_original_{timestamp}.txt"
+output_file_original = f"{BASE_PATH}/outputs/predictions_original_{timestamp}.txt"
 with open(output_file_original, "w") as f:
     f.write(f"Original Dataset Predictions - {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
     f.write("=" * 60 + "\n\n")
@@ -51,7 +54,7 @@ print(f"Original dataset accuracy: {correct_original}/{total_original} = {correc
 correct_cropped = 0
 total_cropped = 0
 
-output_file_cropped = f"/home/sam/vision-reasoning/outputs/predictions_cropped_{timestamp}.txt"
+output_file_cropped = f"{BASE_PATH}/outputs/predictions_cropped_{timestamp}.txt"
 with open(output_file_cropped, "w") as f:
     f.write(f"Cropped Dataset Predictions - {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
     f.write("=" * 60 + "\n\n")
@@ -83,7 +86,7 @@ print(f"Cropped dataset accuracy: {correct_cropped}/{total_cropped} = {correct_c
 print(f"Results saved to: {output_file_original} and {output_file_cropped}")
 
 # Save summary results
-summary_file = f"/home/sam/vision-reasoning/outputs/accuracy_summary_{timestamp}.txt"
+summary_file = f"{BASE_PATH}/outputs/accuracy_summary_{timestamp}.txt"
 with open(summary_file, "w") as f:
     f.write(f"Bird Classification Accuracy Summary\n")
     f.write("=" * 40 + "\n\n")
