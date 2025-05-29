@@ -7,6 +7,48 @@ import datetime
 # Base path configuration
 BASE_PATH = "/home/samuele.angheben/vision-reasoning"
 
+def evaluate_dataset(dataset, dataset_name, output_file, prompt, model, class_names_dict, progress_file):
+    """Evaluate a dataset and save results to file"""
+    correct = 0
+    total = 0
+    
+    with open(output_file, "w") as f, open(progress_file, "w") as pf:
+        f.write(f"{dataset_name} Dataset Predictions - {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write("=" * 60 + "\n\n")
+        
+        pf.write(f"{dataset_name} Progressive Accuracy - {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        pf.write("Sample,Correct,Total,Accuracy\n")
+        
+        for idx, sample in enumerate(dataset):
+            prediction = model.predict(sample["image"], prompt)
+            ground_truth = class_names_dict[sample['label']]
+            
+            # Simple accuracy check - if ground truth is in prediction
+            is_correct = ground_truth.lower() in prediction.lower()
+            if is_correct:
+                correct += 1
+            total += 1
+            
+            current_accuracy = correct / total
+
+            print(f"Sample {idx}: Ground truth: {ground_truth}")
+            print(f"Sample {idx}: Prediction: {prediction}")
+            print(f"Sample {idx}: Correct: {is_correct}")
+            print(f"Sample {idx}: Running accuracy: {current_accuracy:.4f}")
+            print("---")
+            
+            f.write(f"Sample {idx}:\n")
+            f.write(f"Ground truth: {ground_truth}\n")
+            f.write(f"Prediction: {prediction}\n")
+            f.write(f"Correct: {is_correct}\n")
+            f.write("-" * 40 + "\n\n")
+            
+            pf.write(f"{idx},{correct},{total},{current_accuracy:.4f}\n")
+        
+        f.write(f"\n{dataset_name} dataset accuracy: {correct}/{total} = {correct/total:.4f}\n")
+    
+    return correct, total
+
 CUB200Dataset = CUB200Dataset(split='test')
 
 model = QwenVLModel()
@@ -16,72 +58,22 @@ prompt = f"Please identify the bird species in this image. Choose from the follo
 os.makedirs(f"{BASE_PATH}/outputs", exist_ok=True)
 timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
 
-# test original dataset
-correct_original = 0
-total_original = 0
-
+# Evaluate both datasets
 output_file_original = f"{BASE_PATH}/outputs/predictions_original_{timestamp}.txt"
-with open(output_file_original, "w") as f:
-    f.write(f"Original Dataset Predictions - {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-    f.write("=" * 60 + "\n\n")
-    
-    for idx, sample in enumerate(CUB200Dataset.get_dataset()):
-        prediction = model.predict(sample["image"], prompt)
-        ground_truth = CUB200Dataset.class_names_dict[sample['label']]
-        
-        # Simple accuracy check - if ground truth is in prediction
-        is_correct = ground_truth.lower() in prediction.lower()
-        if is_correct:
-            correct_original += 1
-        total_original += 1
-
-        print(f"Sample {idx}: Ground truth: {ground_truth}")
-        print(f"Sample {idx}: Prediction: {prediction}")
-        print(f"Sample {idx}: Correct: {is_correct}")
-        print("---")
-        
-        f.write(f"Sample {idx}:\n")
-        f.write(f"Ground truth: {ground_truth}\n")
-        f.write(f"Prediction: {prediction}\n")
-        f.write(f"Correct: {is_correct}\n")
-        f.write("-" * 40 + "\n\n")
-    
-    f.write(f"\nOriginal dataset accuracy: {correct_original}/{total_original} = {correct_original/total_original:.4f}\n")
-
-print(f"Original dataset accuracy: {correct_original}/{total_original} = {correct_original/total_original:.4f}")
-
-# test cropped dataset
-correct_cropped = 0
-total_cropped = 0
+progress_file_original = f"{BASE_PATH}/outputs/progress_original_{timestamp}.csv"
+correct_original, total_original = evaluate_dataset(
+    CUB200Dataset.get_dataset(), "Original", output_file_original, 
+    prompt, model, CUB200Dataset.class_names_dict, progress_file_original
+)
 
 output_file_cropped = f"{BASE_PATH}/outputs/predictions_cropped_{timestamp}.txt"
-with open(output_file_cropped, "w") as f:
-    f.write(f"Cropped Dataset Predictions - {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-    f.write("=" * 60 + "\n\n")
-    
-    for idx, sample in enumerate(CUB200Dataset.get_dataset_cropped()):
-        prediction = model.predict(sample["image"], prompt)
-        ground_truth = CUB200Dataset.class_names_dict[sample['label']]
-        
-        # Simple accuracy check - if ground truth is in prediction
-        is_correct = ground_truth.lower() in prediction.lower()
-        if is_correct:
-            correct_cropped += 1
-        total_cropped += 1
+progress_file_cropped = f"{BASE_PATH}/outputs/progress_cropped_{timestamp}.csv"
+correct_cropped, total_cropped = evaluate_dataset(
+    CUB200Dataset.get_dataset_cropped(), "Cropped", output_file_cropped, 
+    prompt, model, CUB200Dataset.class_names_dict, progress_file_cropped
+)
 
-        print(f"Sample {idx}: Ground truth: {ground_truth}")
-        print(f"Sample {idx}: Prediction: {prediction}")
-        print(f"Sample {idx}: Correct: {is_correct}")
-        print("---")
-        
-        f.write(f"Sample {idx}:\n")
-        f.write(f"Ground truth: {ground_truth}\n")
-        f.write(f"Prediction: {prediction}\n")
-        f.write(f"Correct: {is_correct}\n")
-        f.write("-" * 40 + "\n\n")
-    
-    f.write(f"\nCropped dataset accuracy: {correct_cropped}/{total_cropped} = {correct_cropped/total_cropped:.4f}\n")
-
+print(f"Original dataset accuracy: {correct_original}/{total_original} = {correct_original/total_original:.4f}")
 print(f"Cropped dataset accuracy: {correct_cropped}/{total_cropped} = {correct_cropped/total_cropped:.4f}")
 print(f"Results saved to: {output_file_original} and {output_file_cropped}")
 
@@ -102,4 +94,5 @@ with open(summary_file, "w") as f:
     f.write(f"Improvement: {(correct_cropped/total_cropped - correct_original/total_original):.4f}\n")
 
 print(f"Summary saved to: {summary_file}")
+print(f"Progress files saved to: {progress_file_original} and {progress_file_cropped}")
 
