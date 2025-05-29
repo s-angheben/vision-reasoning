@@ -1,10 +1,10 @@
 #!/bin/bash
 #SBATCH --gres=gpu:1
-#SBATCH -p edu-medium
+#SBATCH -p edu-long
 #SBATCH -N 1
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=8
-#SBATCH -t 0-01:00
+#SBATCH -t 0-12:00
 
 module load CUDA/12.5.0
 
