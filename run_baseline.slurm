@@ -10,7 +10,7 @@ module load CUDA/12.5.0
 
 cd /home/samuele.angheben/vision-reasoning
 
-source /home/samuele.angheben/venv/bin/activate
+source /home/samuele.angheben/vr_env/bin/activate
 
 # only first time
 # pip install -r requirements.txt
