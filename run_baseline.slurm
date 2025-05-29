@@ -1,13 +1,10 @@
 #!/bin/bash
-#SBATCH -p short
-#SBATCH --gres=gpu:a100.40:1
-#SBATCH -n 4
-#SBATCH -c 3
+#SBATCH --gres=gpu:1
+#SBATCH -p edu-medium
 #SBATCH -N 1
-#SBATCH -t 0-0:15
-#SBATCH -J qwen_bird_baseline
-#SBATCH -o slurm-%j.out
-#SBATCH -e slurm-%j.err
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=8
+#SBATCH -t 0-01:00
 
 module load CUDA/12.5.0
 
@@ -19,4 +16,5 @@ source /home/samuele.angheben/venv/bin/activate
 # pip install -r requirements.txt
 
 python qwen_bird/baseline.py
+
 
