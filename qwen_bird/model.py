@@ -33,7 +33,7 @@ class QwenVLModel:
         )
         inputs = inputs.to("cuda")
         
-        generated_ids = self.model.generate(**inputs, max_new_tokens=1024)  # Increased from 128 to 512
+        generated_ids = self.model.generate(**inputs, max_new_tokens=1024)
         generated_ids_trimmed = [
             out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
         ]

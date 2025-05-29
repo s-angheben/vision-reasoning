@@ -75,17 +75,14 @@ CUB200Dataset = CUB200Dataset(split='test')
 
 model = QwenVLModel()
 prompt = f"Please identify the bird species in this image. Choose from the following list of bird species:\n\n{CUB200Dataset.prompt_class_list}\n\nProvide your answer as the species name."
-reasoning_prompt = f"""Please identify the bird species in this image. Choose from the following list of bird species:
+reasoning_prompt = f"""You are an expert ornithologist. Carefully analyze the visual features of the bird in the image (such as color, size, beak shape, markings, and other distinctive traits). 
+
+Step 1: Describe the key visual features you observe.
+Step 2: Based on these features, select the most likely species from the following list:
 
 {CUB200Dataset.prompt_class_list}
 
-Follow these steps:
-
-1. **Describe** the key visual features you observe in the bird (such as size, color patterns, beak shape, body proportions, etc.).
-2. **Compare** these features to the list of bird species provided. Think through which species the features most closely match.
-3. **Do not** state your final answer during your reasoning. Only write the species name in the final step.
-
-Finally, in a new line, provide the species name that best matches, and **only write the name inside <answer></answer> tags**.
+Step 3: Clearly state your final answer by writing only the species name inside <answer></answer> tags.
 
 Begin your reasoning below:
 """
