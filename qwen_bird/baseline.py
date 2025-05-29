@@ -73,11 +73,11 @@ import os
 import datetime
 
 # Create output directory if it doesn't exist
-os.makedirs("outputs", exist_ok=True)
+os.makedirs("/home/samuele.angheben/vision-reasoning/outputs", exist_ok=True)
 
 # Generate timestamp for filename
 timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-output_file = f"outputs/baseline_output_{timestamp}.txt"
+output_file = f"/home/samuele.angheben/vision-reasoning/outputs/baseline_output_{timestamp}.txt"
 
 with open(output_file, "w") as f:
     f.write(f"Bird Classification Results\n")
