@@ -22,7 +22,7 @@ def evaluate_dataset(dataset, dataset_name, output_file, prompt, model, class_na
     def extract_answer_from_tags(text):
         """Extract text between <answer></answer> tags"""
         match = re.search(r'<answer>(.*?)</answer>', text, re.DOTALL | re.IGNORECASE)
-        return match.group(1).strip() if match else text
+        return match.group(1).strip() if match else None
     
     def check_accuracy(ground_truth, prediction):
         """Check if prediction contains the ground truth with simple logic"""
@@ -43,11 +43,15 @@ def evaluate_dataset(dataset, dataset_name, output_file, prompt, model, class_na
             # Extract answer from tags if using reasoning prompt
             if is_reasoning:
                 prediction_for_check = extract_answer_from_tags(prediction)
+                # If no answer tags found, mark as incorrect
+                if prediction_for_check is None:
+                    is_correct = False
+                else:
+                    is_correct = check_accuracy(ground_truth, prediction_for_check)
             else:
                 prediction_for_check = prediction
+                is_correct = check_accuracy(ground_truth, prediction_for_check)
             
-            # Improved accuracy check
-            is_correct = check_accuracy(ground_truth, prediction_for_check)
             if is_correct:
                 correct += 1
             total += 1
