@@ -1,9 +1,8 @@
 #!/bin/bash
 #SBATCH -p short
-#SBATCH --gres=gpu:a100.40:1
-#SBATCH --ntasks=1
-#SBATCH --cpus-per-task=1
-#SBATCH --mem-per-cpu=4G
+#SBATCH --gres=gpu:1
+#SBATCH -n 4
+#SBATCH -c 3
 #SBATCH -N 1
 #SBATCH -t 0-0:10
 #SBATCH -J qwen_bird_baseline
