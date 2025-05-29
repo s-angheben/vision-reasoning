@@ -11,12 +11,12 @@
 
 module load CUDA/12.5.0
 
-# Change to project directory
 cd /home/samuele.angheben/vision-reasoning
 
 source /home/samuele.angheben/venv/bin/activate
 
-pip install -r requirements.txt
+# only first time
+# pip install -r requirements.txt
 
 python qwen_bird/baseline.py
 
