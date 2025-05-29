@@ -10,11 +10,11 @@ for class_name in class_names:
     class_names_dict[id] = class_name.split(".")[1].strip()
 
 # print(class_names_dict)
+print(class_names_dict)
 
 
-first_example = CUB_200_test[0]
+first_example = CUB_200_test[43]
 print(f"First example: {first_example}")
-
 
 import torch
 import torchvision
@@ -75,4 +75,28 @@ generated_ids_trimmed = [
 output_text = processor.batch_decode(
     generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False
 )
-print(output_text)
+
+# Write output to file
+import os
+import datetime
+
+# Create output directory if it doesn't exist
+os.makedirs("outputs", exist_ok=True)
+
+# Generate timestamp for filename
+timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+output_file = f"outputs/baseline_output_{timestamp}.txt"
+
+with open(output_file, "w") as f:
+    f.write(f"Bird Classification Results\n")
+    f.write(f"==========================\n\n")
+    f.write(f"Timestamp: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+    f.write(f"Model: Qwen2.5-VL-3B-Instruct\n")
+    f.write(f"Dataset: Caltech-UCSD Birds 200-2011 (test set)\n")
+    f.write(f"Test example index: 43\n\n")
+    f.write(f"Ground truth label: {first_example['label']}\n")
+    f.write(f"Ground truth class: {class_names_dict[str(first_example['label'] + 1).zfill(3)]}\n\n")
+    f.write(f"Model prediction:\n{output_text[0]}\n")
+
+print(f"Output written to: {output_file}")
+print(f"Model prediction: {output_text[0]}")

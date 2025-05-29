@@ -1,0 +1,19 @@
+# Core ML libraries
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.36.0
+
+# Dataset and data handling
+datasets>=2.14.0
+
+# Qwen VL utilities
+qwen-vl-utils>=0.0.1
+
+# Additional dependencies that may be needed
+pillow>=9.0.0
+numpy>=1.21.0
+accelerate>=0.20.0
+flash-attn>=2.0.0
+
+# Optional but recommended for better performance
+xformers>=0.0.20
