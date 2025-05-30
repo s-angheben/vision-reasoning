@@ -1,0 +1,16 @@
+Bird Classification Accuracy Summary
+========================================
+
+Date: 2025-05-29 22:23:50
+Model: Qwen2.5-VL-3B-Instruct
+Dataset: Caltech-UCSD Birds 200-2011 (test set)
+
+Original Dataset:
+  Correct: 1504/5794
+  Accuracy: 0.2596 (25.96%)
+
+Cropped Dataset:
+  Correct: 1546/5794
+  Accuracy: 0.2668 (26.68%)
+
+Improvement: 0.0072
