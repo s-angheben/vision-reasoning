@@ -10,7 +10,7 @@ from caltech101 import Caltech101
 DATASET_PATH = "/home/samuele.angheben/datasets"
 BASE_PATH = "/home/samuele.angheben/vision-reasoning/qwen_caltech_set"
 
-dataset = Caltech101(root=DATASET_PATH, download=True, transform=None)
+dataset = Caltech101(root=DATASET_PATH, download=True, split='test', transform=None)
 
 print("Loaded dataset with categories:", dataset.categories)
 
@@ -34,32 +34,30 @@ prompts = {
 }
 
 def normalize_text(text):
-    # Replace all non-alphanumeric characters with spaces, collapse multiple spaces, lowercase
-    text = re.sub(rf"[{re.escape(string.punctuation)}]", " ", text)
-    text = re.sub(r"\s+", " ", text)
-    return text.strip().lower()
+    """Normalize text by replacing punctuation with spaces and converting to lowercase"""
+    # Replace punctuation with spaces, then normalize multiple spaces to single spaces
+    text = re.sub(r'[^a-zA-Z\s]', ' ', text.lower())
+    return ' '.join(text.split())  # Remove extra whitespace
 
 def label_in_prediction(label, prediction):
-    label_norm = normalize_text(label)
-    pred_norm = normalize_text(prediction)
-    label_words = label_norm.split()
-    pred_words = pred_norm.split()
-    if not label_words:
-        return False
-    # For single-word label
+    """Check if prediction contains the label words with simple matching logic"""
+    normalized_label = normalize_text(label)
+    normalized_prediction = normalize_text(prediction)
+    
+    # Split into words for better word boundary matching
+    label_words = normalized_label.split()
+    pred_words = normalized_prediction.split()
+    
+    # For single word labels, check if that word exists in prediction
     if len(label_words) == 1:
         return label_words[0] in pred_words
-    # For multi-word label: check if all words appear in order
-    try:
-        idx = 0
-        for word in label_words:
-            idx = pred_words.index(word, idx) + 1
-        return True
-    except ValueError:
-        return False
+    
+    # For multi-word labels, check if all words exist in prediction
+    return all(word in pred_words for word in label_words)
+
 
 # Initial step: test all prompts on 4 random images and print predictions
-print("\n=== Initial prompt testing on 4 random images ===")
+""" print("\n=== Initial prompt testing on 4 random images ===")
 sample_indices = random.sample(range(len(dataset)), 4)
 for idx in sample_indices:
     image, label = dataset[idx]
@@ -75,7 +73,7 @@ for idx in sample_indices:
                 answer = ""
             print(f"[{prompt_name}] Reasoning prediction: {prediction} | Extracted answer: '{answer}'")
         else:
-            print(f"[{prompt_name}] Prediction: {prediction}")
+            print(f"[{prompt_name}] Prediction: {prediction}") """
 
 
 os.makedirs(f"{BASE_PATH}/outputs", exist_ok=True)
@@ -94,7 +92,6 @@ for prompt_name, (prompt_text, is_reasoning) in prompts.items():
     with open(output_file, "w") as f:
         for idx, (image, label) in enumerate(dataset):
             prediction = model.predict(image, prompt_text)
-            print(f"[{prompt_name}] Example {idx}: label={dataset.categories[label]}, prediction={prediction}")
             if is_reasoning:
                 # Extract content inside <answer>...</answer>
                 match = re.search(r"<answer>(.*?)</answer>", prediction, re.DOTALL)
@@ -112,8 +109,14 @@ for prompt_name, (prompt_text, is_reasoning) in prompts.items():
 
             # Accuracy calculation
             total += 1
-            if label_in_prediction(ground_truth, prediction):
+            is_correct = label_in_prediction(ground_truth, prediction)
+            if is_correct:
                 correct += 1
+            
+            # Print with correctness indicator
+            status = "✓ CORRECT" if is_correct else "✗ WRONG"
+            print(f"[{prompt_name}] Example {idx}: label={dataset.categories[label]}, prediction={prediction} [{status}]")
+
 
         # Convert sets to lists for JSON serialization
         serializable_outputs = {cat: list(outputs) for cat, outputs in category_outputs.items()}
