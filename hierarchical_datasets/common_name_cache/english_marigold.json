@@ -1,0 +1,15 @@
+{
+  "scientific_name": "english marigold",
+  "common_hierarchy": [
+    "Plant",
+    "Flowering Plant",
+    "Unknown Family",
+    "English Marigold"
+  ],
+  "scientific_hierarchy": [
+    "Kingdom: Plantae",
+    "Class: Unknown",
+    "Species: english marigold"
+  ],
+  "source": "Fallback"
+}

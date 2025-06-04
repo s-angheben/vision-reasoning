@@ -1,0 +1,2568 @@
+['Faces', 'Faces_easy', 'Leopards', 'Motorbikes', 'accordion', 'airplanes', 'anchor', 'ant', 'barrel', 'bass', 'beaver', 'binocular', 'bonsai', 'brain', 'brontosaurus', 'buddha', 'butterfly', 'camera', 'cannon', 'car_side', 'ceiling_fan', 'cellphone', 'chair', 'chandelier', 'cougar_body', 'cougar_face', 'crab', 'crayfish', 'crocodile', 'crocodile_head', 'cup', 'dalmatian', 'dollar_bill', 'dolphin', 'dragonfly', 'electric_guitar', 'elephant', 'emu', 'euphonium', 'ewer', 'ferry', 'flamingo', 'flamingo_head', 'garfield', 'gerenuk', 'gramophone', 'grand_piano', 'hawksbill', 'headphone', 'hedgehog', 'helicopter', 'ibis', 'inline_skate', 'joshua_tree', 'kangaroo', 'ketch', 'lamp', 'laptop', 'llama', 'lobster', 'lotus', 'mandolin', 'mayfly', 'menorah', 'metronome', 'minaret', 'nautilus', 'octopus', 'okapi', 'pagoda', 'panda', 'pigeon', 'pizza', 'platypus', 'pyramid', 'revolver', 'rhino', 'rooster', 'saxophone', 'schooner', 'scissors', 'scorpion', 'sea_horse', 'snoopy', 'soccer_ball', 'stapler', 'starfish', 'stegosaurus', 'stop_sign', 'strawberry', 'sunflower', 'tick', 'trilobite', 'umbrella', 'watch', 'water_lilly', 'wheelchair', 'wild_cat', 'windsor_chair', 'wrench', 'yin_yang']
+8677
+Label: Faces
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: thing (depth: 2, hyponyms: 2354)
+    Synonyms: thing
+  Level 3: part (depth: 3, hyponyms: 1837)
+    Synonyms: piece, part
+  Level 4: body part (depth: 4, hyponyms: 1791)
+    Synonyms: body part
+  Level 5: external body part (depth: 5, hyponyms: 98)
+    Synonyms: external body part
+  Level 6: face (depth: 6, hyponyms: 2)
+    Synonyms: face, human face
+
+
+Label: Faces_easy
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: thing (depth: 2, hyponyms: 2354)
+    Synonyms: thing
+  Level 3: part (depth: 3, hyponyms: 1837)
+    Synonyms: piece, part
+  Level 4: body part (depth: 4, hyponyms: 1791)
+    Synonyms: body part
+  Level 5: external body part (depth: 5, hyponyms: 98)
+    Synonyms: external body part
+  Level 6: face (depth: 6, hyponyms: 2)
+    Synonyms: face, human face
+
+
+Label: Leopards
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: relation (depth: 2, hyponyms: 5144)
+    Synonyms: relation
+  Level 3: part (depth: 3, hyponyms: 3779)
+    Synonyms: component, component part, part, portion, constituent
+  Level 4: substance (depth: 4, hyponyms: 3491)
+    Synonyms: substance
+  Level 5: material (depth: 5, hyponyms: 2544)
+    Synonyms: material, stuff
+  Level 6: animal material (depth: 6, hyponyms: 150)
+    Synonyms: animal material
+  Level 7: animal product (depth: 7, hyponyms: 88)
+    Synonyms: animal product
+  Level 8: animal skin (depth: 8, hyponyms: 63)
+    Synonyms: animal skin
+  Level 9: fur (depth: 9, hyponyms: 19)
+    Synonyms: fur, pelt
+  Level 10: leopard (depth: 10, hyponyms: 0)
+    Synonyms: leopard
+
+
+Label: Motorbikes
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: conveyance (depth: 6, hyponyms: 566)
+    Synonyms: conveyance, transport
+  Level 7: vehicle (depth: 7, hyponyms: 519)
+    Synonyms: vehicle
+  Level 8: wheeled vehicle (depth: 8, hyponyms: 229)
+    Synonyms: wheeled vehicle
+  Level 9: self-propelled vehicle (depth: 9, hyponyms: 120)
+    Synonyms: self-propelled vehicle
+  Level 10: motor vehicle (depth: 10, hyponyms: 77)
+    Synonyms: automotive vehicle, motor vehicle
+  Level 11: motorcycle (depth: 11, hyponyms: 3)
+    Synonyms: motorcycle, bike
+  Level 12: minibike (depth: 12, hyponyms: 1)
+    Synonyms: motorbike, minibike
+
+
+Label: accordion
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: device (depth: 6, hyponyms: 2760)
+    Synonyms: device
+  Level 7: musical instrument (depth: 7, hyponyms: 163)
+    Synonyms: instrument, musical instrument
+  Level 8: keyboard instrument (depth: 8, hyponyms: 16)
+    Synonyms: keyboard instrument
+  Level 9: accordion (depth: 9, hyponyms: 0)
+    Synonyms: piano accordion, squeeze box, accordion
+
+
+Label: airplanes
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: conveyance (depth: 6, hyponyms: 566)
+    Synonyms: conveyance, transport
+  Level 7: vehicle (depth: 7, hyponyms: 519)
+    Synonyms: vehicle
+  Level 8: craft (depth: 8, hyponyms: 250)
+    Synonyms: craft
+  Level 9: aircraft (depth: 9, hyponyms: 58)
+    Synonyms: aircraft
+  Level 10: heavier-than-air craft (depth: 10, hyponyms: 44)
+    Synonyms: heavier-than-air craft
+  Level 11: airplane (depth: 11, hyponyms: 32)
+    Synonyms: airplane, aeroplane, plane
+
+
+Label: anchor
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: device (depth: 6, hyponyms: 2760)
+    Synonyms: device
+  Level 7: mechanism (depth: 7, hyponyms: 319)
+    Synonyms: mechanism
+  Level 8: mechanical device (depth: 8, hyponyms: 176)
+    Synonyms: mechanical device
+  Level 9: hook (depth: 9, hyponyms: 8)
+    Synonyms: hook, claw
+  Level 10: anchor (depth: 10, hyponyms: 4)
+    Synonyms: anchor, ground tackle
+
+
+Label: ant
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: invertebrate (depth: 7, hyponyms: 766)
+    Synonyms: invertebrate
+  Level 8: arthropod (depth: 8, hyponyms: 579)
+    Synonyms: arthropod
+  Level 9: insect (depth: 9, hyponyms: 454)
+    Synonyms: insect
+  Level 10: hymenopterous insect (depth: 10, hyponyms: 52)
+    Synonyms: hymenopterous insect, hymenopter, hymenopteran, hymenopteron
+  Level 11: ant (depth: 11, hyponyms: 12)
+    Synonyms: ant, pismire, emmet
+
+
+Label: barrel
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: way (depth: 5, hyponyms: 268)
+    Synonyms: way
+  Level 6: passage (depth: 6, hyponyms: 134)
+    Synonyms: passage
+  Level 7: conduit (depth: 7, hyponyms: 92)
+    Synonyms: conduit
+  Level 8: tube (depth: 8, hyponyms: 72)
+    Synonyms: tube, tubing
+  Level 9: barrel (depth: 9, hyponyms: 0)
+    Synonyms: gun barrel, barrel
+
+
+Label: bass
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: attribute (depth: 2, hyponyms: 7260)
+    Synonyms: attribute
+  Level 3: property (depth: 3, hyponyms: 1079)
+    Synonyms: property
+  Level 4: sound property (depth: 4, hyponyms: 60)
+    Synonyms: sound property
+  Level 5: pitch (depth: 5, hyponyms: 12)
+    Synonyms: pitch
+  Level 6: bass (depth: 6, hyponyms: 0)
+    Synonyms: bass
+
+
+Label: beaver
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: relation (depth: 2, hyponyms: 5144)
+    Synonyms: relation
+  Level 3: part (depth: 3, hyponyms: 3779)
+    Synonyms: component, component part, part, portion, constituent
+  Level 4: substance (depth: 4, hyponyms: 3491)
+    Synonyms: substance
+  Level 5: material (depth: 5, hyponyms: 2544)
+    Synonyms: material, stuff
+  Level 6: animal material (depth: 6, hyponyms: 150)
+    Synonyms: animal material
+  Level 7: animal product (depth: 7, hyponyms: 88)
+    Synonyms: animal product
+  Level 8: animal skin (depth: 8, hyponyms: 63)
+    Synonyms: animal skin
+  Level 9: fur (depth: 9, hyponyms: 19)
+    Synonyms: fur, pelt
+  Level 10: beaver (depth: 10, hyponyms: 0)
+    Synonyms: beaver fur, beaver
+
+
+Label: binocular
+WordNet hierarchy (specific to general):
+  Level 0: binocular (depth: 0, hyponyms: 0)
+    Synonyms: binocular
+
+
+Label: bonsai
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: plant (depth: 6, hyponyms: 4486)
+    Synonyms: plant, plant life, flora
+  Level 7: vascular plant (depth: 7, hyponyms: 4390)
+    Synonyms: tracheophyte, vascular plant
+  Level 8: woody plant (depth: 8, hyponyms: 1868)
+    Synonyms: woody plant, ligneous plant
+  Level 9: tree (depth: 9, hyponyms: 1013)
+    Synonyms: tree
+  Level 10: bonsai (depth: 10, hyponyms: 2)
+    Synonyms: bonsai
+
+
+Label: brain
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: thing (depth: 2, hyponyms: 2354)
+    Synonyms: thing
+  Level 3: part (depth: 3, hyponyms: 1837)
+    Synonyms: piece, part
+  Level 4: body part (depth: 4, hyponyms: 1791)
+    Synonyms: body part
+  Level 5: structure (depth: 5, hyponyms: 791)
+    Synonyms: anatomical structure, body structure, bodily structure, structure, complex body part
+  Level 6: neural structure (depth: 6, hyponyms: 62)
+    Synonyms: neural structure
+  Level 7: brain (depth: 7, hyponyms: 0)
+    Synonyms: brain, encephalon
+
+
+Label: brontosaurus
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: reptile (depth: 9, hyponyms: 296)
+    Synonyms: reptilian, reptile
+  Level 10: diapsid (depth: 10, hyponyms: 252)
+    Synonyms: diapsid, diapsid reptile
+  Level 11: archosaur (depth: 11, hyponyms: 59)
+    Synonyms: archosaurian reptile, archosaur, archosaurian
+  Level 12: dinosaur (depth: 12, hyponyms: 50)
+    Synonyms: dinosaur
+  Level 13: saurischian (depth: 13, hyponyms: 23)
+    Synonyms: saurischian dinosaur, saurischian
+  Level 14: sauropod (depth: 14, hyponyms: 2)
+    Synonyms: sauropod dinosaur, sauropod
+  Level 15: apatosaur (depth: 15, hyponyms: 0)
+    Synonyms: brontosaurus, thunder lizard, apatosaur, apatosaurus, Apatosaurus excelsus, brontosaur
+
+
+Label: buddha
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: causal agent (depth: 2, hyponyms: 8141)
+    Synonyms: cause, causal agent, causal agency
+  Level 3: person (depth: 3, hyponyms: 6978)
+    Synonyms: someone, soul, person, individual, mortal, somebody
+  Level 4: religious person (depth: 4, hyponyms: 157)
+    Synonyms: religious person
+  Level 5: believer (depth: 5, hyponyms: 13)
+    Synonyms: worshipper, believer, worshiper
+  Level 6: mystic (depth: 6, hyponyms: 1)
+    Synonyms: religious mystic, mystic
+  Level 7: buddha (depth: 7, hyponyms: 0)
+    Synonyms: Gautama Buddha, Gautama Siddhartha, Buddha, Siddhartha, Gautama
+
+
+Label: butterfly
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: invertebrate (depth: 7, hyponyms: 766)
+    Synonyms: invertebrate
+  Level 8: arthropod (depth: 8, hyponyms: 579)
+    Synonyms: arthropod
+  Level 9: insect (depth: 9, hyponyms: 454)
+    Synonyms: insect
+  Level 10: lepidopterous insect (depth: 10, hyponyms: 103)
+    Synonyms: lepidopteron, lepidopterous insect, lepidopteran
+  Level 11: butterfly (depth: 11, hyponyms: 32)
+    Synonyms: butterfly
+
+
+Label: camera
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: equipment (depth: 6, hyponyms: 479)
+    Synonyms: equipment
+  Level 7: photographic equipment (depth: 7, hyponyms: 38)
+    Synonyms: photographic equipment
+  Level 8: camera (depth: 8, hyponyms: 11)
+    Synonyms: photographic camera, camera
+
+
+Label: cannon
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: weaponry (depth: 6, hyponyms: 85)
+    Synonyms: implements of war, munition, weapons system, weaponry, arms
+  Level 7: armament (depth: 7, hyponyms: 20)
+    Synonyms: armament
+  Level 8: artillery (depth: 8, hyponyms: 9)
+    Synonyms: heavy weapon, artillery, gun, ordnance
+  Level 9: cannon (depth: 9, hyponyms: 6)
+    Synonyms: cannon
+
+
+Label: car_side
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: conveyance (depth: 6, hyponyms: 566)
+    Synonyms: conveyance, transport
+  Level 7: vehicle (depth: 7, hyponyms: 519)
+    Synonyms: vehicle
+  Level 8: wheeled vehicle (depth: 8, hyponyms: 229)
+    Synonyms: wheeled vehicle
+  Level 9: self-propelled vehicle (depth: 9, hyponyms: 120)
+    Synonyms: self-propelled vehicle
+  Level 10: motor vehicle (depth: 10, hyponyms: 77)
+    Synonyms: automotive vehicle, motor vehicle
+  Level 11: car (depth: 11, hyponyms: 40)
+    Synonyms: auto, motorcar, car, automobile, machine
+
+
+Label: ceiling_fan
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: surface (depth: 5, hyponyms: 160)
+    Synonyms: surface
+  Level 6: side (depth: 6, hyponyms: 47)
+    Synonyms: side
+  Level 7: upper surface (depth: 7, hyponyms: 2)
+    Synonyms: upper surface
+  Level 8: ceiling (depth: 8, hyponyms: 1)
+    Synonyms: ceiling
+
+
+Label: cellphone
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: equipment (depth: 6, hyponyms: 479)
+    Synonyms: equipment
+  Level 7: electronic equipment (depth: 7, hyponyms: 84)
+    Synonyms: electronic equipment
+  Level 8: telephone (depth: 8, hyponyms: 8)
+    Synonyms: telephone set, telephone, phone
+  Level 9: radiotelephone (depth: 9, hyponyms: 1)
+    Synonyms: radiotelephone, wireless telephone, radiophone
+  Level 10: cellular telephone (depth: 10, hyponyms: 0)
+    Synonyms: cell, mobile phone, cellular telephone, cellphone, cellular phone
+
+
+Label: chair
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: furnishing (depth: 6, hyponyms: 222)
+    Synonyms: furnishing
+  Level 7: furniture (depth: 7, hyponyms: 196)
+    Synonyms: article of furniture, furniture, piece of furniture
+  Level 8: seat (depth: 8, hyponyms: 68)
+    Synonyms: seat
+  Level 9: chair (depth: 9, hyponyms: 35)
+    Synonyms: chair
+
+
+Label: chandelier
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: fixture (depth: 5, hyponyms: 18)
+    Synonyms: fixture
+  Level 6: lighting fixture (depth: 6, hyponyms: 3)
+    Synonyms: lighting fixture
+  Level 7: chandelier (depth: 7, hyponyms: 0)
+    Synonyms: chandelier, pendant, pendent
+
+
+Label: cougar_body
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: mammal (depth: 9, hyponyms: 1169)
+    Synonyms: mammalian, mammal
+  Level 10: placental (depth: 10, hyponyms: 1119)
+    Synonyms: placental mammal, eutherian mammal, eutherian, placental
+  Level 11: carnivore (depth: 11, hyponyms: 365)
+    Synonyms: carnivore
+  Level 12: feline (depth: 12, hyponyms: 59)
+    Synonyms: feline, felid
+  Level 13: cat (depth: 13, hyponyms: 38)
+    Synonyms: cat, true cat
+  Level 14: wildcat (depth: 14, hyponyms: 18)
+    Synonyms: wildcat
+  Level 15: cougar (depth: 15, hyponyms: 0)
+    Synonyms: catamount, puma, painter, panther, Felis concolor, cougar, mountain lion
+
+
+Label: cougar_face
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: mammal (depth: 9, hyponyms: 1169)
+    Synonyms: mammalian, mammal
+  Level 10: placental (depth: 10, hyponyms: 1119)
+    Synonyms: placental mammal, eutherian mammal, eutherian, placental
+  Level 11: carnivore (depth: 11, hyponyms: 365)
+    Synonyms: carnivore
+  Level 12: feline (depth: 12, hyponyms: 59)
+    Synonyms: feline, felid
+  Level 13: cat (depth: 13, hyponyms: 38)
+    Synonyms: cat, true cat
+  Level 14: wildcat (depth: 14, hyponyms: 18)
+    Synonyms: wildcat
+  Level 15: cougar (depth: 15, hyponyms: 0)
+    Synonyms: catamount, puma, painter, panther, Felis concolor, cougar, mountain lion
+
+
+Label: crab
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: invertebrate (depth: 7, hyponyms: 766)
+    Synonyms: invertebrate
+  Level 8: arthropod (depth: 8, hyponyms: 579)
+    Synonyms: arthropod
+  Level 9: crustacean (depth: 9, hyponyms: 65)
+    Synonyms: crustacean
+  Level 10: decapod crustacean (depth: 10, hyponyms: 34)
+    Synonyms: decapod crustacean, decapod
+  Level 11: crab (depth: 11, hyponyms: 17)
+    Synonyms: crab
+
+
+Label: crayfish
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: matter (depth: 2, hyponyms: 6575)
+    Synonyms: matter
+  Level 3: solid (depth: 3, hyponyms: 1231)
+    Synonyms: solid
+  Level 4: food (depth: 4, hyponyms: 1120)
+    Synonyms: food, solid food
+  Level 5: seafood (depth: 5, hyponyms: 120)
+    Synonyms: seafood
+  Level 6: shellfish (depth: 6, hyponyms: 29)
+    Synonyms: shellfish
+  Level 7: spiny lobster (depth: 7, hyponyms: 0)
+    Synonyms: rock lobster, spiny lobster, crayfish, langouste
+
+
+Label: crocodile
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: reptile (depth: 9, hyponyms: 296)
+    Synonyms: reptilian, reptile
+  Level 10: diapsid (depth: 10, hyponyms: 252)
+    Synonyms: diapsid, diapsid reptile
+  Level 11: crocodilian reptile (depth: 11, hyponyms: 11)
+    Synonyms: crocodilian reptile, crocodilian
+  Level 12: crocodile (depth: 12, hyponyms: 3)
+    Synonyms: crocodile
+
+
+Label: crocodile_head
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: reptile (depth: 9, hyponyms: 296)
+    Synonyms: reptilian, reptile
+  Level 10: diapsid (depth: 10, hyponyms: 252)
+    Synonyms: diapsid, diapsid reptile
+  Level 11: crocodilian reptile (depth: 11, hyponyms: 11)
+    Synonyms: crocodilian reptile, crocodilian
+  Level 12: crocodile (depth: 12, hyponyms: 3)
+    Synonyms: crocodile
+
+
+Label: cup
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: article (depth: 5, hyponyms: 98)
+    Synonyms: article
+  Level 6: ware (depth: 6, hyponyms: 92)
+    Synonyms: ware
+  Level 7: tableware (depth: 7, hyponyms: 86)
+    Synonyms: tableware
+  Level 8: crockery (depth: 8, hyponyms: 37)
+    Synonyms: dishware, crockery
+  Level 9: cup (depth: 9, hyponyms: 10)
+    Synonyms: cup
+
+
+Label: dalmatian
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: causal agent (depth: 2, hyponyms: 8141)
+    Synonyms: cause, causal agent, causal agency
+  Level 3: person (depth: 3, hyponyms: 6978)
+    Synonyms: someone, soul, person, individual, mortal, somebody
+  Level 4: inhabitant (depth: 4, hyponyms: 485)
+    Synonyms: habitant, inhabitant, denizen, dweller, indweller
+  Level 5: european (depth: 5, hyponyms: 170)
+    Synonyms: European
+  Level 6: dalmatian (depth: 6, hyponyms: 0)
+    Synonyms: Dalmatian
+
+
+Label: dollar_bill
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: measure (depth: 2, hyponyms: 2307)
+    Synonyms: amount, quantity, measure
+  Level 3: definite quantity (depth: 3, hyponyms: 1093)
+    Synonyms: definite quantity
+  Level 4: unit of measurement (depth: 4, hyponyms: 825)
+    Synonyms: unit, unit of measurement
+  Level 5: monetary unit (depth: 5, hyponyms: 389)
+    Synonyms: monetary unit
+  Level 6: dollar (depth: 6, hyponyms: 24)
+    Synonyms: dollar
+
+
+Label: dolphin
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: aquatic vertebrate (depth: 9, hyponyms: 632)
+    Synonyms: aquatic vertebrate
+  Level 10: fish (depth: 10, hyponyms: 617)
+    Synonyms: fish
+  Level 11: bony fish (depth: 11, hyponyms: 535)
+    Synonyms: bony fish
+  Level 12: teleost fish (depth: 12, hyponyms: 530)
+    Synonyms: teleost, teleostan, teleost fish
+  Level 13: spiny-finned fish (depth: 13, hyponyms: 365)
+    Synonyms: spiny-finned fish, acanthopterygian
+  Level 14: percoid fish (depth: 14, hyponyms: 259)
+    Synonyms: percoid fish, percoidean, percoid
+  Level 15: dolphinfish (depth: 15, hyponyms: 2)
+    Synonyms: mahimahi, dolphinfish, dolphin
+
+
+Label: dragonfly
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: invertebrate (depth: 7, hyponyms: 766)
+    Synonyms: invertebrate
+  Level 8: arthropod (depth: 8, hyponyms: 579)
+    Synonyms: arthropod
+  Level 9: insect (depth: 9, hyponyms: 454)
+    Synonyms: insect
+  Level 10: odonate (depth: 10, hyponyms: 2)
+    Synonyms: odonate
+  Level 11: dragonfly (depth: 11, hyponyms: 0)
+    Synonyms: darning needle, mosquito hawk, snake doctor, sewing needle, skeeter hawk, snake feeder, dragonfly, devil's darning needle
+
+
+Label: electric_guitar
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: conveyance (depth: 6, hyponyms: 566)
+    Synonyms: conveyance, transport
+  Level 7: vehicle (depth: 7, hyponyms: 519)
+    Synonyms: vehicle
+  Level 8: wheeled vehicle (depth: 8, hyponyms: 229)
+    Synonyms: wheeled vehicle
+  Level 9: self-propelled vehicle (depth: 9, hyponyms: 120)
+    Synonyms: self-propelled vehicle
+  Level 10: motor vehicle (depth: 10, hyponyms: 77)
+    Synonyms: automotive vehicle, motor vehicle
+  Level 11: car (depth: 11, hyponyms: 40)
+    Synonyms: auto, motorcar, car, automobile, machine
+  Level 12: electric (depth: 12, hyponyms: 0)
+    Synonyms: electric car, electric, electric automobile
+
+
+Label: elephant
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: mammal (depth: 9, hyponyms: 1169)
+    Synonyms: mammalian, mammal
+  Level 10: placental (depth: 10, hyponyms: 1119)
+    Synonyms: placental mammal, eutherian mammal, eutherian, placental
+  Level 11: pachyderm (depth: 11, hyponyms: 10)
+    Synonyms: pachyderm
+  Level 12: elephant (depth: 12, hyponyms: 9)
+    Synonyms: elephant
+
+
+Label: emu
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: measure (depth: 2, hyponyms: 2307)
+    Synonyms: amount, quantity, measure
+  Level 3: definite quantity (depth: 3, hyponyms: 1093)
+    Synonyms: definite quantity
+  Level 4: unit of measurement (depth: 4, hyponyms: 825)
+    Synonyms: unit, unit of measurement
+  Level 5: electromagnetic unit (depth: 5, hyponyms: 80)
+    Synonyms: electromagnetic unit, emu
+
+
+Label: euphonium
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: device (depth: 6, hyponyms: 2760)
+    Synonyms: device
+  Level 7: musical instrument (depth: 7, hyponyms: 163)
+    Synonyms: instrument, musical instrument
+  Level 8: wind instrument (depth: 8, hyponyms: 75)
+    Synonyms: wind, wind instrument
+  Level 9: brass (depth: 9, hyponyms: 13)
+    Synonyms: brass instrument, brass
+  Level 10: bass horn (depth: 10, hyponyms: 2)
+    Synonyms: tuba, bass horn, sousaphone
+  Level 11: euphonium (depth: 11, hyponyms: 0)
+    Synonyms: euphonium
+
+
+Label: ewer
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: container (depth: 6, hyponyms: 744)
+    Synonyms: container
+  Level 7: vessel (depth: 7, hyponyms: 159)
+    Synonyms: vessel
+  Level 8: pitcher (depth: 8, hyponyms: 1)
+    Synonyms: pitcher, ewer
+
+
+Label: ferry
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: conveyance (depth: 6, hyponyms: 566)
+    Synonyms: conveyance, transport
+  Level 7: vehicle (depth: 7, hyponyms: 519)
+    Synonyms: vehicle
+  Level 8: craft (depth: 8, hyponyms: 250)
+    Synonyms: craft
+  Level 9: vessel (depth: 9, hyponyms: 182)
+    Synonyms: vessel, watercraft
+  Level 10: boat (depth: 10, hyponyms: 63)
+    Synonyms: boat
+  Level 11: ferry (depth: 11, hyponyms: 1)
+    Synonyms: ferryboat, ferry
+
+
+Label: flamingo
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: bird (depth: 9, hyponyms: 871)
+    Synonyms: bird
+  Level 10: aquatic bird (depth: 10, hyponyms: 280)
+    Synonyms: aquatic bird
+  Level 11: wading bird (depth: 11, hyponyms: 125)
+    Synonyms: wading bird, wader
+  Level 12: flamingo (depth: 12, hyponyms: 0)
+    Synonyms: flamingo
+
+
+Label: flamingo_head
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: bird (depth: 9, hyponyms: 871)
+    Synonyms: bird
+  Level 10: aquatic bird (depth: 10, hyponyms: 280)
+    Synonyms: aquatic bird
+  Level 11: wading bird (depth: 11, hyponyms: 125)
+    Synonyms: wading bird, wader
+  Level 12: flamingo (depth: 12, hyponyms: 0)
+    Synonyms: flamingo
+
+
+Label: garfield
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: causal agent (depth: 2, hyponyms: 8141)
+    Synonyms: cause, causal agent, causal agency
+  Level 3: person (depth: 3, hyponyms: 6978)
+    Synonyms: someone, soul, person, individual, mortal, somebody
+  Level 4: communicator (depth: 4, hyponyms: 313)
+    Synonyms: communicator
+  Level 5: negotiator (depth: 5, hyponyms: 105)
+    Synonyms: negotiant, negotiator, treater
+  Level 6: representative (depth: 6, hyponyms: 85)
+    Synonyms: representative
+  Level 7: head of state (depth: 7, hyponyms: 23)
+    Synonyms: chief of state, head of state
+  Level 8: president of the united states (depth: 8, hyponyms: 0)
+    Synonyms: United States President, President, President of the United States, Chief Executive
+  Level 9: garfield (depth: 9, hyponyms: 0)
+    Synonyms: Garfield, James Abraham Garfield, James Garfield, President Garfield, James A. Garfield
+
+
+Label: gerenuk
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: mammal (depth: 9, hyponyms: 1169)
+    Synonyms: mammalian, mammal
+  Level 10: placental (depth: 10, hyponyms: 1119)
+    Synonyms: placental mammal, eutherian mammal, eutherian, placental
+  Level 11: ungulate (depth: 11, hyponyms: 303)
+    Synonyms: hoofed mammal, ungulate
+  Level 12: even-toed ungulate (depth: 12, hyponyms: 184)
+    Synonyms: artiodactyl, even-toed ungulate, artiodactyl mammal
+  Level 13: ruminant (depth: 13, hyponyms: 161)
+    Synonyms: ruminant
+  Level 14: bovid (depth: 14, hyponyms: 128)
+    Synonyms: bovid
+  Level 15: antelope (depth: 15, hyponyms: 33)
+    Synonyms: antelope
+  Level 16: gerenuk (depth: 16, hyponyms: 0)
+    Synonyms: Litocranius walleri, gerenuk
+
+
+Label: gramophone
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: device (depth: 6, hyponyms: 2760)
+    Synonyms: device
+  Level 7: machine (depth: 7, hyponyms: 255)
+    Synonyms: machine
+  Level 8: record player (depth: 8, hyponyms: 3)
+    Synonyms: record player, phonograph
+  Level 9: gramophone (depth: 9, hyponyms: 1)
+    Synonyms: gramophone, acoustic gramophone
+
+
+Label: grand_piano
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: measure (depth: 2, hyponyms: 2307)
+    Synonyms: amount, quantity, measure
+  Level 3: definite quantity (depth: 3, hyponyms: 1093)
+    Synonyms: definite quantity
+  Level 4: number (depth: 4, hyponyms: 257)
+    Synonyms: number
+  Level 5: integer (depth: 5, hyponyms: 87)
+    Synonyms: whole number, integer
+  Level 6: large integer (depth: 6, hyponyms: 53)
+    Synonyms: large integer
+  Level 7: thousand (depth: 7, hyponyms: 1)
+    Synonyms: yard, M, K, thousand, grand, 1000, G, thou, one thousand, chiliad
+
+
+Label: hawksbill
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: reptile (depth: 9, hyponyms: 296)
+    Synonyms: reptilian, reptile
+  Level 10: anapsid (depth: 10, hyponyms: 32)
+    Synonyms: anapsid reptile, anapsid
+  Level 11: chelonian (depth: 11, hyponyms: 31)
+    Synonyms: chelonian, chelonian reptile
+  Level 12: turtle (depth: 12, hyponyms: 30)
+    Synonyms: turtle
+  Level 13: sea turtle (depth: 13, hyponyms: 7)
+    Synonyms: sea turtle, marine turtle
+  Level 14: hawksbill turtle (depth: 14, hyponyms: 0)
+    Synonyms: hawksbill, Eretmochelys imbricata, hawksbill turtle, hawkbill, tortoiseshell turtle
+
+
+Label: headphone
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: device (depth: 6, hyponyms: 2760)
+    Synonyms: device
+  Level 7: electrical device (depth: 7, hyponyms: 172)
+    Synonyms: electrical device
+  Level 8: transducer (depth: 8, hyponyms: 24)
+    Synonyms: transducer
+  Level 9: electro-acoustic transducer (depth: 9, hyponyms: 20)
+    Synonyms: electro-acoustic transducer
+  Level 10: earphone (depth: 10, hyponyms: 3)
+    Synonyms: earphone, earpiece, headphone, phone
+
+
+Label: hedgehog
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: mammal (depth: 9, hyponyms: 1169)
+    Synonyms: mammalian, mammal
+  Level 10: placental (depth: 10, hyponyms: 1119)
+    Synonyms: placental mammal, eutherian mammal, eutherian, placental
+  Level 11: rodent (depth: 11, hyponyms: 138)
+    Synonyms: gnawer, rodent
+  Level 12: porcupine (depth: 12, hyponyms: 5)
+    Synonyms: porcupine, hedgehog
+
+
+Label: helicopter
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: conveyance (depth: 6, hyponyms: 566)
+    Synonyms: conveyance, transport
+  Level 7: vehicle (depth: 7, hyponyms: 519)
+    Synonyms: vehicle
+  Level 8: craft (depth: 8, hyponyms: 250)
+    Synonyms: craft
+  Level 9: aircraft (depth: 9, hyponyms: 58)
+    Synonyms: aircraft
+  Level 10: heavier-than-air craft (depth: 10, hyponyms: 44)
+    Synonyms: heavier-than-air craft
+  Level 11: helicopter (depth: 11, hyponyms: 4)
+    Synonyms: helicopter, whirlybird, chopper, eggbeater
+
+
+Label: ibis
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: bird (depth: 9, hyponyms: 871)
+    Synonyms: bird
+  Level 10: aquatic bird (depth: 10, hyponyms: 280)
+    Synonyms: aquatic bird
+  Level 11: wading bird (depth: 11, hyponyms: 125)
+    Synonyms: wading bird, wader
+  Level 12: ibis (depth: 12, hyponyms: 2)
+    Synonyms: ibis
+
+
+Label: inline_skate
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: equipment (depth: 6, hyponyms: 479)
+    Synonyms: equipment
+  Level 7: sports equipment (depth: 7, hyponyms: 99)
+    Synonyms: sports equipment
+  Level 8: skate (depth: 8, hyponyms: 8)
+    Synonyms: skate
+
+
+Label: joshua_tree
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: causal agent (depth: 2, hyponyms: 8141)
+    Synonyms: cause, causal agent, causal agency
+  Level 3: person (depth: 3, hyponyms: 6978)
+    Synonyms: someone, soul, person, individual, mortal, somebody
+  Level 4: leader (depth: 4, hyponyms: 418)
+    Synonyms: leader
+  Level 5: religious leader (depth: 5, hyponyms: 3)
+    Synonyms: religious leader
+  Level 6: joshua (depth: 6, hyponyms: 0)
+    Synonyms: Joshua
+
+
+Label: kangaroo
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: mammal (depth: 9, hyponyms: 1169)
+    Synonyms: mammalian, mammal
+  Level 10: metatherian (depth: 10, hyponyms: 37)
+    Synonyms: metatherian
+  Level 11: marsupial (depth: 11, hyponyms: 36)
+    Synonyms: pouched mammal, marsupial
+  Level 12: kangaroo (depth: 12, hyponyms: 13)
+    Synonyms: kangaroo
+
+
+Label: ketch
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: conveyance (depth: 6, hyponyms: 566)
+    Synonyms: conveyance, transport
+  Level 7: vehicle (depth: 7, hyponyms: 519)
+    Synonyms: vehicle
+  Level 8: craft (depth: 8, hyponyms: 250)
+    Synonyms: craft
+  Level 9: vessel (depth: 9, hyponyms: 182)
+    Synonyms: vessel, watercraft
+  Level 10: sailing vessel (depth: 10, hyponyms: 27)
+    Synonyms: sailing vessel, sailing ship
+  Level 11: ketch (depth: 11, hyponyms: 0)
+    Synonyms: ketch
+
+
+Label: lamp
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: device (depth: 6, hyponyms: 2760)
+    Synonyms: device
+  Level 7: source of illumination (depth: 7, hyponyms: 59)
+    Synonyms: source of illumination
+  Level 8: lamp (depth: 8, hyponyms: 33)
+    Synonyms: lamp
+
+
+Label: laptop
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: device (depth: 6, hyponyms: 2760)
+    Synonyms: device
+  Level 7: machine (depth: 7, hyponyms: 255)
+    Synonyms: machine
+  Level 8: computer (depth: 8, hyponyms: 32)
+    Synonyms: data processor, computing device, electronic computer, information processing system, computer, computing machine
+  Level 9: digital computer (depth: 9, hyponyms: 18)
+    Synonyms: digital computer
+  Level 10: personal computer (depth: 10, hyponyms: 7)
+    Synonyms: PC, personal computer, microcomputer
+  Level 11: portable computer (depth: 11, hyponyms: 5)
+    Synonyms: portable computer
+  Level 12: laptop (depth: 12, hyponyms: 0)
+    Synonyms: laptop computer, laptop
+
+
+Label: llama
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: mammal (depth: 9, hyponyms: 1169)
+    Synonyms: mammalian, mammal
+  Level 10: placental (depth: 10, hyponyms: 1119)
+    Synonyms: placental mammal, eutherian mammal, eutherian, placental
+  Level 11: ungulate (depth: 11, hyponyms: 303)
+    Synonyms: hoofed mammal, ungulate
+  Level 12: even-toed ungulate (depth: 12, hyponyms: 184)
+    Synonyms: artiodactyl, even-toed ungulate, artiodactyl mammal
+  Level 13: llama (depth: 13, hyponyms: 3)
+    Synonyms: llama
+
+
+Label: lobster
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: matter (depth: 2, hyponyms: 6575)
+    Synonyms: matter
+  Level 3: solid (depth: 3, hyponyms: 1231)
+    Synonyms: solid
+  Level 4: food (depth: 4, hyponyms: 1120)
+    Synonyms: food, solid food
+  Level 5: seafood (depth: 5, hyponyms: 120)
+    Synonyms: seafood
+  Level 6: shellfish (depth: 6, hyponyms: 29)
+    Synonyms: shellfish
+  Level 7: lobster (depth: 7, hyponyms: 4)
+    Synonyms: lobster
+
+
+Label: lotus
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: plant (depth: 6, hyponyms: 4486)
+    Synonyms: plant, plant life, flora
+  Level 7: vascular plant (depth: 7, hyponyms: 4390)
+    Synonyms: tracheophyte, vascular plant
+  Level 8: aquatic plant (depth: 8, hyponyms: 116)
+    Synonyms: hydrophytic plant, water plant, hydrophyte, aquatic plant
+  Level 9: water lily (depth: 9, hyponyms: 12)
+    Synonyms: water lily
+  Level 10: lotus (depth: 10, hyponyms: 0)
+    Synonyms: sacred lotus, Nelumbo nucifera, lotus, Indian lotus
+
+
+Label: mandolin
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: device (depth: 6, hyponyms: 2760)
+    Synonyms: device
+  Level 7: musical instrument (depth: 7, hyponyms: 163)
+    Synonyms: instrument, musical instrument
+  Level 8: stringed instrument (depth: 8, hyponyms: 48)
+    Synonyms: stringed instrument
+  Level 9: chordophone (depth: 9, hyponyms: 8)
+    Synonyms: chordophone
+  Level 10: mandolin (depth: 10, hyponyms: 1)
+    Synonyms: mandolin
+
+
+Label: mayfly
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: invertebrate (depth: 7, hyponyms: 766)
+    Synonyms: invertebrate
+  Level 8: arthropod (depth: 8, hyponyms: 579)
+    Synonyms: arthropod
+  Level 9: insect (depth: 9, hyponyms: 454)
+    Synonyms: insect
+  Level 10: ephemerid (depth: 10, hyponyms: 2)
+    Synonyms: ephemeropteran, ephemerid
+  Level 11: mayfly (depth: 11, hyponyms: 0)
+    Synonyms: shadfly, mayfly, dayfly
+
+
+Label: menorah
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: device (depth: 6, hyponyms: 2760)
+    Synonyms: device
+  Level 7: holding device (depth: 7, hyponyms: 25)
+    Synonyms: holding device
+  Level 8: holder (depth: 8, hyponyms: 9)
+    Synonyms: holder
+  Level 9: candlestick (depth: 9, hyponyms: 4)
+    Synonyms: candle holder, candlestick
+  Level 10: candelabrum (depth: 10, hyponyms: 2)
+    Synonyms: candelabrum, candelabra
+  Level 11: menorah (depth: 11, hyponyms: 0)
+    Synonyms: Menorah
+
+
+Label: metronome
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: equipment (depth: 6, hyponyms: 479)
+    Synonyms: equipment
+  Level 7: apparatus (depth: 7, hyponyms: 75)
+    Synonyms: setup, apparatus
+  Level 8: pendulum (depth: 8, hyponyms: 7)
+    Synonyms: pendulum
+  Level 9: metronome (depth: 9, hyponyms: 0)
+    Synonyms: metronome
+
+
+Label: minaret
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: structure (depth: 5, hyponyms: 1405)
+    Synonyms: structure, construction
+  Level 6: tower (depth: 6, hyponyms: 21)
+    Synonyms: tower
+  Level 7: minaret (depth: 7, hyponyms: 0)
+    Synonyms: minaret
+
+
+Label: nautilus
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: conveyance (depth: 6, hyponyms: 566)
+    Synonyms: conveyance, transport
+  Level 7: vehicle (depth: 7, hyponyms: 519)
+    Synonyms: vehicle
+  Level 8: military vehicle (depth: 8, hyponyms: 56)
+    Synonyms: military vehicle
+  Level 9: warship (depth: 9, hyponyms: 32)
+    Synonyms: combat ship, war vessel, warship
+  Level 10: submersible (depth: 10, hyponyms: 5)
+    Synonyms: submersible, submersible warship
+  Level 11: submarine (depth: 11, hyponyms: 4)
+    Synonyms: U-boat, sub, pigboat, submarine
+  Level 12: nautilus (depth: 12, hyponyms: 0)
+    Synonyms: nuclear-powered submarine, nuclear submarine, nautilus
+
+
+Label: octopus
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: matter (depth: 2, hyponyms: 6575)
+    Synonyms: matter
+  Level 3: solid (depth: 3, hyponyms: 1231)
+    Synonyms: solid
+  Level 4: food (depth: 4, hyponyms: 1120)
+    Synonyms: food, solid food
+  Level 5: seafood (depth: 5, hyponyms: 120)
+    Synonyms: seafood
+  Level 6: octopus (depth: 6, hyponyms: 0)
+    Synonyms: octopus
+
+
+Label: okapi
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: mammal (depth: 9, hyponyms: 1169)
+    Synonyms: mammalian, mammal
+  Level 10: placental (depth: 10, hyponyms: 1119)
+    Synonyms: placental mammal, eutherian mammal, eutherian, placental
+  Level 11: ungulate (depth: 11, hyponyms: 303)
+    Synonyms: hoofed mammal, ungulate
+  Level 12: even-toed ungulate (depth: 12, hyponyms: 184)
+    Synonyms: artiodactyl, even-toed ungulate, artiodactyl mammal
+  Level 13: ruminant (depth: 13, hyponyms: 161)
+    Synonyms: ruminant
+  Level 14: giraffe (depth: 14, hyponyms: 1)
+    Synonyms: Giraffa camelopardalis, giraffe, camelopard
+  Level 15: okapi (depth: 15, hyponyms: 0)
+    Synonyms: Okapia johnstoni, okapi
+
+
+Label: pagoda
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: structure (depth: 5, hyponyms: 1405)
+    Synonyms: structure, construction
+  Level 6: building (depth: 6, hyponyms: 267)
+    Synonyms: edifice, building
+  Level 7: place of worship (depth: 7, hyponyms: 23)
+    Synonyms: place of worship, house of prayer, house of God, house of worship
+  Level 8: temple (depth: 8, hyponyms: 3)
+    Synonyms: temple
+  Level 9: pagoda (depth: 9, hyponyms: 0)
+    Synonyms: pagoda
+
+
+Label: panda
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: mammal (depth: 9, hyponyms: 1169)
+    Synonyms: mammalian, mammal
+  Level 10: placental (depth: 10, hyponyms: 1119)
+    Synonyms: placental mammal, eutherian mammal, eutherian, placental
+  Level 11: carnivore (depth: 11, hyponyms: 365)
+    Synonyms: carnivore
+  Level 12: procyonid (depth: 12, hyponyms: 8)
+    Synonyms: procyonid
+  Level 13: giant panda (depth: 13, hyponyms: 0)
+    Synonyms: panda bear, giant panda, Ailuropoda melanoleuca, panda, coon bear
+
+
+Label: pigeon
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: bird (depth: 9, hyponyms: 871)
+    Synonyms: bird
+  Level 10: gallinaceous bird (depth: 10, hyponyms: 114)
+    Synonyms: gallinaceous bird, gallinacean
+  Level 11: columbiform bird (depth: 11, hyponyms: 24)
+    Synonyms: columbiform bird
+  Level 12: pigeon (depth: 12, hyponyms: 17)
+    Synonyms: pigeon
+
+
+Label: pizza
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: matter (depth: 2, hyponyms: 6575)
+    Synonyms: matter
+  Level 3: substance (depth: 3, hyponyms: 2442)
+    Synonyms: substance
+  Level 4: food (depth: 4, hyponyms: 1526)
+    Synonyms: food, nutrient
+  Level 5: nutriment (depth: 5, hyponyms: 569)
+    Synonyms: nutrition, victuals, sustenance, aliment, nutriment, alimentation, nourishment
+  Level 6: dish (depth: 6, hyponyms: 315)
+    Synonyms: dish
+  Level 7: pizza (depth: 7, hyponyms: 5)
+    Synonyms: pizza, pizza pie
+
+
+Label: platypus
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: mammal (depth: 9, hyponyms: 1169)
+    Synonyms: mammalian, mammal
+  Level 10: prototherian (depth: 10, hyponyms: 4)
+    Synonyms: prototherian
+  Level 11: monotreme (depth: 11, hyponyms: 3)
+    Synonyms: egg-laying mammal, monotreme
+  Level 12: platypus (depth: 12, hyponyms: 0)
+    Synonyms: duck-billed platypus, platypus, Ornithorhynchus anatinus, duckbilled platypus, duckbill
+
+
+Label: pyramid
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: attribute (depth: 2, hyponyms: 7260)
+    Synonyms: attribute
+  Level 3: shape (depth: 3, hyponyms: 533)
+    Synonyms: shape, form
+  Level 4: solid (depth: 4, hyponyms: 124)
+    Synonyms: solid
+  Level 5: polyhedron (depth: 5, hyponyms: 27)
+    Synonyms: polyhedron
+  Level 6: pyramid (depth: 6, hyponyms: 0)
+    Synonyms: pyramid
+
+
+Label: revolver
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: device (depth: 6, hyponyms: 2760)
+    Synonyms: device
+  Level 7: instrument (depth: 7, hyponyms: 654)
+    Synonyms: instrument
+  Level 8: weapon (depth: 8, hyponyms: 192)
+    Synonyms: weapon, arm, weapon system
+  Level 9: gun (depth: 9, hyponyms: 71)
+    Synonyms: gun
+  Level 10: firearm (depth: 10, hyponyms: 57)
+    Synonyms: piece, small-arm, firearm
+  Level 11: pistol (depth: 11, hyponyms: 13)
+    Synonyms: shooting iron, handgun, pistol, side arm
+  Level 12: revolver (depth: 12, hyponyms: 1)
+    Synonyms: six-gun, six-shooter, revolver
+
+
+Label: rhino
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: mammal (depth: 9, hyponyms: 1169)
+    Synonyms: mammalian, mammal
+  Level 10: placental (depth: 10, hyponyms: 1119)
+    Synonyms: placental mammal, eutherian mammal, eutherian, placental
+  Level 11: ungulate (depth: 11, hyponyms: 303)
+    Synonyms: hoofed mammal, ungulate
+  Level 12: odd-toed ungulate (depth: 12, hyponyms: 115)
+    Synonyms: perissodactyl, odd-toed ungulate, perissodactyl mammal
+  Level 13: rhinoceros (depth: 13, hyponyms: 4)
+    Synonyms: rhinoceros, rhino
+
+
+Label: rooster
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: bird (depth: 9, hyponyms: 871)
+    Synonyms: bird
+  Level 10: gallinaceous bird (depth: 10, hyponyms: 114)
+    Synonyms: gallinaceous bird, gallinacean
+  Level 11: domestic fowl (depth: 11, hyponyms: 26)
+    Synonyms: domestic fowl, fowl, poultry
+  Level 12: chicken (depth: 12, hyponyms: 14)
+    Synonyms: chicken, Gallus gallus
+  Level 13: cock (depth: 13, hyponyms: 1)
+    Synonyms: cock, rooster
+
+
+Label: saxophone
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: device (depth: 6, hyponyms: 2760)
+    Synonyms: device
+  Level 7: musical instrument (depth: 7, hyponyms: 163)
+    Synonyms: instrument, musical instrument
+  Level 8: wind instrument (depth: 8, hyponyms: 75)
+    Synonyms: wind, wind instrument
+  Level 9: woodwind (depth: 9, hyponyms: 26)
+    Synonyms: wood, woodwind, woodwind instrument
+  Level 10: beating-reed instrument (depth: 10, hyponyms: 21)
+    Synonyms: reed, reed instrument, beating-reed instrument
+  Level 11: single-reed instrument (depth: 11, hyponyms: 6)
+    Synonyms: single-reed instrument, single-reed woodwind
+  Level 12: sax (depth: 12, hyponyms: 0)
+    Synonyms: sax, saxophone
+
+
+Label: schooner
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: container (depth: 6, hyponyms: 744)
+    Synonyms: container
+  Level 7: glass (depth: 7, hyponyms: 15)
+    Synonyms: glass, drinking glass
+  Level 8: schooner (depth: 8, hyponyms: 0)
+    Synonyms: schooner
+
+
+Label: scissors
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: implement (depth: 6, hyponyms: 726)
+    Synonyms: implement
+  Level 7: bar (depth: 7, hyponyms: 78)
+    Synonyms: bar
+  Level 8: lever (depth: 8, hyponyms: 47)
+    Synonyms: lever
+  Level 9: compound lever (depth: 9, hyponyms: 16)
+    Synonyms: compound lever
+  Level 10: scissors (depth: 10, hyponyms: 8)
+    Synonyms: scissors, pair of scissors
+
+
+Label: scorpion
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: causal agent (depth: 2, hyponyms: 8141)
+    Synonyms: cause, causal agent, causal agency
+  Level 3: person (depth: 3, hyponyms: 6978)
+    Synonyms: someone, soul, person, individual, mortal, somebody
+  Level 4: scorpio (depth: 4, hyponyms: 0)
+    Synonyms: Scorpion, Scorpio
+
+
+Label: sea_horse
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: thing (depth: 2, hyponyms: 2354)
+    Synonyms: thing
+  Level 3: body of water (depth: 3, hyponyms: 75)
+    Synonyms: body of water, water
+  Level 4: sea (depth: 4, hyponyms: 1)
+    Synonyms: sea
+
+
+Label: snoopy
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: psychological feature (depth: 2, hyponyms: 11659)
+    Synonyms: psychological feature
+  Level 3: cognition (depth: 3, hyponyms: 3911)
+    Synonyms: noesis, knowledge, cognition
+  Level 4: ability (depth: 4, hyponyms: 370)
+    Synonyms: power, ability
+  Level 5: creativity (depth: 5, hyponyms: 119)
+    Synonyms: creativity, creative thinking, creativeness
+  Level 6: imagination (depth: 6, hyponyms: 109)
+    Synonyms: imagination, imaginativeness, vision
+  Level 7: imaginary being (depth: 7, hyponyms: 64)
+    Synonyms: imaginary being, imaginary creature
+  Level 8: fictional character (depth: 8, hyponyms: 0)
+    Synonyms: character, fictitious character, fictional character
+  Level 9: snoopy (depth: 9, hyponyms: 0)
+    Synonyms: Snoopy
+
+
+Label: soccer_ball
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: psychological feature (depth: 2, hyponyms: 11659)
+    Synonyms: psychological feature
+  Level 3: event (depth: 3, hyponyms: 7878)
+    Synonyms: event
+  Level 4: act (depth: 4, hyponyms: 6661)
+    Synonyms: human action, human activity, deed, act
+  Level 5: activity (depth: 5, hyponyms: 3240)
+    Synonyms: activity
+  Level 6: game (depth: 6, hyponyms: 193)
+    Synonyms: game
+  Level 7: athletic game (depth: 7, hyponyms: 70)
+    Synonyms: athletic game
+  Level 8: outdoor game (depth: 8, hyponyms: 45)
+    Synonyms: outdoor game
+  Level 9: field game (depth: 9, hyponyms: 31)
+    Synonyms: field game
+  Level 10: football (depth: 10, hyponyms: 5)
+    Synonyms: football game, football
+  Level 11: soccer (depth: 11, hyponyms: 0)
+    Synonyms: soccer, association football
+
+
+Label: stapler
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: device (depth: 6, hyponyms: 2760)
+    Synonyms: device
+  Level 7: machine (depth: 7, hyponyms: 255)
+    Synonyms: machine
+  Level 8: stapler (depth: 8, hyponyms: 0)
+    Synonyms: stapling machine, stapler
+
+
+Label: starfish
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: invertebrate (depth: 7, hyponyms: 766)
+    Synonyms: invertebrate
+  Level 8: echinoderm (depth: 8, hyponyms: 13)
+    Synonyms: echinoderm
+  Level 9: starfish (depth: 9, hyponyms: 0)
+    Synonyms: starfish, sea star
+
+
+Label: stegosaurus
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: chordate (depth: 7, hyponyms: 3087)
+    Synonyms: chordate
+  Level 8: vertebrate (depth: 8, hyponyms: 3077)
+    Synonyms: vertebrate, craniate
+  Level 9: reptile (depth: 9, hyponyms: 296)
+    Synonyms: reptilian, reptile
+  Level 10: diapsid (depth: 10, hyponyms: 252)
+    Synonyms: diapsid, diapsid reptile
+  Level 11: archosaur (depth: 11, hyponyms: 59)
+    Synonyms: archosaurian reptile, archosaur, archosaurian
+  Level 12: dinosaur (depth: 12, hyponyms: 50)
+    Synonyms: dinosaur
+  Level 13: ornithischian (depth: 13, hyponyms: 19)
+    Synonyms: ornithischian dinosaur, ornithischian
+  Level 14: armored dinosaur (depth: 14, hyponyms: 3)
+    Synonyms: armored dinosaur
+  Level 15: stegosaur (depth: 15, hyponyms: 0)
+    Synonyms: Stegosaur stenops, stegosaur, stegosaurus
+
+
+Label: stop_sign
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: psychological feature (depth: 2, hyponyms: 11659)
+    Synonyms: psychological feature
+  Level 3: event (depth: 3, hyponyms: 7878)
+    Synonyms: event
+  Level 4: happening (depth: 4, hyponyms: 970)
+    Synonyms: occurrence, occurrent, natural event, happening
+  Level 5: ending (depth: 5, hyponyms: 64)
+    Synonyms: conclusion, finish, ending
+  Level 6: stop (depth: 6, hyponyms: 3)
+    Synonyms: stop, halt
+
+
+Label: strawberry
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: natural object (depth: 4, hyponyms: 1112)
+    Synonyms: natural object
+  Level 5: plant part (depth: 5, hyponyms: 681)
+    Synonyms: plant structure, plant part
+  Level 6: plant organ (depth: 6, hyponyms: 603)
+    Synonyms: plant organ
+  Level 7: reproductive structure (depth: 7, hyponyms: 421)
+    Synonyms: reproductive structure
+  Level 8: fruit (depth: 8, hyponyms: 320)
+    Synonyms: fruit
+  Level 9: edible fruit (depth: 9, hyponyms: 196)
+    Synonyms: edible fruit
+  Level 10: berry (depth: 10, hyponyms: 21)
+    Synonyms: berry
+  Level 11: strawberry (depth: 11, hyponyms: 0)
+    Synonyms: strawberry
+
+
+Label: sunflower
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: plant (depth: 6, hyponyms: 4486)
+    Synonyms: plant, plant life, flora
+  Level 7: vascular plant (depth: 7, hyponyms: 4390)
+    Synonyms: tracheophyte, vascular plant
+  Level 8: spermatophyte (depth: 8, hyponyms: 636)
+    Synonyms: seed plant, spermatophyte, phanerogam
+  Level 9: angiosperm (depth: 9, hyponyms: 618)
+    Synonyms: angiosperm, flowering plant
+  Level 10: flower (depth: 10, hyponyms: 467)
+    Synonyms: flower
+  Level 11: sunflower (depth: 11, hyponyms: 7)
+    Synonyms: helianthus, sunflower
+
+
+Label: tick
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: psychological feature (depth: 2, hyponyms: 11659)
+    Synonyms: psychological feature
+  Level 3: event (depth: 3, hyponyms: 7878)
+    Synonyms: event
+  Level 4: happening (depth: 4, hyponyms: 970)
+    Synonyms: occurrence, occurrent, natural event, happening
+  Level 5: sound (depth: 5, hyponyms: 149)
+    Synonyms: sound
+  Level 6: tick (depth: 6, hyponyms: 1)
+    Synonyms: ticking, tick
+
+
+Label: trilobite
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: living thing (depth: 4, hyponyms: 16254)
+    Synonyms: animate thing, living thing
+  Level 5: organism (depth: 5, hyponyms: 16110)
+    Synonyms: organism, being
+  Level 6: animal (depth: 6, hyponyms: 3998)
+    Synonyms: creature, beast, animal, animate being, brute, fauna
+  Level 7: invertebrate (depth: 7, hyponyms: 766)
+    Synonyms: invertebrate
+  Level 8: arthropod (depth: 8, hyponyms: 579)
+    Synonyms: arthropod
+  Level 9: trilobite (depth: 9, hyponyms: 0)
+    Synonyms: trilobite
+
+
+Label: umbrella
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: covering (depth: 5, hyponyms: 1013)
+    Synonyms: covering
+  Level 6: protective covering (depth: 6, hyponyms: 192)
+    Synonyms: protection, protective cover, protective covering
+  Level 7: shelter (depth: 7, hyponyms: 18)
+    Synonyms: shelter
+  Level 8: canopy (depth: 8, hyponyms: 7)
+    Synonyms: canopy
+  Level 9: umbrella (depth: 9, hyponyms: 1)
+    Synonyms: umbrella
+
+
+Label: watch
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: device (depth: 6, hyponyms: 2760)
+    Synonyms: device
+  Level 7: instrument (depth: 7, hyponyms: 654)
+    Synonyms: instrument
+  Level 8: measuring instrument (depth: 8, hyponyms: 243)
+    Synonyms: measuring instrument, measuring device, measuring system
+  Level 9: timepiece (depth: 9, hyponyms: 33)
+    Synonyms: timekeeper, horologe, timepiece
+  Level 10: watch (depth: 10, hyponyms: 7)
+    Synonyms: ticker, watch
+
+
+Label: water_lilly
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: relation (depth: 2, hyponyms: 5144)
+    Synonyms: relation
+  Level 3: part (depth: 3, hyponyms: 3779)
+    Synonyms: component, component part, part, portion, constituent
+  Level 4: substance (depth: 4, hyponyms: 3491)
+    Synonyms: substance
+  Level 5: material (depth: 5, hyponyms: 2544)
+    Synonyms: material, stuff
+  Level 6: chemical (depth: 6, hyponyms: 1367)
+    Synonyms: chemical, chemical substance
+  Level 7: compound (depth: 7, hyponyms: 1256)
+    Synonyms: compound, chemical compound
+  Level 8: binary compound (depth: 8, hyponyms: 28)
+    Synonyms: binary compound
+  Level 9: water (depth: 9, hyponyms: 18)
+    Synonyms: H2O, water
+
+
+Label: wheelchair
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: whole (depth: 3, hyponyms: 27878)
+    Synonyms: whole, unit
+  Level 4: artifact (depth: 4, hyponyms: 10504)
+    Synonyms: artefact, artifact
+  Level 5: instrumentality (depth: 5, hyponyms: 5494)
+    Synonyms: instrumentality, instrumentation
+  Level 6: furnishing (depth: 6, hyponyms: 222)
+    Synonyms: furnishing
+  Level 7: furniture (depth: 7, hyponyms: 196)
+    Synonyms: article of furniture, furniture, piece of furniture
+  Level 8: seat (depth: 8, hyponyms: 68)
+    Synonyms: seat
+  Level 9: chair (depth: 9, hyponyms: 35)
+    Synonyms: chair
+  Level 10: wheelchair (depth: 10, hyponyms: 2)
+    Synonyms: wheelchair
+
+
+Label: wild_cat
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: attribute (depth: 2, hyponyms: 7260)
+    Synonyms: attribute
+  Level 3: state (depth: 3, hyponyms: 3666)
+    Synonyms: state
+  Level 4: wild (depth: 4, hyponyms: 1)
+    Synonyms: wild, state of nature, natural state
+
+
+Label: windsor_chair
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: physical entity (depth: 1, hyponyms: 39555)
+    Synonyms: physical entity
+  Level 2: object (depth: 2, hyponyms: 29580)
+    Synonyms: physical object, object
+  Level 3: location (depth: 3, hyponyms: 1261)
+    Synonyms: location
+  Level 4: region (depth: 4, hyponyms: 475)
+    Synonyms: region
+  Level 5: geographical area (depth: 5, hyponyms: 241)
+    Synonyms: geographical area, geographical region, geographic region, geographic area
+  Level 6: urban area (depth: 6, hyponyms: 18)
+    Synonyms: urban area, populated area
+  Level 7: municipality (depth: 7, hyponyms: 12)
+    Synonyms: municipality
+  Level 8: city (depth: 8, hyponyms: 3)
+    Synonyms: metropolis, city, urban center
+  Level 9: windsor (depth: 9, hyponyms: 0)
+    Synonyms: Windsor
+
+
+Label: wrench
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: attribute (depth: 2, hyponyms: 7260)
+    Synonyms: attribute
+  Level 3: state (depth: 3, hyponyms: 3666)
+    Synonyms: state
+  Level 4: condition (depth: 4, hyponyms: 2367)
+    Synonyms: condition, status
+  Level 5: physical condition (depth: 5, hyponyms: 1729)
+    Synonyms: physiological state, physical condition, physiological condition
+  Level 6: pathological state (depth: 6, hyponyms: 1153)
+    Synonyms: pathological state
+  Level 7: ill health (depth: 7, hyponyms: 1152)
+    Synonyms: unhealthiness, health problem, ill health
+  Level 8: injury (depth: 8, hyponyms: 83)
+    Synonyms: trauma, harm, hurt, injury
+  Level 9: wrench (depth: 9, hyponyms: 1)
+    Synonyms: pull, twist, wrench
+
+
+Label: yin_yang
+WordNet hierarchy (specific to general):
+  Level 0: entity (depth: 0, hyponyms: 74373)
+    Synonyms: entity
+  Level 1: abstraction (depth: 1, hyponyms: 38668)
+    Synonyms: abstract entity, abstraction
+  Level 2: psychological feature (depth: 2, hyponyms: 11659)
+    Synonyms: psychological feature
+  Level 3: cognition (depth: 3, hyponyms: 3911)
+    Synonyms: noesis, knowledge, cognition
+  Level 4: content (depth: 4, hyponyms: 1943)
+    Synonyms: content, mental object, cognitive content
+  Level 5: idea (depth: 5, hyponyms: 583)
+    Synonyms: idea, thought
+  Level 6: generalization (depth: 6, hyponyms: 11)
+    Synonyms: generality, generalization, generalisation
+  Level 7: principle (depth: 7, hyponyms: 10)
+    Synonyms: principle, rule
+  Level 8: yin (depth: 8, hyponyms: 0)
+    Synonyms: yin
+
+

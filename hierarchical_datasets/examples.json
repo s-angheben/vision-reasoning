@@ -1,0 +1,74 @@
+{
+  "Motorbikes": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Conveyance", "Transport", "Machine (transport)", "Means of Transport", "Mode of Transport"]
+    },
+    "Level 2": {
+      "label": "Two-Wheeled Vehicle",
+      "synonyms": ["Bicycle-like Vehicle", "Wheeled Machine (two-wheeled)", "Dual-Wheeled Conveyance", "Cycle"]
+    },
+    "Level 3": {
+      "label": "Motorcycle",
+      "synonyms": ["Motorbike", "Motorized Cycle", "Motorized Two-Wheeler", "Powered Bicycle", "Bike (motorized)"]
+    },
+    "Level 4": {
+      "label": "None",
+      "synonyms": []
+    }
+  },
+  "barrel": {
+    "Level 1": {
+      "label": "Container",
+      "synonyms": ["Receptacle", "Holder", "Vessel", "Storage Unit", "Enclosure"]
+    },
+    "Level 2": {
+      "label": "Cylindrical Container",
+      "synonyms": ["Drum", "Tub (cylindrical)", "Cask", "Cylinder (container)", "Rounded Container"]
+    },
+    "Level 3": {
+      "label": "Barrel (storage)",
+      "synonyms": ["Wooden Barrel", "Metal Barrel", "Industrial Barrel", "Shipping Barrel", "Bulk Container"]
+    },
+    "Level 4": {
+      "label": "None",
+      "synonyms": []
+    }
+  },
+  "Leopard": {
+    "Level 1": {
+      "label": "Animal",
+      "synonyms": ["Fauna", "Creature", "Beast", "Mammal (general)", "Living Organism (animal)"]
+    },
+    "Level 2": {
+      "label": "Feline",
+      "synonyms": ["Cat (large)", "Wild Cat", "Carnivore (feline)", "Big Cat (general)", "Felid"]
+    },
+    "Level 3": {
+      "label": "Big Cat",
+      "synonyms": ["Pantherine", "Large Feline", "Predatory Cat", "Apex Predator (cat)", "Jungle Cat"]
+    },
+    "Level 4": {
+      "label": "Panthera pardus",
+      "synonyms": ["Spotted Panther", "Leopard (species)", "Common Leopard", "African Leopard (broad sense)", "Asian Leopard (broad sense)"]
+    }
+  },
+  "yellow iris": {
+    "Level 1": {
+      "label": "Plant",
+      "synonyms": ["Vegetation", "Flora", "Greenery", "Organism (plant)", "Living Thing (plant)", "Biological Entity (plant)"]
+    },
+    "Level 2": {
+      "label": "Flowering Plant",
+      "synonyms": ["Angiosperm", "Bloom-bearing Plant", "Floral Plant", "Flower", "Blossom", "Inflorescence-bearing Plant", "Ornamental Plant (broad sense)"]
+    },
+    "Level 3": {
+      "label": "Iris",
+      "synonyms": ["Iris (genus)", "Garden Iris", "Cultivated Iris", "Flag (flower)", "Perennial Flower (iris type)"]
+    },
+    "Level 4": {
+      "label": "Yellow Iris",
+      "synonyms": ["Iris pseudacorus", "Water Flag", "Yellow Flag Iris", "Golden Iris", "Swamp Iris (yellow)"]
+    }
+  }
+}

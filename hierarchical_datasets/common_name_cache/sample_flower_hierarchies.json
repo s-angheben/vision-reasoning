@@ -1,0 +1,62 @@
+{
+  "pink primrose": {
+    "scientific_name": "Oenothera speciosa",
+    "common_hierarchy": [
+      "Pinkladies"
+    ],
+    "scientific_hierarchy": [
+      "Species: Oenothera speciosa"
+    ],
+    "source": "iNaturalist"
+  },
+  "hard-leaved pocket orchid": {
+    "scientific_name": "hard-leaved pocket orchid",
+    "common_hierarchy": [
+      "Plant",
+      "Flowering Plant",
+      "Unknown Family",
+      "Hard-Leaved Pocket Orchid"
+    ],
+    "scientific_hierarchy": [
+      "Kingdom: Plantae",
+      "Class: Unknown",
+      "Species: hard-leaved pocket orchid"
+    ],
+    "source": "Fallback"
+  },
+  "canterbury bells": {
+    "scientific_name": "Phacelia minor",
+    "common_hierarchy": [
+      "Wild Canterbury Bells"
+    ],
+    "scientific_hierarchy": [
+      "Species: Phacelia minor"
+    ],
+    "source": "iNaturalist"
+  },
+  "sweet pea": {
+    "scientific_name": "Lathyrus latifolius",
+    "common_hierarchy": [
+      "Broad-Leaved Sweet Pea"
+    ],
+    "scientific_hierarchy": [
+      "Species: Lathyrus latifolius"
+    ],
+    "source": "iNaturalist"
+  },
+  "english marigold": {
+    "scientific_name": "english marigold",
+    "common_hierarchy": [
+      "Plant",
+      "Flowering Plant",
+      "Unknown Family",
+      "English Marigold"
+    ],
+    "scientific_hierarchy": [
+      "Kingdom: Plantae",
+      "Class: Unknown",
+      "Species: english marigold"
+    ],
+    "source": "Fallback"
+  }
+}

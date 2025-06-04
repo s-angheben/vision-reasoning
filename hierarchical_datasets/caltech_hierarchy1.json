@@ -1,0 +1,1588 @@
+{
+  "Faces": {
+    "Level 1": {
+      "label": "Human",
+      "synonyms": ["Person", "Homo sapiens", "Individual", "Man", "Woman", "Adult", "Child"]
+    },
+    "Level 2": {
+      "label": "Human Head",
+      "synonyms": ["Head", "Cranium", "Skull (with features)", "Human Skull (with skin)", "Face Region"]
+    },
+    "Level 3": {
+      "label": "Face",
+      "synonyms": ["Visage", "Countenance", "Facial Features", "Front of Head", "Mug"]
+    }
+  },
+  "Faces_easy": {
+    "Level 1": {
+      "label": "Human",
+      "synonyms": ["Person", "Homo sapiens", "Individual", "Man", "Woman", "Adult", "Child"]
+    },
+    "Level 2": {
+      "label": "Human Head",
+      "synonyms": ["Head", "Cranium", "Skull (with features)", "Human Skull (with skin)", "Face Region"]
+    },
+    "Level 3": {
+      "label": "Face",
+      "synonyms": ["Visage", "Countenance", "Facial Features", "Front of Head", "Mug"]
+    }
+  },
+  "Leopards": {
+    "Level 1": {
+      "label": "Animal",
+      "synonyms": ["Organism", "Living Being", "Creature"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Big Cat",
+      "synonyms": ["Large Felid", "Panthera", "Feline"]
+    },
+    "Level 4": {
+      "label": "Leopard",
+      "synonyms": ["Panthera pardus", "Big Cat Species", "Feline Species"]
+    }
+  },
+  "Motorbikes": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Mode of Transport", "Conveyance", "Automobile"]
+    },
+    "Level 2": {
+      "label": "Motor Vehicle",
+      "synonyms": ["Self-propelled Vehicle", "Automobile", "Motorized Transport"]
+    },
+    "Level 3": {
+      "label": "Motorbike",
+      "synonyms": ["Motorcycle", "Bike", "Two-wheeled Motor Vehicle"]
+    }
+  },
+  "accordion": {
+    "Level 1": {
+      "label": "Musical Instrument",
+      "synonyms": ["Instrument", "Device for producing music"]
+    },
+    "Level 2": {
+      "label": "Wind Instrument",
+      "synonyms": ["Instrument played by blowing air", "Aerophone"]
+    },
+    "Level 3": {
+      "label": "Free Reed Instrument",
+      "synonyms": ["Instrument with free reeds", "Reed Organ"]
+    },
+    "Level 4": {
+      "label": "Accordion",
+      "synonyms": ["Piano Accordion", "Button Accordion", "Concertina"]
+    }
+  },
+  "airplanes": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Mode of Transport", "Conveyance", "Automobile"]
+    },
+    "Level 2": {
+      "label": "Aircraft",
+      "synonyms": ["Flying Vehicle", "Airborne Transport"]
+    },
+    "Level 3": {
+      "label": "Airplane",
+      "synonyms": ["Aeroplane", "Plane", "Fixed-wing Aircraft"]
+    }
+  },
+  "anchor": {
+    "Level 1": {
+      "label": "Object",
+      "synonyms": ["Thing", "Item", "Entity"]
+    },
+    "Level 2": {
+      "label": "Fastening Device",
+      "synonyms": ["Device for holding in place", "Fastener"]
+    },
+    "Level 3": {
+      "label": "Anchor",
+      "synonyms": ["Device for mooring boats", "Heavy object to keep in place"]
+    }
+  },
+  "ant": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Invertebrate",
+      "synonyms": ["Animal without a backbone", "Spineless Creature"]
+    },
+    "Level 3": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with an exoskeleton", "Joint-legged animal"]
+    },
+    "Level 4": {
+      "label": "Insect",
+      "synonyms": ["Small arthropod animal", "Hexapod"]
+    },
+    "Level 5": {
+      "label": "Ant",
+      "synonyms": ["Social insect", "Formicidae", "Ants"]
+    }
+  },
+  "barrel": {
+    "Level 1": {
+      "label": "Container",
+      "synonyms": ["Receptacle", "Vessel", "Holder"]
+    },
+    "Level 2": {
+      "label": "Cylindrical Container",
+      "synonyms": ["Container with a circular cross-section", "Drum"]
+    },
+    "Level 3": {
+      "label": "Barrel",
+      "synonyms": ["Large cylindrical container", "Keg", "Cask"]
+    }
+  },
+  "bass": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Fish",
+      "synonyms": ["Aquatic vertebrate", "Gilled creature"]
+    },
+    "Level 3": {
+      "label": "Bass",
+      "synonyms": ["Various species of fish", "Bass fish"]
+    }
+  },
+  "beaver": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Rodent",
+      "synonyms": ["Gnawing mammal", "Rodentia"]
+    },
+    "Level 4": {
+      "label": "Beaver",
+      "synonyms": ["Castor", "Large rodent", "Semi-aquatic mammal"]
+    }
+  },
+  "binocular": {
+    "Level 1": {
+      "label": "Optical Instrument",
+      "synonyms": ["Device for aiding sight", "Visual aid"]
+    },
+    "Level 2": {
+      "label": "Binoculars",
+      "synonyms": ["Field glasses", "Double telescope"]
+    }
+  },
+  "bonsai": {
+    "Level 1": {
+      "label": "Plant",
+      "synonyms": ["Living organism of the plant kingdom"]
+    },
+    "Level 2": {
+      "label": "Tree",
+      "synonyms": ["Perennial plant with an elongated stem"]
+    },
+    "Level 3": {
+      "label": "Bonsai",
+      "synonyms": ["Miniature tree", "Potted tree"]
+    }
+  },
+  "brain": {
+    "Level 1": {
+      "label": "Organ",
+      "synonyms": ["Body part", "Anatomical structure"]
+    },
+    "Level 2": {
+      "label": "Nervous System",
+      "synonyms": ["System of nerves and cells", "Neural system"]
+    },
+    "Level 3": {
+      "label": "Brain",
+      "synonyms": ["Organ of thought and perception", "Cerebrum"]
+    }
+  },
+  "brontosaurus": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Dinosaur",
+      "synonyms": ["Prehistoric reptile", "Mesozoic reptile"]
+    },
+    "Level 3": {
+      "label": "Sauropod",
+      "synonyms": ["Long-necked dinosaur", "Herbivorous dinosaur"]
+    },
+    "Level 4": {
+      "label": "Brontosaurus",
+      "synonyms": ["Thunder lizard", "Large sauropod dinosaur"]
+    }
+  },
+  "buddha": {
+    "Level 1": {
+      "label": "Person",
+      "synonyms": ["Human being", "Individual"]
+    },
+    "Level 2": {
+      "label": "Religious Figure",
+      "synonyms": ["Spiritual leader", "Prophet"]
+    },
+    "Level 3": {
+      "label": "Buddha",
+      "synonyms": ["Enlightened one", "Siddhartha Gautama"]
+    }
+  },
+  "butterfly": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Invertebrate",
+      "synonyms": ["Animal without a backbone", "Spineless Creature"]
+    },
+    "Level 3": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with an exoskeleton", "Joint-legged animal"]
+    },
+    "Level 4": {
+      "label": "Insect",
+      "synonyms": ["Small arthropod animal", "Hexapod"]
+    },
+    "Level 5": {
+      "label": "Butterfly",
+      "synonyms": ["Colorful flying insect", "Lepidoptera"]
+    }
+  },
+  "camera": {
+    "Level 1": {
+      "label": "Device",
+      "synonyms": ["Instrument", "Apparatus"]
+    },
+    "Level 2": {
+      "label": "Optical Device",
+      "synonyms": ["Device for recording images", "Visual recording device"]
+    },
+    "Level 3": {
+      "label": "Camera",
+      "synonyms": ["Photographic camera", "Video camera"]
+    }
+  },
+  "cannon": {
+    "Level 1": {
+      "label": "Weapon",
+      "synonyms": ["Armament", "Firearm"]
+    },
+    "Level 2": {
+      "label": "Artillery",
+      "synonyms": ["Large-caliber guns", "Heavy military firearms"]
+    },
+    "Level 3": {
+      "label": "Cannon",
+      "synonyms": ["Large artillery gun", "Siege gun"]
+    }
+  },
+  "car_side": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Mode of Transport", "Conveyance", "Automobile"]
+    },
+    "Level 2": {
+      "label": "Car",
+      "synonyms": ["Automobile", "Motor vehicle"]
+    },
+    "Level 3": {
+      "label": "Car Side",
+      "synonyms": ["Lateral view of a car", "Side profile of a car"]
+    }
+  },
+  "ceiling_fan": {
+    "Level 1": {
+      "label": "Device",
+      "synonyms": ["Apparatus", "Instrument"]
+    },
+    "Level 2": {
+      "label": "Fan",
+      "synonyms": ["Device for creating a current of air"]
+    },
+    "Level 3": {
+      "label": "Ceiling Fan",
+      "synonyms": ["Fan mounted on a ceiling", "Overhead fan"]
+    }
+  },
+  "cellphone": {
+    "Level 1": {
+      "label": "Device",
+      "synonyms": ["Gadget", "Apparatus"]
+    },
+    "Level 2": {
+      "label": "Communication Device",
+      "synonyms": ["Device for communication", "Telecommunication device"]
+    },
+    "Level 3": {
+      "label": "Cellphone",
+      "synonyms": ["Mobile phone", "Smartphone"]
+    }
+  },
+  "chair": {
+    "Level 1": {
+      "label": "Furniture",
+      "synonyms": ["Home furnishing", "Household item"]
+    },
+    "Level 2": {
+      "label": "Seat",
+      "synonyms": ["Object for sitting"]
+    },
+    "Level 3": {
+      "label": "Chair",
+      "synonyms": ["Seat with a backrest", "Armchair"]
+    }
+  },
+  "chandelier": {
+    "Level 1": {
+      "label": "Object",
+      "synonyms": ["Thing", "Item", "Entity"]
+    },
+    "Level 2": {
+      "label": "Light Fixture",
+      "synonyms": ["Device for providing light", "Lighting instrument"]
+    },
+    "Level 3": {
+      "label": "Chandelier",
+      "synonyms": ["Decorative ceiling-mounted light", "Ornamental light fixture"]
+    }
+  },
+  "cougar_body": {
+    "Level 1": {
+      "label": "Animal",
+      "synonyms": ["Organism", "Living Being", "Creature"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Big Cat",
+      "synonyms": ["Large Felid", "Panthera", "Feline"]
+    },
+    "Level 4": {
+      "label": "Cougar",
+      "synonyms": ["Puma", "Mountain lion", "Felis concolor"]
+    },
+    "Level 5": {
+      "label": "Cougar Body",
+      "synonyms": ["Body of a cougar", "Cougar's physique"]
+    }
+  },
+  "cougar_face": {
+    "Level 1": {
+      "label": "Animal",
+      "synonyms": ["Organism", "Living Being", "Creature"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Big Cat",
+      "synonyms": ["Large Felid", "Panthera", "Feline"]
+    },
+    "Level 4": {
+      "label": "Cougar",
+      "synonyms": ["Puma", "Mountain lion", "Felis concolor"]
+    },
+    "Level 5": {
+      "label": "Cougar Face",
+      "synonyms": ["Face of a cougar", "Cougar's visage"]
+    }
+  },
+  "crab": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Invertebrate",
+      "synonyms": ["Animal without a backbone", "Spineless Creature"]
+    },
+    "Level 3": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with an exoskeleton", "Joint-legged animal"]
+    },
+    "Level 4": {
+      "label": "Crustacean",
+      "synonyms": ["Aquatic arthropod", "Crustacea"]
+    },
+    "Level 5": {
+      "label": "Crab",
+      "synonyms": ["Decapod crustacean", "Brachyura"]
+    }
+  },
+  "crayfish": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Invertebrate",
+      "synonyms": ["Animal without a backbone", "Spineless Creature"]
+    },
+    "Level 3": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with an exoskeleton", "Joint-legged animal"]
+    },
+    "Level 4": {
+      "label": "Crustacean",
+      "synonyms": ["Aquatic arthropod", "Crustacea"]
+    },
+    "Level 5": {
+      "label": "Crayfish",
+      "synonyms": ["Freshwater crustacean", "Crawfish"]
+    }
+  },
+  "crocodile": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Reptile",
+      "synonyms": ["Cold-blooded vertebrate", "Scaly animal"]
+    },
+    "Level 3": {
+      "label": "Crocodilian",
+      "synonyms": ["Order of reptiles including crocodiles", "Crocodylia"]
+    },
+    "Level 4": {
+      "label": "Crocodile",
+      "synonyms": ["Large aquatic reptile", "Crocodylus"]
+    }
+  },
+  "crocodile_head": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Reptile",
+      "synonyms": ["Cold-blooded vertebrate", "Scaly animal"]
+    },
+    "Level 3": {
+      "label": "Crocodilian",
+      "synonyms": ["Order of reptiles including crocodiles", "Crocodylia"]
+    },
+    "Level 4": {
+      "label": "Crocodile",
+      "synonyms": ["Large aquatic reptile", "Crocodylus"]
+    },
+    "Level 5": {
+      "label": "Crocodile Head",
+      "synonyms": ["Head of a crocodile", "Crocodile's visage"]
+    }
+  },
+  "cup": {
+    "Level 1": {
+      "label": "Container",
+      "synonyms": ["Receptacle", "Vessel", "Holder"]
+    },
+    "Level 2": {
+      "label": "Drinking Vessel",
+      "synonyms": ["Cup for drinking", "Mug"]
+    },
+    "Level 3": {
+      "label": "Cup",
+      "synonyms": ["Small, typically round container", "Drinking cup"]
+    }
+  },
+  "dalmatian": {
+    "Level 1": {
+      "label": "Animal",
+      "synonyms": ["Organism", "Living Being", "Creature"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Dog",
+      "synonyms": ["Canine", "Domestic dog", "Canis lupus familiaris"]
+    },
+    "Level 4": {
+      "label": "Dalmatian",
+      "synonyms": ["Dalmation", "Spotted dog breed"]
+    }
+  },
+  "dollar_bill": {
+    "Level 1": {
+      "label": "Object",
+      "synonyms": ["Thing", "Item", "Entity"]
+    },
+    "Level 2": {
+      "label": "Currency",
+      "synonyms": ["Medium of exchange", "Money"]
+    },
+    "Level 3": {
+      "label": "Dollar Bill",
+      "synonyms": ["United States paper currency", "Greenback"]
+    }
+  },
+  "dolphin": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Cetacean",
+      "synonyms": ["Aquatic mammal", "Whale and dolphin family"]
+    },
+    "Level 4": {
+      "label": "Dolphin",
+      "synonyms": ["Delphinidae", "Intelligent aquatic mammal"]
+    }
+  },
+  "dragonfly": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Invertebrate",
+      "synonyms": ["Animal without a backbone", "Spineless Creature"]
+    },
+    "Level 3": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with an exoskeleton", "Joint-legged animal"]
+    },
+    "Level 4": {
+      "label": "Insect",
+      "synonyms": ["Small arthropod animal", "Hexapod"]
+    },
+    "Level 5": {
+      "label": "Dragonfly",
+      "synonyms": ["Odonata", "Flying insect"]
+    }
+  },
+  "electric_guitar": {
+    "Level 1": {
+      "label": "Musical Instrument",
+      "synonyms": ["Instrument", "Device for producing music"]
+    },
+    "Level 2": {
+      "label": "String Instrument",
+      "synonyms": ["Instrument with strings", "Chordophone"]
+    },
+    "Level 3": {
+      "label": "Electric Guitar",
+      "synonyms": ["Guitar with electric pickup", "Solid-body guitar"]
+    }
+  },
+  "elephant": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Proboscidean",
+      "synonyms": ["Elephantidae", "Large herbivorous mammal"]
+    },
+    "Level 4": {
+      "label": "Elephant",
+      "synonyms": ["African or Asian elephant", "Large land mammal"]
+    }
+  },
+  "emu": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Bird",
+      "synonyms": ["Warm-blooded vertebrate with feathers"]
+    },
+    "Level 3": {
+      "label": "Ratite",
+      "synonyms": ["Flightless bird", "Paleognath"]
+    },
+    "Level 4": {
+      "label": "Emu",
+      "synonyms": ["Large flightless bird", "Dromaius novaehollandiae"]
+    }
+  },
+  "euphonium": {
+    "Level 1": {
+      "label": "Musical Instrument",
+      "synonyms": ["Instrument", "Device for producing music"]
+    },
+    "Level 2": {
+      "label": "Brass Instrument",
+      "synonyms": ["Instrument made of brass", "Metal wind instrument"]
+    },
+    "Level 3": {
+      "label": "Euphonium",
+      "synonyms": ["Tenor tuba", "Brass wind instrument"]
+    }
+  },
+  "ewer": {
+    "Level 1": {
+      "label": "Container",
+      "synonyms": ["Receptacle", "Vessel", "Holder"]
+    },
+    "Level 2": {
+      "label": "Pouring Vessel",
+      "synonyms": ["Container for pouring liquids"]
+    },
+    "Level 3": {
+      "label": "Ewer",
+      "synonyms": ["Ancient pitcher", "Water jug"]
+    }
+  },
+  "ferry": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Mode of Transport", "Conveyance", "Automobile"]
+    },
+    "Level 2": {
+      "label": "Boat",
+      "synonyms": ["Watercraft", "Vessel for traveling on water"]
+    },
+    "Level 3": {
+      "label": "Ferry",
+      "synonyms": ["Boat for transporting people and goods", "Water bus"]
+    }
+  },
+  "flamingo": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Bird",
+      "synonyms": ["Warm-blooded vertebrate with feathers"]
+    },
+    "Level 3": {
+      "label": "Flamingo",
+      "synonyms": ["Phoenicopterus", "Wading bird"]
+    }
+  },
+  "flamingo_head": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Bird",
+      "synonyms": ["Warm-blooded vertebrate with feathers"]
+    },
+    "Level 3": {
+      "label": "Flamingo",
+      "synonyms": ["Phoenicopterus", "Wading bird"]
+    },
+    "Level 4": {
+      "label": "Flamingo Head",
+      "synonyms": ["Head of a flamingo", "Flamingo's visage"]
+    }
+  },
+  "garfield": {
+    "Level 1": {
+      "label": "Character",
+      "synonyms": ["Fictional character", "Animated character"]
+    },
+    "Level 2": {
+      "label": "Comic Strip Character",
+      "synonyms": ["Character from Garfield comic strip"]
+    },
+    "Level 3": {
+      "label": "Garfield",
+      "synonyms": ["Lasagna-loving cat", "Feline character from Garfield"]
+    }
+  },
+  "gerenuk": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Even-toed ungulate",
+      "synonyms": ["Hoofed mammal with an even number of toes"]
+    },
+    "Level 4": {
+      "label": "Gerenuk",
+      "synonyms": ["Litocranius walleri", "Long-necked antelope"]
+    }
+  },
+  "gramophone": {
+    "Level 1": {
+      "label": "Device",
+      "synonyms": ["Apparatus", "Instrument"]
+    },
+    "Level 2": {
+      "label": "Sound Recording Device",
+      "synonyms": ["Device for recording and playing sound"]
+    },
+    "Level 3": {
+      "label": "Gramophone",
+      "synonyms": ["Phonograph", "Record player"]
+    }
+  },
+  "grand_piano": {
+    "Level 1": {
+      "label": "Musical Instrument",
+      "synonyms": ["Instrument", "Device for producing music"]
+    },
+    "Level 2": {
+      "label": "Keyboard Instrument",
+      "synonyms": ["Instrument with keys", "Piano"]
+    },
+    "Level 3": {
+      "label": "Grand Piano",
+      "synonyms": ["Large piano", "Concert piano"]
+    }
+  },
+  "hawksbill": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Reptile",
+      "synonyms": ["Cold-blooded vertebrate", "Scaly animal"]
+    },
+    "Level 3": {
+      "label": "Turtle",
+      "synonyms": ["Chelonian", "Reptile with a shell"]
+    },
+    "Level 4": {
+      "label": "Hawksbill Turtle",
+      "synonyms": ["Eretmochelys imbricata", "Sea turtle"]
+    }
+  },
+  "headphone": {
+    "Level 1": {
+      "label": "Device",
+      "synonyms": ["Apparatus", "Instrument"]
+    },
+    "Level 2": {
+      "label": "Audio Device",
+      "synonyms": ["Device for listening to audio", "Sound device"]
+    },
+    "Level 3": {
+      "label": "Headphone",
+      "synonyms": ["Earphone", "Headset"]
+    }
+  },
+  "hedgehog": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Echidna",
+      "synonyms": ["Spiny anteater", "Monotreme"]
+    },
+    "Level 4": {
+      "label": "Hedgehog",
+      "synonyms": ["Erinaceinae", "Spiny mammal"]
+    }
+  },
+  "helicopter": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Mode of Transport", "Conveyance", "Automobile"]
+    },
+    "Level 2": {
+      "label": "Aircraft",
+      "synonyms": ["Flying Vehicle", "Airborne Transport"]
+    },
+    "Level 3": {
+      "label": "Helicopter",
+      "synonyms": ["Rotorcraft", "Helicopter aircraft"]
+    }
+  },
+  "ibis": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Bird",
+      "synonyms": ["Warm-blooded vertebrate with feathers"]
+    },
+    "Level 3": {
+      "label": "Ibis",
+      "synonyms": ["Threskiornithidae", "Wading bird"]
+    }
+  },
+  "inline_skate": {
+    "Level 1": {
+      "label": "Sporting Equipment",
+      "synonyms": ["Equipment for sports", "Athletic gear"]
+    },
+    "Level 2": {
+      "label": "Skates",
+      "synonyms": ["Footwear with wheels", "Roller skates"]
+    },
+    "Level 3": {
+      "label": "Inline Skates",
+      "synonyms": ["Skates with wheels in a line", "Rollerblades"]
+    }
+  },
+  "joshua_tree": {
+    "Level 1": {
+      "label": "Plant",
+      "synonyms": ["Living organism of the plant kingdom"]
+    },
+    "Level 2": {
+      "label": "Tree",
+      "synonyms": ["Perennial plant with an elongated stem"]
+    },
+    "Level 3": {
+      "label": "Joshua Tree",
+      "synonyms": ["Yucca brevifolia", "Tree-like plant"]
+    }
+  },
+  "kangaroo": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Marsupial",
+      "synonyms": ["Pouched mammal", "Metatherian"]
+    },
+    "Level 4": {
+      "label": "Kangaroo",
+      "synonyms": ["Macropus", "Large marsupial"]
+    }
+  },
+  "ketch": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Mode of Transport", "Conveyance", "Automobile"]
+    },
+    "Level 2": {
+      "label": "Boat",
+      "synonyms": ["Watercraft", "Vessel for traveling on water"]
+    },
+    "Level 3": {
+      "label": "Ketch",
+      "synonyms": ["Sailboat with two masts", "Rigged sailing vessel"]
+    }
+  },
+  "lamp": {
+    "Level 1": {
+      "label": "Object",
+      "synonyms": ["Thing", "Item", "Entity"]
+    },
+    "Level 2": {
+      "label": "Light Source",
+      "synonyms": ["Device that produces light"]
+    },
+    "Level 3": {
+      "label": "Lamp",
+      "synonyms": ["Portable light source", "Electric light"]
+    }
+  },
+  "laptop": {
+    "Level 1": {
+      "label": "Device",
+      "synonyms": ["Gadget", "Apparatus"]
+    },
+    "Level 2": {
+      "label": "Computer",
+      "synonyms": ["Electronic device for processing data"]
+    },
+    "Level 3": {
+      "label": "Laptop",
+      "synonyms": ["Portable computer", "Notebook"]
+    }
+  },
+  "llama": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Camelid",
+      "synonyms": ["Humped mammal", "Camel-like animal"]
+    },
+    "Level 4": {
+      "label": "Llama",
+      "synonyms": ["Lama glama", "Domesticated South American camelid"]
+    }
+  },
+  "lobster": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Invertebrate",
+      "synonyms": ["Animal without a backbone", "Spineless Creature"]
+    },
+    "Level 3": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with an exoskeleton", "Joint-legged animal"]
+    },
+    "Level 4": {
+      "label": "Crustacean",
+      "synonyms": ["Aquatic arthropod", "Crustacea"]
+    },
+    "Level 5": {
+      "label": "Lobster",
+      "synonyms": ["Marine crustacean", "Homarus"]
+    }
+  },
+  "lotus": {
+    "Level 1": {
+      "label": "Plant",
+      "synonyms": ["Living organism of the plant kingdom"]
+    },
+    "Level 2": {
+      "label": "Flower",
+      "synonyms": ["Reproductive structure of a flowering plant"]
+    },
+    "Level 3": {
+      "label": "Lotus",
+      "synonyms": ["Nelumbo", "Sacred water plant"]
+    }
+  },
+  "mandolin": {
+    "Level 1": {
+      "label": "Musical Instrument",
+      "synonyms": ["Instrument", "Device for producing music"]
+    },
+    "Level 2": {
+      "label": "String Instrument",
+      "synonyms": ["Instrument with strings", "Chordophone"]
+    },
+    "Level 3": {
+      "label": "Mandolin",
+      "synonyms": ["Lute-like string instrument", "Italian stringed instrument"]
+    }
+  },
+  "mayfly": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Invertebrate",
+      "synonyms": ["Animal without a backbone", "Spineless Creature"]
+    },
+    "Level 3": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with an exoskeleton", "Joint-legged animal"]
+    },
+    "Level 4": {
+      "label": "Insect",
+      "synonyms": ["Small arthropod animal", "Hexapod"]
+    },
+    "Level 5": {
+      "label": "Mayfly",
+      "synonyms": ["Ephemeroptera", "Short-lived flying insect"]
+    }
+  },
+  "menorah": {
+    "Level 1": {
+      "label": "Object",
+      "synonyms": ["Thing", "Item", "Entity"]
+    },
+    "Level 2": {
+      "label": "Religious Object",
+      "synonyms": ["Object of religious significance"]
+    },
+    "Level 3": {
+      "label": "Menorah",
+      "synonyms": ["Seven-branched candelabrum", "Jewish ritual object"]
+    }
+  },
+  "metronome": {
+    "Level 1": {
+      "label": "Device",
+      "synonyms": ["Apparatus", "Instrument"]
+    },
+    "Level 2": {
+      "label": "Timekeeping Device",
+      "synonyms": ["Device for keeping time", "Tempo device"]
+    },
+    "Level 3": {
+      "label": "Metronome",
+      "synonyms": ["Device that produces a regular beat", "Tempo marking device"]
+    }
+  },
+  "minaret": {
+    "Level 1": {
+      "label": "Structure",
+      "synonyms": ["Building", "Edifice"]
+    },
+    "Level 2": {
+      "label": "Religious Structure",
+      "synonyms": ["Structure for religious purposes"]
+    },
+    "Level 3": {
+      "label": "Minaret",
+      "synonyms": ["Tower associated with a mosque", "Islamic religious tower"]
+    }
+  },
+  "nautilus": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Mollusk",
+      "synonyms": ["Soft-bodied marine animal", "Shellfish"]
+    },
+    "Level 3": {
+      "label": "Cephalopod",
+      "synonyms": ["Class of mollusks with tentacles", "Tentacled mollusk"]
+    },
+    "Level 4": {
+      "label": "Nautilus",
+      "synonyms": ["Cephalopod with a spiral shell", "Nautilus pompilius"]
+    }
+  },
+  "octopus": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Mollusk",
+      "synonyms": ["Soft-bodied marine animal", "Shellfish"]
+    },
+    "Level 3": {
+      "label": "Cephalopod",
+      "synonyms": ["Class of mollusks with tentacles", "Tentacled mollusk"]
+    },
+    "Level 4": {
+      "label": "Octopus",
+      "synonyms": ["Cephalopod with eight arms", "Octopus vulgaris"]
+    }
+  },
+  "okapi": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Even-toed ungulate",
+      "synonyms": ["Hoofed mammal with an even number of toes"]
+    },
+    "Level 4": {
+      "label": "Okapi",
+      "synonyms": ["Okapia johnstoni", "Forest giraffe"]
+    }
+  },
+  "pagoda": {
+    "Level 1": {
+      "label": "Structure",
+      "synonyms": ["Building", "Edifice"]
+    },
+    "Level 2": {
+      "label": "Religious Structure",
+      "synonyms": ["Structure for religious purposes"]
+    },
+    "Level 3": {
+      "label": "Pagoda",
+      "synonyms": ["Tiered tower with multiple eaves", "East Asian religious building"]
+    }
+  },
+  "panda": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Bear",
+      "synonyms": ["Large mammal", "Ursidae"]
+    },
+    "Level 4": {
+      "label": "Panda",
+      "synonyms": ["Giant panda", "Ailuropoda melanoleuca"]
+    }
+  },
+  "pigeon": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Bird",
+      "synonyms": ["Warm-blooded vertebrate with feathers"]
+    },
+    "Level 3": {
+      "label": "Pigeon",
+      "synonyms": ["Columba", "Bird of the dove family"]
+    }
+  },
+  "pizza": {
+    "Level 1": {
+      "label": "Food",
+      "synonyms": ["Dish", "Cuisine"]
+    },
+    "Level 2": {
+      "label": "Italian Dish",
+      "synonyms": ["Dish from Italy", "Italian cuisine"]
+    },
+    "Level 3": {
+      "label": "Pizza",
+      "synonyms": ["Savory dish with toppings", "Cheese and tomato pie"]
+    }
+  },
+  "platypus": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Monotreme",
+      "synonyms": ["Egg-laying mammal", "Primitive mammal"]
+    },
+    "Level 4": {
+      "label": "Platypus",
+      "synonyms": ["Ornithorhynchus anatinus", "Duck-billed platypus"]
+    }
+  },
+  "pyramid": {
+    "Level 1": {
+      "label": "Structure",
+      "synonyms": ["Building", "Edifice"]
+    },
+    "Level 2": {
+      "label": "Tomb",
+      "synonyms": ["Burial place", "Mortuary temple"]
+    },
+    "Level 3": {
+      "label": "Pyramid",
+      "synonyms": ["Monumental structure with a square base", "Triangular pyramid"]
+    }
+  },
+  "revolver": {
+    "Level 1": {
+      "label": "Weapon",
+      "synonyms": ["Armament", "Firearm"]
+    },
+    "Level 2": {
+      "label": "Firearm",
+      "synonyms": ["Portable gun"]
+    },
+    "Level 3": {
+      "label": "Revolver",
+      "synonyms": ["Handgun with a revolving cylinder", "Revolving pistol"]
+    }
+  },
+  "rhino": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Perissodactyl",
+      "synonyms": ["Odd-toed ungulate", "Hoofed mammal"]
+    },
+    "Level 4": {
+      "label": "Rhino",
+      "synonyms": ["Rhinoceros", "Large herbivorous mammal"]
+    }
+  },
+  "rooster": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Bird",
+      "synonyms": ["Warm-blooded vertebrate with feathers"]
+    },
+    "Level 3": {
+      "label": "Rooster",
+      "synonyms": ["Male chicken", "Cockerel"]
+    }
+  },
+  "saxophone": {
+    "Level 1": {
+      "label": "Musical Instrument",
+      "synonyms": ["Instrument", "Device for producing music"]
+    },
+    "Level 2": {
+      "label": "Wind Instrument",
+      "synonyms": ["Instrument played by blowing air", "Aerophone"]
+    },
+    "Level 3": {
+      "label": "Saxophone",
+      "synonyms": ["Brass instrument with a single-reed mouthpiece", "Sax"]
+    }
+  },
+  "schooner": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Mode of Transport", "Conveyance", "Automobile"]
+    },
+    "Level 2": {
+      "label": "Boat",
+      "synonyms": ["Watercraft", "Vessel for traveling on water"]
+    },
+    "Level 3": {
+      "label": "Schooner",
+      "synonyms": ["Sailing ship with two or more masts", "Rigged sailing vessel"]
+    }
+  },
+  "scissors": {
+    "Level 1": {
+      "label": "Object",
+      "synonyms": ["Thing", "Item", "Entity"]
+    },
+    "Level 2": {
+      "label": "Cutting Tool",
+      "synonyms": ["Tool for cutting", "Sharp instrument"]
+    },
+    "Level 3": {
+      "label": "Scissors",
+      "synonyms": ["Shears", "Cutting instrument"]
+    }
+  },
+  "scorpion": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with an exoskeleton", "Joint-legged animal"]
+    },
+    "Level 3": {
+      "label": "Scorpion",
+      "synonyms": ["Arachnid with a venomous sting", "Scorpiones"]
+    }
+  },
+  "sea_horse": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Fish",
+      "synonyms": ["Aquatic vertebrate", "Gilled creature"]
+    },
+    "Level 3": {
+      "label": "Sea Horse",
+      "synonyms": ["Hippocampus", "Marine fish"]
+    }
+  },
+  "snoopy": {
+    "Level 1": {
+      "label": "Character",
+      "synonyms": ["Fictional character", "Animated character"]
+    },
+    "Level 2": {
+      "label": "Comic Strip Character",
+      "synonyms": ["Character from Peanuts comic strip"]
+    },
+    "Level 3": {
+      "label": "Snoopy",
+      "synonyms": ["Charlie Brown's dog", "Beagle from Peanuts"]
+    }
+  },
+  "soccer_ball": {
+    "Level 1": {
+      "label": "Object",
+      "synonyms": ["Thing", "Item", "Entity"]
+    },
+    "Level 2": {
+      "label": "Ball",
+      "synonyms": ["Spherical object used in games"]
+    },
+    "Level 3": {
+      "label": "Soccer Ball",
+      "synonyms": ["Ball used in soccer", "Football"]
+    }
+  },
+  "stapler": {
+    "Level 1": {
+      "label": "Object",
+      "synonyms": ["Thing", "Item", "Entity"]
+    },
+    "Level 2": {
+      "label": "Office Supply",
+      "synonyms": ["Supply used in an office", "Stationery item"]
+    },
+    "Level 3": {
+      "label": "Stapler",
+      "synonyms": ["Device for fastening papers", "Paper stapler"]
+    }
+  },
+  "starfish": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Echinoderm",
+      "synonyms": ["Marine invertebrate with radial symmetry"]
+    },
+    "Level 3": {
+      "label": "Starfish",
+      "synonyms": ["Asteroidea", "Sea star"]
+    }
+  },
+  "stegosaurus": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Dinosaur",
+      "synonyms": ["Prehistoric reptile", "Mesozoic reptile"]
+    },
+    "Level 3": {
+      "label": "Stegosaur",
+      "synonyms": ["Dinosaur with plates along its back"]
+    },
+    "Level 4": {
+      "label": "Stegosaurus",
+      "synonyms": ["Stegosaurus", "Plate-backed dinosaur"]
+    }
+  },
+  "stop_sign": {
+    "Level 1": {
+      "label": "Object",
+      "synonyms": ["Thing", "Item", "Entity"]
+    },
+    "Level 2": {
+      "label": "Traffic Sign",
+      "synonyms": ["Sign for regulating traffic"]
+    },
+    "Level 3": {
+      "label": "Stop Sign",
+      "synonyms": ["Octagonal traffic sign", "Sign to stop vehicles"]
+    }
+  },
+  "strawberry": {
+    "Level 1": {
+      "label": "Plant",
+      "synonyms": ["Living organism of the plant kingdom"]
+    },
+    "Level 2": {
+      "label": "Fruit",
+      "synonyms": ["Edible reproductive structure of a flowering plant"]
+    },
+    "Level 3": {
+      "label": "Strawberry",
+      "synonyms": ["Fragaria", "Berry"]
+    }
+  },
+  "sunflower": {
+    "Level 1": {
+      "label": "Plant",
+      "synonyms": ["Living organism of the plant kingdom"]
+    },
+    "Level 2": {
+      "label": "Flower",
+      "synonyms": ["Reproductive structure of a flowering plant"]
+    },
+    "Level 3": {
+      "label": "Sunflower",
+      "synonyms": ["Helianthus", "Tall flowering plant"]
+    }
+  },
+  "tick": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Invertebrate",
+      "synonyms": ["Animal without a backbone", "Spineless Creature"]
+    },
+    "Level 3": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with an exoskeleton", "Joint-legged animal"]
+    },
+    "Level 4": {
+      "label": "Arachnid",
+      "synonyms": ["Joint-legged invertebrate", "Spider-like organism"]
+    },
+    "Level 5": {
+      "label": "Tick",
+      "synonyms": ["Bloodsucking arachnid", "Ectoparasite"]
+    }
+  },
+  "trilobite": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life form"]
+    },
+    "Level 2": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with an exoskeleton", "Joint-legged animal"]
+    },
+    "Level 3": {
+      "label": "Trilobite",
+      "synonyms": ["Extinct marine arthropod", "Trilobita"]
+    }
+  },
+  "umbrella": {
+    "Level 1": {
+      "label": "Object",
+      "synonyms": ["Thing", "Item", "Entity"]
+    },
+    "Level 2": {
+      "label": "Shield",
+      "synonyms": ["Device for protection against rain or sun"]
+    },
+    "Level 3": {
+      "label": "Umbrella",
+      "synonyms": ["Folding canopy", "Sunshade"]
+    }
+  },
+  "watch": {
+    "Level 1": {
+      "label": "Device",
+      "synonyms": ["Apparatus", "Instrument"]
+    },
+    "Level 2": {
+      "label": "Timekeeping Device",
+      "synonyms": ["Device for keeping time", "Tempo device"]
+    },
+    "Level 3": {
+      "label": "Watch",
+      "synonyms": ["Wristwatch", "Timepiece"]
+    }
+  },
+  "water_lilly": {
+    "Level 1": {
+      "label": "Plant",
+      "synonyms": ["Living organism of the plant kingdom"]
+    },
+    "Level 2": {
+      "label": "Flower",
+      "synonyms": ["Reproductive structure of a flowering plant"]
+    },
+    "Level 3": {
+      "label": "Water Lily",
+      "synonyms": ["Nymphaea", "Aquatic flowering plant"]
+    }
+  },
+  "wheelchair": {
+    "Level 1": {
+      "label": "Device",
+      "synonyms": ["Apparatus", "Instrument"]
+    },
+    "Level 2": {
+      "label": "Mobility Aid",
+      "synonyms": ["Device for assisting movement", "Aid for disabled or injured"]
+    },
+    "Level 3": {
+      "label": "Wheelchair",
+      "synonyms": ["Chair on wheels", "Mobility chair"]
+    }
+  },
+  "wild_cat": {
+    "Level 1": {
+      "label": "Animal",
+      "synonyms": ["Organism", "Living Being", "Creature"]
+    },
+    "Level 2": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Animal with Hair or Fur"]
+    },
+    "Level 3": {
+      "label": "Wild Cat",
+      "synonyms": ["Feline", "Cat species"]
+    }
+  },
+  "windsor_chair": {
+    "Level 1": {
+      "label": "Furniture",
+      "synonyms": ["Home furnishing", "Household item"]
+    },
+    "Level 2": {
+      "label": "Chair",
+      "synonyms": ["Seat with a backrest", "Armchair"]
+    },
+    "Level 3": {
+      "label": "Windsor Chair",
+      "synonyms": ["Traditional wooden chair", "Colonial American chair"]
+    }
+  },
+  "wrench": {
+    "Level 1": {
+      "label": "Tool",
+      "synonyms": ["Instrument for tightening or loosening"]
+    },
+    "Level 2": {
+      "label": "Hand Tool",
+      "synonyms": ["Tool operated by hand"]
+    },
+    "Level 3": {
+      "label": "Wrench",
+      "synonyms": ["Spanner", "Adjustable spanner"]
+    }
+  },
+  "yin_yang": {
+    "Level 1": {
+      "label": "Symbol",
+      "synonyms": ["Sign", "Emblem"]
+    },
+    "Level 2": {
+      "label": "Philosophical Concept",
+      "synonyms": ["Yin and Yang", "Dualism"]
+    },
+    "Level 3": {
+      "label": "Yin Yang",
+      "synonyms": ["Taijitu", "Symbol of dualism"]
+    }
+  }
+}

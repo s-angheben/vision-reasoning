@@ -1,0 +1,122 @@
+{
+  "Faces": {
+    "Level 1": { "label": "Animal", "synonyms": ["Creature", "Living Being", "Organism"] },
+    "Level 2": { "label": "Mammal", "synonyms": ["Warm-blooded Animal", "Furred Animal"] },
+    "Level 3": { "label": "Human Face", "synonyms": ["Person's Face", "Human Visage", "Facial Portrait"] },
+    "Level 4": { "label": "Face", "synonyms": ["Human Face", "Homo sapiens Face"] }
+  },
+  "Faces_easy": {
+    "Level 1": { "label": "Animal", "synonyms": ["Creature", "Living Being", "Organism"] },
+    "Level 2": { "label": "Mammal", "synonyms": ["Warm-blooded Animal", "Furred Animal"] },
+    "Level 3": { "label": "Human Face", "synonyms": ["Person's Face", "Human Visage", "Facial Portrait"] },
+    "Level 4": { "label": "Face (Easy)", "synonyms": ["Frontal Face", "Clear Human Face"] }
+  },
+  "Leopards": {
+    "Level 1": { "label": "Animal", "synonyms": ["Creature", "Living Being", "Organism"] },
+    "Level 2": { "label": "Mammal", "synonyms": ["Warm-blooded Animal", "Furred Animal"] },
+    "Level 3": { "label": "Big Cat", "synonyms": ["Pantherine", "Large Feline", "Wild Cat"] },
+    "Level 4": { "label": "Leopard", "synonyms": ["Panthera pardus", "Spotted Big Cat"] }
+  },
+  "Motorbikes": {
+    "Level 1": { "label": "Vehicle", "synonyms": ["Transport", "Conveyance", "Automotive"] },
+    "Level 2": { "label": "Two-Wheeled Vehicle", "synonyms": ["Motorcycle Type", "Bike"] },
+    "Level 3": { "label": "Motorbike", "synonyms": ["Motorcycle", "Powered Bike"] },
+    "Level 4": { "label": "Motorbike", "synonyms": ["Motorcycle", "Motor-driven Bike"] }
+  },
+  "accordion": {
+    "Level 1": { "label": "Object", "synonyms": ["Item", "Thing", "Artifact"] },
+    "Level 2": { "label": "Musical Instrument", "synonyms": ["Instrument", "Music Device"] },
+    "Level 3": { "label": "Free-reed Instrument", "synonyms": ["Bellows Instrument", "Squeezebox"] },
+    "Level 4": { "label": "Accordion", "synonyms": ["Piano Accordion", "Button Accordion"] }
+  },
+  "airplanes": {
+    "Level 1": { "label": "Vehicle", "synonyms": ["Transport", "Conveyance", "Automotive"] },
+    "Level 2": { "label": "Aircraft", "synonyms": ["Flying Vehicle", "Aeroplane"] },
+    "Level 3": { "label": "Fixed-wing Aircraft", "synonyms": ["Plane", "Jet", "Propeller Plane"] },
+    "Level 4": { "label": "Airplane", "synonyms": ["Aeroplane", "Fixed-wing Plane"] }
+  },
+  "anchor": {
+    "Level 1": { "label": "Object", "synonyms": ["Item", "Thing", "Artifact"] },
+    "Level 2": { "label": "Maritime Equipment", "synonyms": ["Nautical Gear", "Boat Equipment"] },
+    "Level 3": { "label": "Anchor", "synonyms": ["Ship Anchor", "Boat Anchor"] },
+    "Level 4": { "label": "Anchor", "synonyms": ["Admiralty Anchor", "Stockless Anchor"] }
+  },
+  "ant": {
+    "Level 1": { "label": "Animal", "synonyms": ["Creature", "Living Being", "Organism"] },
+    "Level 2": { "label": "Insect", "synonyms": ["Bug", "Arthropod"] },
+    "Level 3": { "label": "Ant", "synonyms": ["Formicidae", "Colony Insect"] },
+    "Level 4": { "label": "Ant", "synonyms": ["Formica", "Worker Ant"] }
+  },
+  "barrel": {
+    "Level 1": { "label": "Object", "synonyms": ["Item", "Thing", "Artifact"] },
+    "Level 2": { "label": "Container", "synonyms": ["Storage Vessel", "Receptacle"] },
+    "Level 3": { "label": "Barrel", "synonyms": ["Cask", "Drum"] },
+    "Level 4": { "label": "Barrel", "synonyms": ["Wooden Barrel", "Metal Barrel"] }
+  },
+  "bass": {
+    "Level 1": { "label": "Animal", "synonyms": ["Creature", "Living Being", "Organism"] },
+    "Level 2": { "label": "Fish", "synonyms": ["Aquatic Animal", "Pisces"] },
+    "Level 3": { "label": "Bass Fish", "synonyms": ["Black Bass", "Largemouth Bass", "Smallmouth Bass"] },
+    "Level 4": { "label": "Bass", "synonyms": ["Micropterus", "Morone"] }
+  },
+  "beaver": {
+    "Level 1": { "label": "Animal", "synonyms": ["Creature", "Living Being", "Organism"] },
+    "Level 2": { "label": "Mammal", "synonyms": ["Warm-blooded Animal", "Furred Animal"] },
+    "Level 3": { "label": "Rodent", "synonyms": ["Gnawing Mammal", "Cricetidae"] },
+    "Level 4": { "label": "Beaver", "synonyms": ["Castor", "Castor canadensis", "Castor fiber"] }
+  },
+  "binocular": {
+    "Level 1": { "label": "Object", "synonyms": ["Item", "Thing", "Artifact"] },
+    "Level 2": { "label": "Optical Device", "synonyms": ["Viewing Instrument", "Vision Aid"] },
+    "Level 3": { "label": "Binoculars", "synonyms": ["Field Glasses", "Opera Glasses"] },
+    "Level 4": { "label": "Binoculars", "synonyms": ["Prism Binoculars", "Porro Binoculars"] }
+  },
+  "bonsai": {
+    "Level 1": { "label": "Plant", "synonyms": ["Vegetation", "Flora", "Greenery", "Botanical Life"] },
+    "Level 2": { "label": "Tree", "synonyms": ["Woody Plant", "Arboreal Plant"] },
+    "Level 3": { "label": "Miniature Tree", "synonyms": ["Dwarf Tree", "Potted Tree"] },
+    "Level 4": { "label": "Bonsai", "synonyms": ["Bonsai Tree", "Cultivated Miniature Tree"] }
+  },
+  "brain": {
+    "Level 1": { "label": "Object", "synonyms": ["Item", "Thing", "Artifact"] },
+    "Level 2": { "label": "Biological Organ", "synonyms": ["Body Part", "Organ"] },
+    "Level 3": { "label": "Brain", "synonyms": ["Cerebrum", "Encephalon"] },
+    "Level 4": { "label": "Brain", "synonyms": ["Human Brain", "Animal Brain"] }
+  },
+  "brontosaurus": {
+    "Level 1": { "label": "Animal", "synonyms": ["Creature", "Living Being", "Organism"] },
+    "Level 2": { "label": "Reptile", "synonyms": ["Sauropsid", "Cold-blooded Animal"] },
+    "Level 3": { "label": "Dinosaur", "synonyms": ["Sauropod", "Prehistoric Reptile"] },
+    "Level 4": { "label": "Brontosaurus", "synonyms": ["Apatosaurus excelsus", "Thunder Lizard"] }
+  },
+  "buddha": {
+    "Level 1": { "label": "Object", "synonyms": ["Item", "Thing", "Artifact"] },
+    "Level 2": { "label": "Statue", "synonyms": ["Sculpture", "Figurine"] },
+    "Level 3": { "label": "Religious Statue", "synonyms": ["Sacred Sculpture", "Icon"] },
+    "Level 4": { "label": "Buddha Statue", "synonyms": ["Buddha Figure", "Buddhist Icon"] }
+  },
+  "butterfly": {
+    "Level 1": { "label": "Animal", "synonyms": ["Creature", "Living Being", "Organism"] },
+    "Level 2": { "label": "Insect", "synonyms": ["Bug", "Arthropod"] },
+    "Level 3": { "label": "Butterfly", "synonyms": ["Lepidoptera", "Winged Insect"] },
+    "Level 4": { "label": "Butterfly", "synonyms": ["Papilionoidea", "True Butterfly"] }
+  },
+  "camera": {
+    "Level 1": { "label": "Object", "synonyms": ["Item", "Thing", "Artifact"] },
+    "Level 2": { "label": "Imaging Device", "synonyms": ["Photo Device", "Optical Instrument"] },
+    "Level 3": { "label": "Camera", "synonyms": ["Photographic Camera", "Picture Camera"] },
+    "Level 4": { "label": "Camera", "synonyms": ["DSLR", "Film Camera", "Digital Camera"] }
+  },
+  "cannon": {
+    "Level 1": { "label": "Object", "synonyms": ["Item", "Thing", "Artifact"] },
+    "Level 2": { "label": "Weapon", "synonyms": ["Armament", "Artillery"] },
+    "Level 3": { "label": "Cannon", "synonyms": ["Artillery Gun", "Field Gun"] },
+    "Level 4": { "label": "Cannon", "synonyms": ["Howitzer", "Field Cannon"] }
+  },
+  "car_side": {
+    "Level 1": { "label": "Vehicle", "synonyms": ["Transport", "Conveyance", "Automotive"] },
+    "Level 2": { "label": "Car", "synonyms": ["Automobile", "Motorcar"] },
+    "Level 3": { "label": "Side View Car", "synonyms": ["Profile Car", "Car Side"] },
+    "Level 4": { "label": "Car Side", "synonyms": ["Automobile Side", "Vehicle Profile"] }
+  }
+}
