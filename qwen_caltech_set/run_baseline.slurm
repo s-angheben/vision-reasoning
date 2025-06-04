@@ -4,7 +4,7 @@
 #SBATCH -N 1
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=8
-#SBATCH -t 0-10:00
+#SBATCH -t 0-20:00
 
 module load CUDA/12.5.0
 
@@ -15,6 +15,6 @@ source /home/samuele.angheben/vr_env/bin/activate
 # only first time
 # pip install -r requirements.txt
 
-python qwen_bird/qwen_caltech_set.py
+python qwen_caltech_set/qwen_caltech_set.py
 
 

@@ -1,8 +1,9 @@
-from torchvision.datasets import Caltech101
 from model import QwenVLModel
 import json
 import os
 import re
+from caltech101 import Caltech101
+
 
 DATASET_PATH = "/home/samuele.angheben/datasets"
 BASE_PATH = "/home/samuele.angheben/vision-reasoning/qwen_caltech_set"
