@@ -2,6 +2,7 @@ from model import QwenVLModel
 import json
 import os
 import re
+import random
 from caltech101 import Caltech101
 
 
@@ -15,13 +16,41 @@ print("Loaded dataset with categories:", dataset.categories)
 model = QwenVLModel()
 print("Model loaded.")
 
+
 prompts = {
-    "prompt1": ("What type of object is in this photo?", False),
-    "prompt2": ("What type of object is in this photo? Be generic.", False),
-    "prompt3": ("What type of object is in this photo? Be specific.", False),
-    "prompt4": ("What type of object is in this photo? Think step by step and give the final answer in <answer> </answer> tags", True),
-    "prompt5": ("What type of object is in this photo? Please output the thinking process in <think> </think> and final answer in <answer> </answer> tags", True),
+    "prompt1": ("Identify the object. Use 1 to 3 words.", False),
+    "prompt2": ("Label the primary object (max 3 words).", False),
+    "prompt3": ("What is this? Provide a 1-3 word description.", False),
+    "prompt4": ("Classify the object. Use 1 to 3 words.", False),
+    "prompt5": ("Open-world classification: Name the object in 1 to 3 words.", False),
+    # Additional prompts for open-world classification behavior:
+    "prompt6": ("Act as an image classifier. What is the main object? Respond with 1-3 words.", False),
+    "prompt7": ("You are a classifier. Give the object class in 1 to 3 words.", False),
+    "prompt8": ("Classify the main object in this image using up to 3 words.", False),
+    "prompt9": ("Provide the category of the object in 1-3 words, as a classifier would.", False),
+    "prompt10": ("As an open-world classifier, state the object's class (max 3 words).", False),
 }
+
+# Initial step: test all prompts on 4 random images and print predictions
+print("\n=== Initial prompt testing on 4 random images ===")
+sample_indices = random.sample(range(len(dataset)), 4)
+for idx in sample_indices:
+    image, label = dataset[idx]
+    label_name = dataset.categories[label]
+    print(f"\nImage idx: {idx}, Label: {label_name}")
+    for prompt_name, (prompt_text, is_reasoning) in prompts.items():
+        prediction = model.predict(image, prompt_text)
+        if is_reasoning:
+            match = re.search(r"<answer>(.*?)</answer>", prediction, re.DOTALL)
+            if match:
+                answer = match.group(1).strip()
+            else:
+                answer = ""
+            print(f"[{prompt_name}] Reasoning prediction: {prediction} | Extracted answer: '{answer}'")
+        else:
+            print(f"[{prompt_name}] Prediction: {prediction}")
+
+exit(0)
 
 os.makedirs(f"{BASE_PATH}/outputs", exist_ok=True)
 
