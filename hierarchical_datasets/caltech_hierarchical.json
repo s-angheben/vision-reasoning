@@ -1,0 +1,1820 @@
+{
+  "Faces": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life Form", "Biological Entity"]
+    },
+    "Level 2": {
+      "label": "Person",
+      "synonyms": ["Human", "Individual", "Human Being", "Homo Sapiens"]
+    },
+    "Level 3": {
+      "label": "Head",
+      "synonyms": ["Cranium", "Top Part of Body", "Upper Body Part", "Cephalic Region"]
+    },
+    "Level 4": {
+      "label": "Faces",
+      "synonyms": ["Human Faces", "People's Faces", "Countenances", "Mugs", "Visages"]
+    }
+  },
+  "Faces_easy": {
+    "Level 1": {
+      "label": "Organism",
+      "synonyms": ["Living Being", "Creature", "Life Form", "Biological Entity"]
+    },
+    "Level 2": {
+      "label": "Person",
+      "synonyms": ["Human", "Individual", "Human Being", "Homo Sapiens"]
+    },
+    "Level 3": {
+      "label": "Head",
+      "synonyms": ["Cranium", "Top Part of Body", "Upper Body Part", "Cephalic Region"]
+    },
+    "Level 4": {
+      "label": "Faces",
+      "synonyms": ["Human Faces", "People's Faces", "Countenances", "Mugs", "Visages"]
+    }
+  },
+  "Leopards": {
+    "Level 1": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Hairy Animal", "Milk-producing Animal", "Therian"]
+    },
+    "Level 2": {
+      "label": "Feline",
+      "synonyms": ["Cat", "Felid", "Member of Felidae family", "Carnivorous Cat"]
+    },
+    "Level 3": {
+      "label": "Big Cat",
+      "synonyms": ["Large Feline", "Pantherine", "Roaring Cat", "Apex Predator Cat"]
+    },
+    "Level 4": {
+      "label": "Leopards",
+      "synonyms": ["Panthera pardus", "Spotted Big Cat", "Leopard Cat", "Panther"]
+    }
+  },
+  "Motorbikes": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Transport", "Conveyance", "Mode of Transportation", "Mechanical Transporter"]
+    },
+    "Level 2": {
+      "label": "Motor Vehicle",
+      "synonyms": ["Powered Vehicle", "Engine-driven Transport", "Automotive Vehicle", "Self-propelled Vehicle"]
+    },
+    "Level 3": {
+      "label": "Two-wheeled Motor Vehicle",
+      "synonyms": ["Motorized Two-wheeler", "Powered Bicycle type", "Motorcycle Category Vehicle"]
+    },
+    "Level 4": {
+      "label": "Motorbikes",
+      "synonyms": ["Motorcycle", "Bike", "Motor-powered Bicycle", "Chopper", "Sport Bike"]
+    }
+  },
+  "accordion": {
+    "Level 1": {
+      "label": "Sound-producing Device",
+      "synonyms": ["Acoustic Device", "Audio Equipment", "Sonic Emitter", "Vibrating Object for Sound"]
+    },
+    "Level 2": {
+      "label": "Musical Instrument",
+      "synonyms": ["Music Maker", "Melodic Device", "Harmonic Instrument", "Orchestral Device"]
+    },
+    "Level 3": {
+      "label": "Bellows-driven Instrument",
+      "synonyms": ["Aerophone with Bellows", "Free-reed Aerophone", "Wind Instrument with Reeds and Bellows", "Squeezable Instrument"]
+    },
+    "Level 4": {
+      "label": "Accordion",
+      "synonyms": ["Squeezebox", "Hand Bellows Instrument", "Button Accordion", "Piano Accordion", "Free-reed portable instrument"]
+    }
+  },
+  "airplanes": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Transport", "Conveyance", "Mode of Transportation", "Mechanical Transporter"]
+    },
+    "Level 2": {
+      "label": "Aerial Vehicle",
+      "synonyms": ["Flying Machine", "Airborne Transport", "Aircraft Type", "Aerodyne"]
+    },
+    "Level 3": {
+      "label": "Fixed-Wing Aircraft",
+      "synonyms": ["Aeroplane type", "Non-rotary Wing Aircraft", "Glider type with engine", "Heavier-than-air craft with fixed wings"]
+    },
+    "Level 4": {
+      "label": "Airplanes",
+      "synonyms": ["Aeroplane", "Plane", "Powered Fixed-wing Aircraft", "Airliner", "Jet"]
+    }
+  },
+  "anchor": {
+    "Level 1": {
+      "label": "Metal Tool",
+      "synonyms": ["Metallic Implement", "Heavy Metal Device", "Forged Metal Apparatus", "Shaped Metal Object"]
+    },
+    "Level 2": {
+      "label": "Marine Equipment",
+      "synonyms": ["Sea Gear", "Watercraft Accessory", "Boating Apparatus", "Nautical Device"]
+    },
+    "Level 3": {
+      "label": "Mooring Equipment",
+      "synonyms": ["Vessel Securing Device", "Ship Holding Tool", "Boat Fastening Gear", "Ground Tackle Component"]
+    },
+    "Level 4": {
+      "label": "Anchor",
+      "synonyms": ["Ship Anchor", "Boat Anchor", "Sea Anchor", "Kedge", "Fluke Anchor"]
+    }
+  },
+  "ant": {
+    "Level 1": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with Exoskeleton", "Jointed-limb Animal", "Segmented Body Invertebrate", "Ecdysozoan"]
+    },
+    "Level 2": {
+      "label": "Insect",
+      "synonyms": ["Hexapod", "Six-legged Arthropod", "Entomofauna member", "Bug common term"]
+    },
+    "Level 3": {
+      "label": "Social Insect",
+      "synonyms": ["Colonial Insect", "Eusocial Insect", "Community-living Insect", "Swarming Insect type"]
+    },
+    "Level 4": {
+      "label": "Ant",
+      "synonyms": ["Formicidae family member", "Pismire", "Emmet", "Myrmicine insect", "Formicid"]
+    }
+  },
+  "barrel": {
+    "Level 1": {
+      "label": "Storage Receptacle",
+      "synonyms": ["Holding Vessel", "Containment Unit", "Repository Object", "Keeper"]
+    },
+    "Level 2": {
+      "label": "Container",
+      "synonyms": ["Receptacle", "Vessel for holding", "Storage Unit", "Holder"]
+    },
+    "Level 3": {
+      "label": "Cylindrical Container",
+      "synonyms": ["Tube-shaped Receptacle", "Round Storage Vessel", "Drum-like Holder", "Tubular Vessel"]
+    },
+    "Level 4": {
+      "label": "Barrel",
+      "synonyms": ["Cask", "Wooden Barrel", "Storage Drum", "Keg", "Tun"]
+    }
+  },
+  "bass": {
+    "Level 1": {
+      "label": "Sound-producing Device",
+      "synonyms": ["Acoustic Device", "Audio Equipment", "Sonic Emitter", "Vibrating Object for Sound"]
+    },
+    "Level 2": {
+      "label": "Musical Instrument",
+      "synonyms": ["Music Maker", "Melodic Device", "Harmonic Instrument", "Orchestral Device"]
+    },
+    "Level 3": {
+      "label": "String Instrument",
+      "synonyms": ["Chordophone", "Stringed Musical Device", "Plucked String Instrument", "Bowed String Instrument"]
+    },
+    "Level 4": {
+      "label": "Bass",
+      "synonyms": ["Bass Guitar", "Electric Bass", "Double Bass", "Upright Bass", "Contrabass", "Low-pitched String Instrument"]
+    }
+  },
+  "beaver": {
+    "Level 1": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Hairy Animal", "Milk-producing Animal", "Therian"]
+    },
+    "Level 2": {
+      "label": "Rodent",
+      "synonyms": ["Gnawing Mammal", "Member of Rodentia order", "Incisor-prominent Mammal", "Small Gnawer"]
+    },
+    "Level 3": {
+      "label": "Semi-Aquatic Rodent",
+      "synonyms": ["Water-dwelling Rodent", "Rodent adapted to water life", "Riparian Rodent", "Dam-building Mammal type"]
+    },
+    "Level 4": {
+      "label": "Beaver",
+      "synonyms": ["Castoridae family member", "North American Beaver", "Eurasian Beaver", "Castor genus member", "Flat-tailed Rodent"]
+    }
+  },
+  "binocular": {
+    "Level 1": {
+      "label": "Tool",
+      "synonyms": ["Implement", "Device", "Apparatus", "Utensil", "Gadget"]
+    },
+    "Level 2": {
+      "label": "Optical Instrument",
+      "synonyms": ["Lens-based Device", "Magnifying Apparatus", "Visual Aid Tool", "Scientific Optical Tool"]
+    },
+    "Level 3": {
+      "label": "Handheld Optical Instrument",
+      "synonyms": ["Portable Magnifying Device", "Manual Viewing Tool with Lenses", "Personal Optical Aid", "Dual-ocular device"]
+    },
+    "Level 4": {
+      "label": "Binocular",
+      "synonyms": ["Binoculars", "Field Glasses", "Twin Telescope for eyes", "Dual Optical Viewer", "Observation Glasses"]
+    }
+  },
+  "bonsai": {
+    "Level 1": {
+      "label": "Plant",
+      "synonyms": ["Vegetation", "Flora", "Greenery", "Botanical Life", "Autotroph"]
+    },
+    "Level 2": {
+      "label": "Tree",
+      "synonyms": ["Woody Plant", "Perennial Plant with Trunk", "Arboreal Plant", "Lignophyte"]
+    },
+    "Level 3": {
+      "label": "Cultivated Tree",
+      "synonyms": ["Horticultural Tree", "Shaped Tree", "Art Form Tree", "Ornamental Tree"]
+    },
+    "Level 4": {
+      "label": "Bonsai",
+      "synonyms": ["Miniature Tree", "Artistically Shaped Tree", "Potted Dwarf Tree", "Tray Planting", "Living Sculpture Tree"]
+    }
+  },
+  "brain": {
+    "Level 1": {
+      "label": "Anatomical Structure",
+      "synonyms": ["Biological Body Part", "Organismic Component", "Formed Tissue Mass", "Physiological Feature"]
+    },
+    "Level 2": {
+      "label": "Internal Organ",
+      "synonyms": ["Viscus", "Anatomical Organ internal", "Body Organ within", "Splanchnic part"]
+    },
+    "Level 3": {
+      "label": "Nervous System Organ",
+      "synonyms": ["Central Nervous System Component", "Neural Tissue Mass", "Sensory Processing Unit", "Control Center of Nervous System"]
+    },
+    "Level 4": {
+      "label": "Brain",
+      "synonyms": ["Encephalon", "Cerebrum", "Neural Control Center", "Cognitive Organ", "Mind Organ"]
+    }
+  },
+  "brontosaurus": {
+    "Level 1": {
+      "label": "Extinct Animal",
+      "synonyms": ["Prehistoric Creature", "Fossilized Animal", "Ancient Life Form Animal", "Bygone Fauna"]
+    },
+    "Level 2": {
+      "label": "Dinosaur",
+      "synonyms": ["Prehistoric Reptile group", "Mesozoic Era Reptile", "Archosaurian Diapsid", "Giant Fossil Reptile"]
+    },
+    "Level 3": {
+      "label": "Sauropod Dinosaur",
+      "synonyms": ["Long-necked Dinosaur", "Herbivorous Sauropodomorph", "Giant Quadrupedal Dinosaur", "Titanosauriform"]
+    },
+    "Level 4": {
+      "label": "Brontosaurus",
+      "synonyms": ["Thunder Lizard", "Brontosaurus excelsus", "Large Sauropod", "Apatosaurine Sauropod"]
+    }
+  },
+  "buddha": {
+    "Level 1": {
+      "label": "Artwork",
+      "synonyms": ["Art Object", "Creative Work", "Piece of Art", "Artistic Representation", "Cultural Artifact"]
+    },
+    "Level 2": {
+      "label": "Sculpture",
+      "synonyms": ["Statue", "Carving", "Figurine", "Three-dimensional Art", "Modeled Figure"]
+    },
+    "Level 3": {
+      "label": "Religious Iconography",
+      "synonyms": ["Spiritual Symbol", "Sacred Image", "Devotional Figure", "Idol", "Hagiographic Art"]
+    },
+    "Level 4": {
+      "label": "Buddha",
+      "synonyms": ["Buddha Statue", "Image of Buddha", "Siddhartha Gautama Representation", "Enlightened One Figure", "Buddhist Icon"]
+    }
+  },
+  "butterfly": {
+    "Level 1": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with Exoskeleton", "Jointed-limb Animal", "Segmented Body Invertebrate", "Ecdysozoan"]
+    },
+    "Level 2": {
+      "label": "Insect",
+      "synonyms": ["Hexapod", "Six-legged Arthropod", "Entomofauna member", "Bug common term"]
+    },
+    "Level 3": {
+      "label": "Flying Insect",
+      "synonyms": ["Winged Hexapod", "Aerial Insect", "Insect with functional wings", "Pterygote"]
+    },
+    "Level 4": {
+      "label": "Butterfly",
+      "synonyms": ["Rhopalocera member", "Diurnal Lepidopteran", "Papilionoidea member", "Flutterby colloquial", "Scaled-wing Insect"]
+    }
+  },
+  "camera": {
+    "Level 1": {
+      "label": "Tool",
+      "synonyms": ["Implement", "Device", "Apparatus", "Utensil", "Gadget"]
+    },
+    "Level 2": {
+      "label": "Imaging Device",
+      "synonyms": ["Image Recorder", "Visual Capture Equipment", "Picture-making Apparatus", "Optical Recorder"]
+    },
+    "Level 3": {
+      "label": "Photographic Equipment",
+      "synonyms": ["Photo-capturing device", "Still Image Recorder", "Video Recording Device", "Light-capturing Instrument"]
+    },
+    "Level 4": {
+      "label": "Camera",
+      "synonyms": ["Photographic Camera", "Image Capturing Device", "Still Camera", "Video Camera", "Picture Taker", "Kodak colloquial"]
+    }
+  },
+  "cannon": {
+    "Level 1": {
+      "label": "Constructed Device",
+      "synonyms": ["Engineered Apparatus", "Fabricated Mechanism", "Manufactured Implement", "Complex Assembly"]
+    },
+    "Level 2": {
+      "label": "Weapon",
+      "synonyms": ["Armament", "Combat Tool", "Offensive Implement", "Defensive Implement", "Arm"]
+    },
+    "Level 3": {
+      "label": "Artillery Piece",
+      "synonyms": ["Heavy Firearm", "Large Caliber Gun", "Ordnance Weapon", "Siege Gun"]
+    },
+    "Level 4": {
+      "label": "Cannon",
+      "synonyms": ["Artillery Gun", "Muzzleloader Cannon", "Breechloader Cannon", "Howitzer type", "Mortar type"]
+    }
+  },
+  "car_side": {
+    "Level 1": {
+      "label": "Land Vehicle",
+      "synonyms": ["Ground Transport", "Wheeled Conveyance", "Terrestrial Vehicle", "Overland Transporter"]
+    },
+    "Level 2": {
+      "label": "Automobile",
+      "synonyms": ["Car", "Motorcar", "Passenger Vehicle", "Road Vehicle", "Auto"]
+    },
+    "Level 3": {
+      "label": "Car Exterior View",
+      "synonyms": ["Automobile Outer Perspective", "Vehicle Body Viewpoint", "External Car Angle", "Car Body Shell View"]
+    },
+    "Level 4": {
+      "label": "Car_side",
+      "synonyms": ["Side View of Car", "Car Profile", "Automobile Flank", "Vehicle Side Aspect", "Lateral Car View", "Car Broadside"]
+    }
+  },
+  "ceiling_fan": {
+    "Level 1": {
+      "label": "Appliance",
+      "synonyms": ["Household Device", "Domestic Equipment", "Home Appliance", "Electrical Gadget"]
+    },
+    "Level 2": {
+      "label": "Climate Control Device",
+      "synonyms": ["Air Circulation Unit", "Temperature Regulation Equipment", "Environmental Comfort Device", "Ventilation System Component"]
+    },
+    "Level 3": {
+      "label": "Fan",
+      "synonyms": ["Air Mover", "Bladed Ventilator", "Cooling Fan", "Air Propeller Device"]
+    },
+    "Level 4": {
+      "label": "Ceiling Fan",
+      "synonyms": ["Overhead Fan", "Ceiling-mounted Air Circulator", "Paddle Fan", "Rotary Ceiling Ventilator"]
+    }
+  },
+  "cellphone": {
+    "Level 1": {
+      "label": "Electronic Device",
+      "synonyms": ["Powered Gadget", "Circuit-based Equipment", "Digital Tool", "Consumer Electronics"]
+    },
+    "Level 2": {
+      "label": "Communication Device",
+      "synonyms": ["Telecommunication Tool", "Information Exchange Equipment", "Connectivity Gadget", "Message Transceiver"]
+    },
+    "Level 3": {
+      "label": "Portable Communication Device",
+      "synonyms": ["Handheld Communicator", "Mobile Transceiver", "Pocket-sized Communication Tool", "Wireless Handset"]
+    },
+    "Level 4": {
+      "label": "Cellphone",
+      "synonyms": ["Mobile Phone", "Smartphone", "Cellular Telephone", "Handset", "Mobile Device"]
+    }
+  },
+  "chair": {
+    "Level 1": {
+      "label": "Man-made Object",
+      "synonyms": ["Artificial Item", "Human-crafted Product", "Manufactured Good", "Constructed Item"]
+    },
+    "Level 2": {
+      "label": "Furniture",
+      "synonyms": ["Household Furnishing", "Interior Decor Item", "Room Fixture", "Moveable Domestic Article"]
+    },
+    "Level 3": {
+      "label": "Seating Furniture",
+      "synonyms": ["Seat", "Sitting Support", "Rest Perch", "Item for Sitting"]
+    },
+    "Level 4": {
+      "label": "Chair",
+      "synonyms": ["Single Seat Furniture", "Backed Seat", "Armchair", "Dining Chair", "Lounge Chair"]
+    }
+  },
+  "chandelier": {
+    "Level 1": {
+      "label": "Man-made Object",
+      "synonyms": ["Artificial Item", "Human-crafted Product", "Manufactured Good", "Constructed Item"]
+    },
+    "Level 2": {
+      "label": "Lighting Fixture",
+      "synonyms": ["Illumination Device", "Light Source Holder", "Luminaire", "Lamp Assembly"]
+    },
+    "Level 3": {
+      "label": "Decorative Ceiling Light",
+      "synonyms": ["Ornamental Overhead Light", "Ornate Suspended Lamp", "Statement Ceiling Fixture", "Elaborate Hanging Light"]
+    },
+    "Level 4": {
+      "label": "Chandelier",
+      "synonyms": ["Suspended Branching Light", "Crystal Light Fixture", "Multi-arm Ceiling Light", "Ornate Hanging Lamp", "Candelabrum Light"]
+    }
+  },
+  "cougar_body": {
+    "Level 1": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Hairy Animal", "Milk-producing Animal", "Therian"]
+    },
+    "Level 2": {
+      "label": "Feline",
+      "synonyms": ["Cat", "Felid", "Member of Felidae family", "Carnivorous Cat"]
+    },
+    "Level 3": {
+      "label": "Large Wild Cat Body",
+      "synonyms": ["Big Feline Predator Body", "Non-domesticated Large Cat Physique", "Powerful Felid Torso and Limbs", "Great Cat Form"]
+    },
+    "Level 4": {
+      "label": "Cougar Body",
+      "synonyms": ["Puma concolor body", "Mountain Lion physique", "Panther body excluding head", "Full body of Cougar", "Puma Torso and Limbs"]
+    }
+  },
+  "cougar_face": {
+    "Level 1": {
+      "label": "Body Part",
+      "synonyms": ["Anatomical Segment", "Organismic Component", "Physical Section of Organism", "Corporeal Part"]
+    },
+    "Level 2": {
+      "label": "Animal Head Feature",
+      "synonyms": ["Faunal Cephalic Detail", "Creature Cranial Aspect", "Animal Head Part", "Zoological Head Component"]
+    },
+    "Level 3": {
+      "label": "Feline Face",
+      "synonyms": ["Cat Facial Features", "Felid Visage", "Cat Head Front", "Wildcat Face type"]
+    },
+    "Level 4": {
+      "label": "Cougar Face",
+      "synonyms": ["Puma concolor face", "Mountain Lion facial features", "Panther face", "Puma Visage", "Wild Cat Face Puma"]
+    }
+  },
+  "crab": {
+    "Level 1": {
+      "label": "Aquatic Animal",
+      "synonyms": ["Water Dwelling Creature", "Marine Lifeform", "Freshwater Lifeform", "Hydrofauna"]
+    },
+    "Level 2": {
+      "label": "Crustacean",
+      "synonyms": ["Hard-shelled Arthropod", "Aquatic Arthropod", "Exoskeleton Animal", "Malacostracan"]
+    },
+    "Level 3": {
+      "label": "Decapod Crustacean",
+      "synonyms": ["Ten-legged Crustacean", "Pincer-bearing Crustacean", "Clawed Aquatic Arthropod", "Pleocyemata member"]
+    },
+    "Level 4": {
+      "label": "Crab",
+      "synonyms": ["Brachyura infraorder member", "True Crab", "Short-tailed Decapod", "Pincer-clawed Crustacean", "Side-walking Crustacean"]
+    }
+  },
+  "crayfish": {
+    "Level 1": {
+      "label": "Aquatic Animal",
+      "synonyms": ["Water Dwelling Creature", "Freshwater Lifeform", "Hydrofauna", "Benthic Animal"]
+    },
+    "Level 2": {
+      "label": "Crustacean",
+      "synonyms": ["Hard-shelled Arthropod", "Aquatic Arthropod", "Exoskeleton Animal", "Malacostracan"]
+    },
+    "Level 3": {
+      "label": "Freshwater Decapod",
+      "synonyms": ["River Crustacean", "Lake Dwelling Decapod", "Stream Arthropod with Claws", "Freshwater Lobster-like Crustacean"]
+    },
+    "Level 4": {
+      "label": "Crayfish",
+      "synonyms": ["Crawfish", "Crawdad", "Freshwater Lobster", "Mudbug", "Astacoidea superfamily member", "Parastacoidea superfamily member"]
+    }
+  },
+  "crocodile": {
+    "Level 1": {
+      "label": "Reptile",
+      "synonyms": ["Cold-blooded Vertebrate", "Scaly Animal", "Ectothermic Tetrapod", "Sauropsid"]
+    },
+    "Level 2": {
+      "label": "Archosaur",
+      "synonyms": ["Ruling Reptile group", "Diapsid Reptile", "Crocodilian group member", "Pseudosuchian"]
+    },
+    "Level 3": {
+      "label": "Crocodilian",
+      "synonyms": ["Large Semi-Aquatic Reptile", "Armored River Predator", "Long-bodied Scaly Carnivore", "Ambush Predator Reptile"]
+    },
+    "Level 4": {
+      "label": "Crocodile",
+      "synonyms": ["Crocodylidae family member", "True Crocodile", "Long-snouted Reptile with V-shaped snout", "Crocodylus genus member", "Saltwater Crocodile type", "Nile Crocodile type"]
+    }
+  },
+  "crocodile_head": {
+    "Level 1": {
+      "label": "Body Part",
+      "synonyms": ["Anatomical Segment", "Organismic Component", "Physical Section of Organism", "Corporeal Part"]
+    },
+    "Level 2": {
+      "label": "Reptile Anatomy",
+      "synonyms": ["Reptilian Body Part", "Scaly Creature Component", "Cold-blooded Animal Structure", "Sauropsid Anatomy"]
+    },
+    "Level 3": {
+      "label": "Crocodilian Head",
+      "synonyms": ["Alligator head type", "Caiman head type", "Gharial head type", "Snouted Reptile Head", "Armored Reptile Head"]
+    },
+    "Level 4": {
+      "label": "Crocodile Head",
+      "synonyms": ["Crocodylidae head", "True Crocodile Snout", "Crocodile Cranium with V-shaped snout", "Crocodylus genus head", "Pointed Snout Reptile Head"]
+    }
+  },
+  "cup": {
+    "Level 1": {
+      "label": "Household Object",
+      "synonyms": ["Domestic Item", "Home Utensil", "Everyday Object for Home", "Common Receptacle"]
+    },
+    "Level 2": {
+      "label": "Tableware",
+      "synonyms": ["Dining Utensil", "Eating Vessel", "Service Ware", "Dishware item"]
+    },
+    "Level 3": {
+      "label": "Drinking Vessel",
+      "synonyms": ["Beverage Container", "Liquid Holder for Drinking", "Sipping Receptacle", "Potable Liquid Holder"]
+    },
+    "Level 4": {
+      "label": "Cup",
+      "synonyms": ["Teacup", "Coffee Cup", "Mug", "Small Open Container for Drink", "Handled Drinking Vessel"]
+    }
+  },
+  "dalmatian": {
+    "Level 1": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Hairy Animal", "Milk-producing Animal", "Therian"]
+    },
+    "Level 2": {
+      "label": "Canine",
+      "synonyms": ["Dog family member", "Canid", "Wolf-like Mammal", "Carnivoran Dog type"]
+    },
+    "Level 3": {
+      "label": "Domestic Dog Breed",
+      "synonyms": ["Pet Dog type", "Canis familiaris breed", "Purebred Dog", "Specific Dog Type"]
+    },
+    "Level 4": {
+      "label": "Dalmatian",
+      "synonyms": ["Spotted Dog Breed", "Coach Dog", "Carriage Dog", "White Dog with Black Spots", "White Dog with Liver Spots", "Canis familiaris Dalmatian"]
+    }
+  },
+  "dollar_bill": {
+    "Level 1": {
+      "label": "Manufactured Product",
+      "synonyms": ["Human-made Item", "Fabricated Good", "Industrial Product", "Processed Material Object"]
+    },
+    "Level 2": {
+      "label": "Printed Document",
+      "synonyms": ["Inscribed Paper", "Official Paper Item", "Sheet with Markings", "Graphic Printed Material"]
+    },
+    "Level 3": {
+      "label": "Paper Currency",
+      "synonyms": ["Banknote", "Fiat Money Note", "Legal Tender Bill", "Monetary Paper"]
+    },
+    "Level 4": {
+      "label": "Dollar Bill",
+      "synonyms": ["United States Currency Note", "USD Banknote", "Paper Money Dollar", "Greenback", "Federal Reserve Note Dollar"]
+    }
+  },
+  "dolphin": {
+    "Level 1": {
+      "label": "Marine Animal",
+      "synonyms": ["Sea Creature", "Ocean Dwelling Animal", "Saltwater Lifeform", "Pelagic Animal"]
+    },
+    "Level 2": {
+      "label": "Marine Mammal",
+      "synonyms": ["Oceanic Mammal", "Sea-dwelling Warm-blooded Vertebrate", "Aquatic Mammal", "Air-breathing Sea Animal"]
+    },
+    "Level 3": {
+      "label": "Toothed Whale",
+      "synonyms": ["Odontocete", "Cetacean with teeth", "Small to Medium Sized Cetacean", "Echolocating Marine Mammal"]
+    },
+    "Level 4": {
+      "label": "Dolphin",
+      "synonyms": ["Delphinidae family member", "Oceanic Dolphin", "Flippered Marine Mammal", "Bottlenose Dolphin type", "Common Dolphin type", "Porpoise like animal"]
+    }
+  },
+  "dragonfly": {
+    "Level 1": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with Exoskeleton", "Jointed-limb Animal", "Segmented Body Invertebrate", "Ecdysozoan"]
+    },
+    "Level 2": {
+      "label": "Insect",
+      "synonyms": ["Hexapod", "Six-legged Arthropod", "Entomofauna member", "Pterygote Insect"]
+    },
+    "Level 3": {
+      "label": "Flying Predatory Insect",
+      "synonyms": ["Aerial Insect Hunter", "Winged Carnivorous Insect", "Odonate Insect", "Agile Flying Insect"]
+    },
+    "Level 4": {
+      "label": "Dragonfly",
+      "synonyms": ["Anisoptera suborder member", "Darning Needle", "Devil's Arrow", "Long-bodied Flying Insect with Large Eyes", "Skimmer type", "Darner type"]
+    }
+  },
+  "electric_guitar": {
+    "Level 1": {
+      "label": "Sound-producing Device",
+      "synonyms": ["Acoustic Device", "Audio Equipment", "Sonic Emitter", "Vibrating Object for Sound"]
+    },
+    "Level 2": {
+      "label": "Musical Instrument",
+      "synonyms": ["Music Maker", "Melodic Device", "Harmonic Instrument", "Orchestral Device"]
+    },
+    "Level 3": {
+      "label": "Stringed Instrument",
+      "synonyms": ["Chordophone", "Plucked String Instrument", "Guitar Family Instrument", "Fretted String Instrument"]
+    },
+    "Level 4": {
+      "label": "Electric Guitar",
+      "synonyms": ["Amplified Guitar", "Solid-body Guitar", "Six-string Electric", "Pickup-equipped Guitar", "Rock Guitar", "Lead Guitar"]
+    }
+  },
+  "elephant": {
+    "Level 1": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Hairy Animal", "Milk-producing Animal", "Therian"]
+    },
+    "Level 2": {
+      "label": "Large Terrestrial Herbivore",
+      "synonyms": ["Giant Plant-eating Land Animal", "Megaherbivore", "Big Grazer on Land", "Pachyderm type animal"]
+    },
+    "Level 3": {
+      "label": "Proboscidean",
+      "synonyms": ["Trunked Mammal", "Elephantidae family member", "Animal with Tusks and Trunk", "Large Eared Mammal"]
+    },
+    "Level 4": {
+      "label": "Elephant",
+      "synonyms": ["African Elephant Loxodonta africana", "Asian Elephant Elephas maximus", "Forest Elephant", "Savanna Elephant", "Tusked Proboscidean"]
+    }
+  },
+  "emu": {
+    "Level 1": {
+      "label": "Bird",
+      "synonyms": ["Avian", "Feathered Vertebrate", "Winged Animal", "Aves class member"]
+    },
+    "Level 2": {
+      "label": "Flightless Bird",
+      "synonyms": ["Ratite", "Ground-dwelling Bird", "Non-flying Avian", "Palaeognathae member"]
+    },
+    "Level 3": {
+      "label": "Large Australian Flightless Bird",
+      "synonyms": ["Big Ground Bird from Australia", "Ostrich-like Australian Bird", "Tall Running Bird of Australia", "Dromaiidae family member"]
+    },
+    "Level 4": {
+      "label": "Emu",
+      "synonyms": ["Dromaius novaehollandiae", "Australian Ratite", "Large Brown Shaggy Feathered Bird", "Second largest living bird by height"]
+    }
+  },
+  "euphonium": {
+    "Level 1": {
+      "label": "Sound-producing Device",
+      "synonyms": ["Acoustic Device", "Audio Equipment", "Sonic Emitter", "Vibrating Object for Sound"]
+    },
+    "Level 2": {
+      "label": "Musical Instrument",
+      "synonyms": ["Music Maker", "Melodic Device", "Harmonic Instrument", "Orchestral Device"]
+    },
+    "Level 3": {
+      "label": "Brass Wind Instrument",
+      "synonyms": ["Lip-vibrated Aerophone made of Brass", "Valved Brass Instrument", "Horn type instrument", "Bugle family instrument"]
+    },
+    "Level 4": {
+      "label": "Euphonium",
+      "synonyms": ["Tenor-voiced Brass Instrument", "Conical Bore Brass Instrument", "Small Tuba like instrument", "Baritone Horn family", "Valved Bugle type"]
+    }
+  },
+  "ewer": {
+    "Level 1": {
+      "label": "Household Object",
+      "synonyms": ["Domestic Item", "Home Utensil", "Everyday Object for Home", "Functional Decor"]
+    },
+    "Level 2": {
+      "label": "Container",
+      "synonyms": ["Receptacle", "Vessel for holding", "Storage Unit", "Holder"]
+    },
+    "Level 3": {
+      "label": "Pouring Vessel",
+      "synonyms": ["Spouted Container for Liquids", "Liquid Dispenser with Handle", "Pitcher type", "Jug type"]
+    },
+    "Level 4": {
+      "label": "Ewer",
+      "synonyms": ["Wide-mouthed Pitcher", "Decorative Jug for water", "Water Jug with Handle and Spout", "Lavabo Vessel", "Basin and Ewer set component"]
+    }
+  },
+  "ferry": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Transport", "Conveyance", "Mode of Transportation", "Mechanical Transporter"]
+    },
+    "Level 2": {
+      "label": "Watercraft",
+      "synonyms": ["Boat", "Ship", "Marine Vessel", "Aquatic Transport"]
+    },
+    "Level 3": {
+      "label": "Commercial Watercraft",
+      "synonyms": ["Passenger Ship", "Cargo Vessel", "Public Transport Boat", "Service Water Vessel"]
+    },
+    "Level 4": {
+      "label": "Ferry",
+      "synonyms": ["Ferryboat", "Shuttle Boat", "Cross-water Transporter", "Vehicle Transport Ship", "Passenger Ferry"]
+    }
+  },
+  "flamingo": {
+    "Level 1": {
+      "label": "Bird",
+      "synonyms": ["Avian", "Feathered Vertebrate", "Winged Animal", "Aves class member"]
+    },
+    "Level 2": {
+      "label": "Wading Bird",
+      "synonyms": ["Long-legged Bird", "Shorebird type", "Shallow Water Bird", "Grallatorial Bird"]
+    },
+    "Level 3": {
+      "label": "Tall Pink Wading Bird",
+      "synonyms": ["Long-necked Pink Bird", "Filter-feeding Bird with Bent Beak", "Phoenicopteridae family member", "Flock-living Wader"]
+    },
+    "Level 4": {
+      "label": "Flamingo",
+      "synonyms": ["Phoenicopterus roseus", "American Flamingo", "Greater Flamingo", "Chilean Flamingo", "Pink Feathered Wader"]
+    }
+  },
+  "flamingo_head": {
+    "Level 1": {
+      "label": "Body Part",
+      "synonyms": ["Anatomical Segment", "Organismic Component", "Physical Section of Organism", "Corporeal Part"]
+    },
+    "Level 2": {
+      "label": "Bird Anatomy",
+      "synonyms": ["Avian Body Part", "Feathered Creature Component", "Bird Structure Detail", "Aves Class Anatomy"]
+    },
+    "Level 3": {
+      "label": "Wading Bird Head",
+      "synonyms": ["Shorebird Head Structure", "Long-necked Bird Head", "Phoenicopteridae Head Feature", "Bird Head with Specialized Beak"]
+    },
+    "Level 4": {
+      "label": "Flamingo Head",
+      "synonyms": ["Phoenicopterus head", "Pink Bird Head with Bent Beak", "Flamingo Cranium and Beak", "Head of Flamingo species"]
+    }
+  },
+  "garfield": {
+    "Level 1": {
+      "label": "Representation",
+      "synonyms": ["Depiction", "Likeness", "Visual Portrayal", "Figurative Image"]
+    },
+    "Level 2": {
+      "label": "Fictional Character",
+      "synonyms": ["Invented Persona", "Story Character", "Imaginary Being", "Cartoon Figure"]
+    },
+    "Level 3": {
+      "label": "Animated Animal Character",
+      "synonyms": ["Cartoon Animal", "Anthropomorphic Animal Figure", "Illustrated Animal Persona", "Talking Animal Character"]
+    },
+    "Level 4": {
+      "label": "Garfield",
+      "synonyms": ["Orange Tabby Cat Character", "Lasagna-loving Cartoon Cat", "Jim Davis Comic Character", "Grumpy Orange Cat Figure"]
+    }
+  },
+  "gerenuk": {
+    "Level 1": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Hairy Animal", "Milk-producing Animal", "Therian"]
+    },
+    "Level 2": {
+      "label": "Even-toed Ungulate",
+      "synonyms": ["Artiodactyl", "Hoofed Mammal with even toes", "Cloven-hoofed Animal", "Herbivorous Ungulate"]
+    },
+    "Level 3": {
+      "label": "Antelope",
+      "synonyms": ["Bovid Ruminant", "Gazelle-like Mammal", "African or Asian Horned Ruminant", "Slender Grazing Mammal"]
+    },
+    "Level 4": {
+      "label": "Gerenuk",
+      "synonyms": ["Litocranius walleri", "Giraffe Gazelle", "Waller's Gazelle", "Long-necked Antelope", "Slender Antelope feeding on hind legs"]
+    }
+  },
+  "gramophone": {
+    "Level 1": {
+      "label": "Sound-producing Device",
+      "synonyms": ["Acoustic Device", "Audio Equipment", "Sonic Emitter", "Vibrating Object for Sound"]
+    },
+    "Level 2": {
+      "label": "Audio Playback Device",
+      "synonyms": ["Sound Reproduction Machine", "Music Player", "Recorded Sound Player", "Phonographic Device"]
+    },
+    "Level 3": {
+      "label": "Record Player",
+      "synonyms": ["Turntable", "Vinyl Record Player", "Disc Phonograph", "Analog Sound Reproducer"]
+    },
+    "Level 4": {
+      "label": "Gramophone",
+      "synonyms": ["Antique Record Player", "Mechanical Phonograph", "Horned Record Player", "Victrola", "Early Disc Player"]
+    }
+  },
+  "grand_piano": {
+    "Level 1": {
+      "label": "Sound-producing Device",
+      "synonyms": ["Acoustic Device", "Audio Equipment", "Sonic Emitter", "Vibrating Object for Sound"]
+    },
+    "Level 2": {
+      "label": "Musical Instrument",
+      "synonyms": ["Music Maker", "Melodic Device", "Harmonic Instrument", "Orchestral Device"]
+    },
+    "Level 3": {
+      "label": "Keyboard Instrument",
+      "synonyms": ["Keyed Instrument", "Piano Family Instrument", "Instrument with Black and White Keys", "Percussive Keyboard"]
+    },
+    "Level 4": {
+      "label": "Grand Piano",
+      "synonyms": ["Horizontal Piano", "Concert Grand Piano", "Baby Grand Piano", "Large Wing-shaped Piano", "Full-size Keyboard Instrument"]
+    }
+  },
+  "hawksbill": {
+    "Level 1": {
+      "label": "Reptile",
+      "synonyms": ["Cold-blooded Vertebrate", "Scaly Animal", "Ectothermic Tetrapod", "Sauropsid"]
+    },
+    "Level 2": {
+      "label": "Turtle",
+      "synonyms": ["Chelonian", "Shelled Reptile", "Testudine", "Aquatic or Terrestrial Reptile with Shell"]
+    },
+    "Level 3": {
+      "label": "Sea Turtle",
+      "synonyms": ["Marine Turtle", "Ocean-dwelling Chelonian", "Saltwater Turtle", "Flippered Marine Reptile"]
+    },
+    "Level 4": {
+      "label": "Hawksbill",
+      "synonyms": ["Hawksbill Sea Turtle", "Eretmochelys imbricata", "Critically Endangered Sea Turtle", "Turtle with Pointed Beak", "Tortoiseshell Turtle"]
+    }
+  },
+  "headphone": {
+    "Level 1": {
+      "label": "Electronic Device",
+      "synonyms": ["Powered Gadget", "Circuit-based Equipment", "Digital Tool", "Consumer Electronics"]
+    },
+    "Level 2": {
+      "label": "Audio Output Device",
+      "synonyms": ["Sound Emitter", "Personal Listening Equipment", "Speaker System type", "Auditory Device"]
+    },
+    "Level 3": {
+      "label": "Wearable Audio Device",
+      "synonyms": ["Head-worn Speakers", "Ear-covering Sound Emitter", "Personal Sound System", "Portable Listening Gear"]
+    },
+    "Level 4": {
+      "label": "Headphone",
+      "synonyms": ["Headphones", "Earphones", "Headset", "Cans colloquial", "Over-ear Speakers", "On-ear Speakers"]
+    }
+  },
+  "hedgehog": {
+    "Level 1": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Hairy Animal", "Milk-producing Animal", "Therian"]
+    },
+    "Level 2": {
+      "label": "Small Insectivore",
+      "synonyms": ["Insect-eating Mammal", "Diminutive Mammal feeding on insects", "Nocturnal Small Mammal", "Erinaceomorph"]
+    },
+    "Level 3": {
+      "label": "Spiny Mammal",
+      "synonyms": ["Quilled Mammal", "Animal with Sharp Spines for Defense", "Prickly Coated Mammal", "Erinaceinae subfamily member"]
+    },
+    "Level 4": {
+      "label": "Hedgehog",
+      "synonyms": ["European Hedgehog Erinaceus europaeus", "African Pygmy Hedgehog", "Spiny Anteater like mammal", "Quill-covered Insectivore", "Urchin colloquial"]
+    }
+  },
+  "helicopter": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Transport", "Conveyance", "Mode of Transportation", "Mechanical Transporter"]
+    },
+    "Level 2": {
+      "label": "Aerial Vehicle",
+      "synonyms": ["Flying Machine", "Airborne Transport", "Aircraft Type", "Aerodyne"]
+    },
+    "Level 3": {
+      "label": "Rotorcraft",
+      "synonyms": ["Rotary-Wing Aircraft", "Aircraft with Spinning Blades", "Vertical Takeoff and Landing Aircraft VTOL", "Chopper type aircraft"]
+    },
+    "Level 4": {
+      "label": "Helicopter",
+      "synonyms": ["Chopper", "Whirlybird", "Rotary Aircraft", "Helo", "Vertical Flight Machine"]
+    }
+  },
+  "ibis": {
+    "Level 1": {
+      "label": "Bird",
+      "synonyms": ["Avian", "Feathered Vertebrate", "Winged Animal", "Aves class member"]
+    },
+    "Level 2": {
+      "label": "Wading Bird",
+      "synonyms": ["Long-legged Bird", "Shorebird type", "Shallow Water Bird", "Grallatorial Bird"]
+    },
+    "Level 3": {
+      "label": "Long-billed Wading Bird",
+      "synonyms": ["Curved-beak Wader", "Threskiornithidae family member", "Spoonbill relative", "Wetland Bird with Decurved Bill"]
+    },
+    "Level 4": {
+      "label": "Ibis",
+      "synonyms": ["Sacred Ibis Threskiornis aethiopicus", "Scarlet Ibis Eudocimus ruber", "Glossy Ibis Plegadis falcinellus", "White Ibis Eudocimus albus", "Decurved Bill Wader"]
+    }
+  },
+  "inline_skate": {
+    "Level 1": {
+      "label": "Sporting Equipment",
+      "synonyms": ["Athletic Gear", "Recreational Device", "Physical Activity Tool", "Sports Apparatus"]
+    },
+    "Level 2": {
+      "label": "Footwear",
+      "synonyms": ["Shoes", "Boots", "Foot Covering", "Personal Locomotion Aid on feet"]
+    },
+    "Level 3": {
+      "label": "Wheeled Footwear",
+      "synonyms": ["Skates", "Roller Shoes", "Footwear with Wheels", "Rolling Boots"]
+    },
+    "Level 4": {
+      "label": "Inline Skate",
+      "synonyms": ["Rollerblade", "Single-row Wheel Skate", "Boot with Line of Wheels", "Street Hockey Skate type", "Fitness Skate"]
+    }
+  },
+  "joshua_tree": {
+    "Level 1": {
+      "label": "Plant",
+      "synonyms": ["Vegetation", "Flora", "Greenery", "Botanical Life", "Autotroph"]
+    },
+    "Level 2": {
+      "label": "Desert Plant",
+      "synonyms": ["Arid Climate Vegetation", "Xerophyte", "Drought-tolerant Plant", "Cactus-like Plant or Succulent"]
+    },
+    "Level 3": {
+      "label": "Tree-like Yucca",
+      "synonyms": ["Arborescent Yucca", "Large Spiky Desert Plant", "Agavoideae subfamily member", "Monocot Tree"]
+    },
+    "Level 4": {
+      "label": "Joshua Tree",
+      "synonyms": ["Yucca brevifolia", "Yucca Palm", "Tree Yucca", "Izote de desierto", "Twisted Spiky Armed Desert Tree"]
+    }
+  },
+  "kangaroo": {
+    "Level 1": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Hairy Animal", "Milk-producing Animal", "Therian"]
+    },
+    "Level 2": {
+      "label": "Marsupial",
+      "synonyms": ["Pouched Mammal", "Metatherian", "Non-placental Mammal", "Mammal with a Pouch"]
+    },
+    "Level 3": {
+      "label": "Large Australian Marsupial",
+      "synonyms": ["Hopping Marsupial", "Macropodidae family member", "Big-footed Marsupial", "Saltatorial Mammal from Australia"]
+    },
+    "Level 4": {
+      "label": "Kangaroo",
+      "synonyms": ["Red Kangaroo Macropus rufus", "Eastern Grey Kangaroo Macropus giganteus", "Western Grey Kangaroo Macropus fuliginosus", "Wallaroo", "Large Bipedal Hopper"]
+    }
+  },
+  "ketch": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Transport", "Conveyance", "Mode of Transportation", "Mechanical Transporter"]
+    },
+    "Level 2": {
+      "label": "Watercraft",
+      "synonyms": ["Boat", "Ship", "Marine Vessel", "Aquatic Transport"]
+    },
+    "Level 3": {
+      "label": "Sailing Vessel",
+      "synonyms": ["Sailboat", "Wind-powered Boat", "Masted Ship", "Yacht type"]
+    },
+    "Level 4": {
+      "label": "Ketch",
+      "synonyms": ["Two-masted Sailboat", "Fore-and-aft Rigged Ketch", "Mizzenmast Aft of Rudderpost Sailboat", "Cruising Ketch", "Sailing Yacht with Ketch Rig"]
+    }
+  },
+  "lamp": {
+    "Level 1": {
+      "label": "Man-made Object",
+      "synonyms": ["Artificial Item", "Human-crafted Product", "Manufactured Good", "Constructed Item"]
+    },
+    "Level 2": {
+      "label": "Lighting Fixture",
+      "synonyms": ["Illumination Device", "Light Source Holder", "Luminaire", "Light Emitter"]
+    },
+    "Level 3": {
+      "label": "Freestanding Light",
+      "synonyms": ["Portable Light Source", "Table Lamp type", "Floor Lamp type", "Desk Light"]
+    },
+    "Level 4": {
+      "label": "Lamp",
+      "synonyms": ["Table Lamp", "Floor Lamp", "Desk Lamp", "Bedside Lamp", "Electric Lamp with Shade"]
+    }
+  },
+  "laptop": {
+    "Level 1": {
+      "label": "Electronic Device",
+      "synonyms": ["Powered Gadget", "Circuit-based Equipment", "Digital Tool", "Consumer Electronics"]
+    },
+    "Level 2": {
+      "label": "Computer",
+      "synonyms": ["Computing Machine", "Data Processor", "Information Technology Device", "Programmable Machine"]
+    },
+    "Level 3": {
+      "label": "Portable Computer",
+      "synonyms": ["Mobile Computing Device", "Personal Computer transportable", "Clamshell Computer", "Battery-powered Computer"]
+    },
+    "Level 4": {
+      "label": "Laptop",
+      "synonyms": ["Notebook Computer", "Portable PC", "Laptop Computer", "Foldable Screen Computer", "Mobile Workstation"]
+    }
+  },
+  "llama": {
+    "Level 1": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Hairy Animal", "Milk-producing Animal", "Therian"]
+    },
+    "Level 2": {
+      "label": "Even-toed Ungulate",
+      "synonyms": ["Artiodactyl", "Hoofed Mammal with even toes", "Cloven-hoofed Animal", "Herbivorous Ungulate"]
+    },
+    "Level 3": {
+      "label": "Camelid",
+      "synonyms": ["South American Camelid", "Lama genus member", "Pack Animal type", "Wool-producing Ungulate"]
+    },
+    "Level 4": {
+      "label": "Llama",
+      "synonyms": ["Lama glama", "Domesticated South American Camelid", "Andean Pack Animal", "Long-necked Woolly Mammal", "Guanaco descendant"]
+    }
+  },
+  "lobster": {
+    "Level 1": {
+      "label": "Aquatic Animal",
+      "synonyms": ["Water Dwelling Creature", "Marine Lifeform", "Benthic Animal", "Hydrofauna"]
+    },
+    "Level 2": {
+      "label": "Crustacean",
+      "synonyms": ["Hard-shelled Arthropod", "Aquatic Arthropod", "Exoskeleton Animal", "Malacostracan"]
+    },
+    "Level 3": {
+      "label": "Large Marine Decapod",
+      "synonyms": ["Clawed Sea Crustacean", "Ten-legged Ocean Dweller", "Nephropidae family member", "Homarus genus member"]
+    },
+    "Level 4": {
+      "label": "Lobster",
+      "synonyms": ["American Lobster Homarus americanus", "European Lobster Homarus gammarus", "Spiny Lobster Palinuridae family", "Clawed Marine Arthropod", "Large Edible Crustacean"]
+    }
+  },
+  "lotus": {
+    "Level 1": {
+      "label": "Plant",
+      "synonyms": ["Vegetation", "Flora", "Greenery", "Botanical Life", "Autotroph"]
+    },
+    "Level 2": {
+      "label": "Aquatic Plant",
+      "synonyms": ["Water Plant", "Hydrophyte", "Plant growing in water", "Submerged or Emergent Vegetation"]
+    },
+    "Level 3": {
+      "label": "Flowering Aquatic Plant",
+      "synonyms": ["Water Lily type", "Nelumbonaceae family member", "Plant with large showy water flowers", "Sacred Water Plant"]
+    },
+    "Level 4": {
+      "label": "Lotus",
+      "synonyms": ["Nelumbo nucifera", "Sacred Lotus", "Indian Lotus", "Bean of India", "Pink or White Water Flower with large circular leaves"]
+    }
+  },
+  "mandolin": {
+    "Level 1": {
+      "label": "Sound-producing Device",
+      "synonyms": ["Acoustic Device", "Audio Equipment", "Sonic Emitter", "Vibrating Object for Sound"]
+    },
+    "Level 2": {
+      "label": "Musical Instrument",
+      "synonyms": ["Music Maker", "Melodic Device", "Harmonic Instrument", "Orchestral Device"]
+    },
+    "Level 3": {
+      "label": "Stringed Instrument",
+      "synonyms": ["Chordophone", "Plucked String Instrument", "Lute Family Instrument", "Fretted String Instrument"]
+    },
+    "Level 4": {
+      "label": "Mandolin",
+      "synonyms": ["Small Lute type Instrument", "Teardrop-shaped String Instrument", "Eight-stringed Plucked Instrument", "Folk Music Instrument", "Bluegrass Instrument"]
+    }
+  },
+  "mayfly": {
+    "Level 1": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with Exoskeleton", "Jointed-limb Animal", "Segmented Body Invertebrate", "Ecdysozoan"]
+    },
+    "Level 2": {
+      "label": "Insect",
+      "synonyms": ["Hexapod", "Six-legged Arthropod", "Entomofauna member", "Pterygote Insect"]
+    },
+    "Level 3": {
+      "label": "Aquatic Insect",
+      "synonyms": ["Water-dwelling Insect", "Insect with Aquatic Larval Stage", "Ephemeroptera order member", "Short-lived Winged Insect"]
+    },
+    "Level 4": {
+      "label": "Mayfly",
+      "synonyms": ["Shadfly", "Lakefly", "Dayfly", "Fishfly", "Upwinged Fly", "Ephemerid"]
+    }
+  },
+  "menorah": {
+    "Level 1": {
+      "label": "Man-made Object",
+      "synonyms": ["Artificial Item", "Human-crafted Product", "Manufactured Good", "Constructed Item"]
+    },
+    "Level 2": {
+      "label": "Ceremonial Object",
+      "synonyms": ["Ritual Item", "Symbolic Artifact", "Religious Implement", "Cultural Object for Ceremony"]
+    },
+    "Level 3": {
+      "label": "Candelabrum",
+      "synonyms": ["Branched Candlestick", "Multi-arm Candle Holder", "Light Holder with Multiple Sockets", "Ornamental Candle Stand"]
+    },
+    "Level 4": {
+      "label": "Menorah",
+      "synonyms": ["Hanukkah Menorah", "Chanukiah", "Seven-branched Candelabrum Jewish symbol", "Nine-branched Hanukkah Lamp", "Jewish Ritual Candelabrum"]
+    }
+  },
+  "metronome": {
+    "Level 1": {
+      "label": "Tool",
+      "synonyms": ["Implement", "Device", "Apparatus", "Utensil", "Gadget"]
+    },
+    "Level 2": {
+      "label": "Musical Accessory",
+      "synonyms": ["Music Practice Aid", "Rhythm Device", "Tempo Tool", "Musician's Equipment"]
+    },
+    "Level 3": {
+      "label": "Timekeeping Device for Music",
+      "synonyms": ["Tempo Regulator", "Beat Keeper", "Rhythmic Pulse Generator", "Audible Click Device for Music"]
+    },
+    "Level 4": {
+      "label": "Metronome",
+      "synonyms": ["Mechanical Metronome", "Digital Metronome", "Pendulum Metronome", "Pyramid-shaped Tempo Device", "Click Track Generator"]
+    }
+  },
+  "minaret": {
+    "Level 1": {
+      "label": "Architectural Structure",
+      "synonyms": ["Building", "Edifice", "Construction", "Man-made Formation"]
+    },
+    "Level 2": {
+      "label": "Tower",
+      "synonyms": ["Tall Narrow Building", "Spire", "Steeple-like Structure", "Vertical Architectural Element"]
+    },
+    "Level 3": {
+      "label": "Religious Architectural Tower",
+      "synonyms": ["Sacred Spire", "Temple Tower", "Mosque Tower Component", "Bell Tower type structure"]
+    },
+    "Level 4": {
+      "label": "Minaret",
+      "synonyms": ["Islamic Prayer Call Tower", "Mosque Spire", "Tower attached to a Mosque", "Muezzin's Call Tower", "Slender Mosque Tower"]
+    }
+  },
+  "nautilus": {
+    "Level 1": {
+      "label": "Marine Animal",
+      "synonyms": ["Sea Creature", "Ocean Dwelling Animal", "Saltwater Lifeform", "Pelagic Animal"]
+    },
+    "Level 2": {
+      "label": "Mollusc",
+      "synonyms": ["Soft-bodied Invertebrate", "Shellfish type", "Gastropod or Cephalopod group", "Invertebrate with Mantle"]
+    },
+    "Level 3": {
+      "label": "Cephalopod",
+      "synonyms": ["Marine Mollusc with Tentacles", "Squid-like Animal", "Octopus relative", "Head-footed Mollusc"]
+    },
+    "Level 4": {
+      "label": "Nautilus",
+      "synonyms": ["Chambered Nautilus", "Nautilidae family member", "Shelled Cephalopod", "Living Fossil Cephalopod", "Spiral Shell Marine Animal"]
+    }
+  },
+  "octopus": {
+    "Level 1": {
+      "label": "Marine Animal",
+      "synonyms": ["Sea Creature", "Ocean Dwelling Animal", "Saltwater Lifeform", "Benthic Animal"]
+    },
+    "Level 2": {
+      "label": "Mollusc",
+      "synonyms": ["Soft-bodied Invertebrate", "Shellfish type", "Gastropod or Cephalopod group", "Invertebrate with Mantle"]
+    },
+    "Level 3": {
+      "label": "Cephalopod",
+      "synonyms": ["Marine Mollusc with Tentacles", "Squid-like Animal", "Nautilus relative", "Head-footed Mollusc"]
+    },
+    "Level 4": {
+      "label": "Octopus",
+      "synonyms": ["Eight-armed Cephalopod", "Octopodidae family member", "Intelligent Marine Invertebrate", "Suction Cup Tentacled Animal", "Common Octopus Octopus vulgaris"]
+    }
+  },
+  "okapi": {
+    "Level 1": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Hairy Animal", "Milk-producing Animal", "Therian"]
+    },
+    "Level 2": {
+      "label": "Even-toed Ungulate",
+      "synonyms": ["Artiodactyl", "Hoofed Mammal with even toes", "Cloven-hoofed Animal", "Herbivorous Ungulate"]
+    },
+    "Level 3": {
+      "label": "Giraffid",
+      "synonyms": ["Giraffidae family member", "Long-necked African Mammal type", "Ruminant related to Giraffes", "Forest Dwelling Ungulate"]
+    },
+    "Level 4": {
+      "label": "Okapi",
+      "synonyms": ["Okapia johnstoni", "Forest Giraffe", "Zebra Giraffe", "Striped-hindquarter Mammal", "Congolese Giraffid"]
+    }
+  },
+  "pagoda": {
+    "Level 1": {
+      "label": "Architectural Structure",
+      "synonyms": ["Building", "Edifice", "Construction", "Man-made Formation"]
+    },
+    "Level 2": {
+      "label": "Tower",
+      "synonyms": ["Tall Narrow Building", "Spire", "Steeple-like Structure", "Vertical Architectural Element"]
+    },
+    "Level 3": {
+      "label": "Tiered Tower",
+      "synonyms": ["Multi-story Tower with Eaves", "Asian Religious Tower", "Stupa-like Structure", "Layered Roof Tower"]
+    },
+    "Level 4": {
+      "label": "Pagoda",
+      "synonyms": ["East Asian Tiered Temple", "Buddhist Stupa Tower", "Hindu Temple Tower", "Multi-eaved Sacred Tower", "Japanese Gojūnotō type"]
+    }
+  },
+  "panda": {
+    "Level 1": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Hairy Animal", "Milk-producing Animal", "Therian"]
+    },
+    "Level 2": {
+      "label": "Carnivoran Mammal",
+      "synonyms": ["Member of Carnivora order", "Predatory Mammal type", "Bear-like or Cat-like Mammal", "Placental Mammal with Carnassial Teeth"]
+    },
+    "Level 3": {
+      "label": "Bear Family Member",
+      "synonyms": ["Ursid", "Large Omnivorous or Carnivorous Mammal", "Ailuropodinae subfamily member", "Plantigrade Mammal"]
+    },
+    "Level 4": {
+      "label": "Panda",
+      "synonyms": ["Giant Panda", "Ailuropoda melanoleuca", "Bamboo Bear", "Black and White Bear", "Chinese National Animal"]
+    }
+  },
+  "pigeon": {
+    "Level 1": {
+      "label": "Bird",
+      "synonyms": ["Avian", "Feathered Vertebrate", "Winged Animal", "Aves class member"]
+    },
+    "Level 2": {
+      "label": "Columbidae Family Bird",
+      "synonyms": ["Dove type bird", "Pigeon or Dove", "Stout-bodied Bird with Short Neck", "Seed-eating Bird"]
+    },
+    "Level 3": {
+      "label": "Urban Bird",
+      "synonyms": ["City Dwelling Bird", "Common Street Bird", "Rock Dove descendant", "Feral Pigeon"]
+    },
+    "Level 4": {
+      "label": "Pigeon",
+      "synonyms": ["Rock Pigeon Columba livia", "Feral Pigeon", "City Pigeon", "Homing Pigeon", "Carrier Pigeon", "Dove common term"]
+    }
+  },
+  "pizza": {
+    "Level 1": {
+      "label": "Food Item",
+      "synonyms": ["Edible Substance", "Nourishment", "Consumable Product", "Culinary Dish"]
+    },
+    "Level 2": {
+      "label": "Baked Good",
+      "synonyms": ["Oven-cooked Food", "Savory Pastry type", "Flatbread Dish", "Dough-based Food"]
+    },
+    "Level 3": {
+      "label": "Italian Savory Dish",
+      "synonyms": ["Flat Round Bread with Toppings", "Tomato and Cheese Baked Dish", "Neapolitan Cuisine item", "Oven-baked Flatbread"]
+    },
+    "Level 4": {
+      "label": "Pizza",
+      "synonyms": ["Pepperoni Pizza", "Margherita Pizza", "Cheese Pizza", "Round Pie with Toppings", "Italian Pie"]
+    }
+  },
+  "platypus": {
+    "Level 1": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Hairy Animal", "Milk-producing Animal", "Therian"]
+    },
+    "Level 2": {
+      "label": "Monotreme",
+      "synonyms": ["Egg-laying Mammal", "Prototherian", "Primitive Mammal type", "Echidna relative"]
+    },
+    "Level 3": {
+      "label": "Semi-Aquatic Egg-laying Mammal",
+      "synonyms": ["Australian Monotreme with Bill", "Duck-billed Mammal", "Venomous Mammal", "Webbed-feet Mammal"]
+    },
+    "Level 4": {
+      "label": "Platypus",
+      "synonyms": ["Ornithorhynchus anatinus", "Duckbill Platypus", "Australian Webbed Mammal", "Egg-laying Beaver-like Animal", "Venomous Spur Mammal"]
+    }
+  },
+  "pyramid": {
+    "Level 1": {
+      "label": "Architectural Structure",
+      "synonyms": ["Building", "Edifice", "Construction", "Man-made Formation"]
+    },
+    "Level 2": {
+      "label": "Monumental Structure",
+      "synonyms": ["Large Scale Edifice", "Historic Landmark Building", "Ancient Construction", "Iconic Building Form"]
+    },
+    "Level 3": {
+      "label": "Geometric Solid Shape Structure",
+      "synonyms": ["Polyhedron Building", "Structure with Triangular Faces and Square Base", "Ancient Tomb or Temple", "Step-sided Structure"]
+    },
+    "Level 4": {
+      "label": "Pyramid",
+      "synonyms": ["Egyptian Pyramid", "Mayan Pyramid", "Step Pyramid", "Great Pyramid of Giza type", "Triangular Faced Monument"]
+    }
+  },
+  "revolver": {
+    "Level 1": {
+      "label": "Tool",
+      "synonyms": ["Implement", "Device", "Apparatus", "Utensil", "Mechanism"]
+    },
+    "Level 2": {
+      "label": "Weapon",
+      "synonyms": ["Armament", "Combat Tool", "Offensive Implement", "Defensive Implement", "Arm"]
+    },
+    "Level 3": {
+      "label": "Firearm",
+      "synonyms": ["Gun", "Handgun type", "Projectile Weapon", "Pistol category"]
+    },
+    "Level 4": {
+      "label": "Revolver",
+      "synonyms": ["Revolving Cylinder Handgun", "Six-shooter", "Wheel Gun", "Colt type handgun", "Smith & Wesson type handgun"]
+    }
+  },
+  "rhino": {
+    "Level 1": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Hairy Animal", "Milk-producing Animal", "Therian"]
+    },
+    "Level 2": {
+      "label": "Odd-toed Ungulate",
+      "synonyms": ["Perissodactyl", "Hoofed Mammal with odd toes", "Large Herbivorous Mammal", "Horse or Tapir relative"]
+    },
+    "Level 3": {
+      "label": "Large Horned Herbivore",
+      "synonyms": ["Rhinocerotidae family member", "Thick-skinned Pachyderm", "African or Asian Horned Mammal", "Grazer with Horns on Nose"]
+    },
+    "Level 4": {
+      "label": "Rhino",
+      "synonyms": ["Rhinoceros", "White Rhinoceros Ceratotherium simum", "Black Rhinoceros Diceros bicornis", "Indian Rhinoceros Rhinoceros unicornis", "Horned Pachyderm"]
+    }
+  },
+  "rooster": {
+    "Level 1": {
+      "label": "Bird",
+      "synonyms": ["Avian", "Feathered Vertebrate", "Winged Animal", "Aves class member"]
+    },
+    "Level 2": {
+      "label": "Fowl",
+      "synonyms": ["Domesticated Bird", "Poultry type", "Galliform Bird", "Landfowl"]
+    },
+    "Level 3": {
+      "label": "Adult Male Chicken",
+      "synonyms": ["Cockerel grown up", "Male Gallus gallus domesticus", "Comb and Wattle Bird", "Crowing Fowl"]
+    },
+    "Level 4": {
+      "label": "Rooster",
+      "synonyms": ["Cock", "Male Chicken", "Chanticleer", "Farmyard Rooster", "Bird that Crows at Dawn"]
+    }
+  },
+  "saxophone": {
+    "Level 1": {
+      "label": "Sound-producing Device",
+      "synonyms": ["Acoustic Device", "Audio Equipment", "Sonic Emitter", "Vibrating Object for Sound"]
+    },
+    "Level 2": {
+      "label": "Musical Instrument",
+      "synonyms": ["Music Maker", "Melodic Device", "Harmonic Instrument", "Orchestral Device"]
+    },
+    "Level 3": {
+      "label": "Wind Instrument",
+      "synonyms": ["Aerophone", "Woodwind Instrument type", "Reed Instrument", "Blown Instrument"]
+    },
+    "Level 4": {
+      "label": "Saxophone",
+      "synonyms": ["Sax", "Single-reed Woodwind", "Conical Bore Brass-bodied Instrument", "Jazz Instrument", "Alto Sax", "Tenor Sax", "Soprano Sax", "Baritone Sax"]
+    }
+  },
+  "schooner": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Transport", "Conveyance", "Mode of Transportation", "Mechanical Transporter"]
+    },
+    "Level 2": {
+      "label": "Watercraft",
+      "synonyms": ["Boat", "Ship", "Marine Vessel", "Aquatic Transport"]
+    },
+    "Level 3": {
+      "label": "Sailing Vessel",
+      "synonyms": ["Sailboat", "Wind-powered Boat", "Masted Ship", "Yacht type"]
+    },
+    "Level 4": {
+      "label": "Schooner",
+      "synonyms": ["Fore-and-aft Rigged Sailing Ship", "Two or More Masted Sailboat", "Gaff Rigged Schooner", "Tall Ship type", "Classic Sailing Vessel"]
+    }
+  },
+  "scissors": {
+    "Level 1": {
+      "label": "Tool",
+      "synonyms": ["Implement", "Device", "Apparatus", "Utensil", "Instrument"]
+    },
+    "Level 2": {
+      "label": "Cutting Tool",
+      "synonyms": ["Shearing Device", "Blade Tool", "Cutter", "Snipping Tool"]
+    },
+    "Level 3": {
+      "label": "Handheld Cutting Tool",
+      "synonyms": ["Manual Shears", "Hand-operated Cutter", "Personal Cutting Device", "Small Blade Tool"]
+    },
+    "Level 4": {
+      "label": "Scissors",
+      "synonyms": ["Pair of Scissors", "Shears", "Snips", "Hand Shears", "Paper Cutting Tool"]
+    }
+  },
+  "scorpion": {
+    "Level 1": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with Exoskeleton", "Jointed-limb Animal", "Segmented Body Invertebrate", "Ecdysozoan"]
+    },
+    "Level 2": {
+      "label": "Arachnid",
+      "synonyms": ["Eight-legged Arthropod", "Spider Relative", "Chelicerate", "Scorpionida order member"]
+    },
+    "Level 3": {
+      "label": "Venomous Arachnid",
+      "synonyms": ["Stinger-tailed Arachnid", "Pincer-bearing Arachnid", "Nocturnal Predator Arachnid", "Clawed Arachnid"]
+    },
+    "Level 4": {
+      "label": "Scorpion",
+      "synonyms": ["Scorpiones", "True Scorpion", "Pincer-tailed Arachnid", "Stinging Arachnid", "Buthidae family member"]
+    }
+  },
+  "sea_horse": {
+    "Level 1": {
+      "label": "Fish",
+      "synonyms": ["Aquatic Vertebrate", "Fin-bearing Animal", "Pisces", "Water-dwelling Vertebrate"]
+    },
+    "Level 2": {
+      "label": "Bony Fish",
+      "synonyms": ["Osteichthyes", "Ray-finned Fish", "Teleost", "Skeleton with Bone Fish"]
+    },
+    "Level 3": {
+      "label": "Pipefish Family",
+      "synonyms": ["Syngnathidae family", "Pipe-shaped Fish", "Elongated Body Fish", "Small Marine Fish Group"]
+    },
+    "Level 4": {
+      "label": "Sea Horse",
+      "synonyms": ["Hippocampus genus", "Curled-tailed Fish", "Horse-headed Fish", "Marine Sea Horse", "Small Armored Fish"]
+    }
+  },
+  "snoopy": {
+    "Level 1": {
+      "label": "Representation",
+      "synonyms": ["Depiction", "Likeness", "Visual Portrayal", "Figurative Image"]
+    },
+    "Level 2": {
+      "label": "Fictional Character",
+      "synonyms": ["Invented Persona", "Story Character", "Imaginary Being", "Cartoon Figure"]
+    },
+    "Level 3": {
+      "label": "Animated Animal Character",
+      "synonyms": ["Cartoon Animal", "Anthropomorphic Animal Figure", "Illustrated Animal Persona", "Talking Animal Character"]
+    },
+    "Level 4": {
+      "label": "Snoopy",
+      "synonyms": ["Peanuts Dog", "Charlie Brown's Dog", "White Cartoon Beagle", "Famous Comic Dog", "Schulz Character"]
+    }
+  },
+  "soccer_ball": {
+    "Level 1": {
+      "label": "Sporting Equipment",
+      "synonyms": ["Athletic Gear", "Recreational Device", "Physical Activity Tool", "Sports Apparatus"]
+    },
+    "Level 2": {
+      "label": "Ball",
+      "synonyms": ["Spherical Object", "Round Equipment", "Orb", "Game Ball"]
+    },
+    "Level 3": {
+      "label": "Team Sport Ball",
+      "synonyms": ["Football", "Soccer Game Ball", "Outdoor Sport Ball", "Field Game Ball"]
+    },
+    "Level 4": {
+      "label": "Soccer Ball",
+      "synonyms": ["Football (soccer)", "Black and White Ball", "Hexagon Pattern Ball", "FIFA Ball", "Match Ball"]
+    }
+  },
+  "stapler": {
+    "Level 1": {
+      "label": "Tool",
+      "synonyms": ["Implement", "Device", "Apparatus", "Utensil", "Instrument"]
+    },
+    "Level 2": {
+      "label": "Fastening Tool",
+      "synonyms": ["Binder", "Joining Device", "Attachment Tool", "Paper Fastener"]
+    },
+    "Level 3": {
+      "label": "Office Fastener",
+      "synonyms": ["Desk Fastener", "Stationery Fastener", "Paperwork Tool", "Manual Paper Binder"]
+    },
+    "Level 4": {
+      "label": "Stapler",
+      "synonyms": ["Paper Stapler", "Desk Stapler", "Handheld Stapler", "Office Stapler", "Stationery Stapler"]
+    }
+  },
+  "starfish": {
+    "Level 1": {
+      "label": "Marine Animal",
+      "synonyms": ["Sea Creature", "Ocean Dwelling Animal", "Saltwater Lifeform", "Benthic Animal"]
+    },
+    "Level 2": {
+      "label": "Echinoderm",
+      "synonyms": ["Spiny-skinned Animal", "Radially Symmetrical Marine Animal", "Asteroidea class", "Sea Star Group"]
+    },
+    "Level 3": {
+      "label": "Sea Star",
+      "synonyms": ["Five-armed Marine Animal", "Star-shaped Echinoderm", "Arm-bearing Sea Animal", "Star-shaped Benthic Animal"]
+    },
+    "Level 4": {
+      "label": "Starfish",
+      "synonyms": ["Sea Star", "Asteroidea", "Common Starfish", "Five-arm Starfish", "Marine Star Animal"]
+    }
+  },
+  "stegosaurus": {
+    "Level 1": {
+      "label": "Extinct Animal",
+      "synonyms": ["Prehistoric Creature", "Fossilized Animal", "Ancient Life Form Animal", "Bygone Fauna"]
+    },
+    "Level 2": {
+      "label": "Dinosaur",
+      "synonyms": ["Prehistoric Reptile group", "Mesozoic Era Reptile", "Archosaurian Diapsid", "Giant Fossil Reptile"]
+    },
+    "Level 3": {
+      "label": "Stegosaurid",
+      "synonyms": ["Plated Dinosaur", "Thyreophoran Dinosaur", "Armored Dinosaur", "Stegosauridae family"]
+    },
+    "Level 4": {
+      "label": "Stegosaurus",
+      "synonyms": ["Stegosaurus stenops", "Plated Back Dinosaur", "Tail-spiked Dinosaur", "Jurassic Stegosaur", "Roofed Lizard"]
+    }
+  },
+  "stop_sign": {
+    "Level 1": {
+      "label": "Sign",
+      "synonyms": ["Indicator", "Notice", "Placard", "Display Board"]
+    },
+    "Level 2": {
+      "label": "Traffic Sign",
+      "synonyms": ["Road Sign", "Street Sign", "Highway Sign", "Regulatory Sign"]
+    },
+    "Level 3": {
+      "label": "Regulatory Traffic Sign",
+      "synonyms": ["Mandatory Sign", "Command Sign", "Instructional Road Sign", "Law Enforcement Sign"]
+    },
+    "Level 4": {
+      "label": "Stop Sign",
+      "synonyms": ["Octagonal Red Sign", "STOP Board", "Road Stop Indicator", "Traffic Control Sign", "Red Regulatory Sign"]
+    }
+  },
+  "strawberry": {
+    "Level 1": {
+      "label": "Plant",
+      "synonyms": ["Vegetation", "Flora", "Greenery", "Botanical Life", "Autotroph"]
+    },
+    "Level 2": {
+      "label": "Fruit Plant",
+      "synonyms": ["Berry Plant", "Edible Fruit Producer", "Fruit-bearing Plant", "Angiosperm Fruit Plant"]
+    },
+    "Level 3": {
+      "label": "Red Berry Fruit Plant",
+      "synonyms": ["Rosaceae Berry", "Aggregate Fruit Plant", "Low-growing Fruit Plant", "Ground Berry Plant"]
+    },
+    "Level 4": {
+      "label": "Strawberry",
+      "synonyms": ["Fragaria × ananassa", "Garden Strawberry", "Red Berry Fruit", "Sweet Red Fruit", "Edible Aggregate Fruit"]
+    }
+  },
+  "sunflower": {
+    "Level 1": {
+      "label": "Plant",
+      "synonyms": ["Vegetation", "Flora", "Greenery", "Botanical Life", "Autotroph"]
+    },
+    "Level 2": {
+      "label": "Flowering Plant",
+      "synonyms": ["Angiosperm", "Blooming Plant", "Ornamental Flower Plant", "Seed-producing Flower Plant"]
+    },
+    "Level 3": {
+      "label": "Tall Yellow Flower Plant",
+      "synonyms": ["Helianthus genus", "Large Flower Head Plant", "Seed-filled Flower Plant", "Annual Flower Plant"]
+    },
+    "Level 4": {
+      "label": "Sunflower",
+      "synonyms": ["Helianthus annuus", "Common Sunflower", "Yellow Petal Flower", "Large Flower Head", "Oilseed Flower Plant"]
+    }
+  },
+  "tick": {
+    "Level 1": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with Exoskeleton", "Jointed-limb Animal", "Segmented Body Invertebrate", "Ecdysozoan"]
+    },
+    "Level 2": {
+      "label": "Arachnid",
+      "synonyms": ["Eight-legged Arthropod", "Spider Relative", "Chelicerate", "Parasitic Arachnid"]
+    },
+    "Level 3": {
+      "label": "Parasitic Arachnid",
+      "synonyms": ["Blood-feeding Arachnid", "Ectoparasite", "Host-attaching Arachnid", "Disease Vector Arachnid"]
+    },
+    "Level 4": {
+      "label": "Tick",
+      "synonyms": ["Ixodida", "Hard Tick", "Soft Tick", "Bloodsucker Arachnid", "Parasitic Tick"]
+    }
+  },
+  "trilobite": {
+    "Level 1": {
+      "label": "Extinct Animal",
+      "synonyms": ["Prehistoric Creature", "Fossilized Animal", "Ancient Life Form Animal", "Bygone Fauna"]
+    },
+    "Level 2": {
+      "label": "Arthropod",
+      "synonyms": ["Invertebrate with Exoskeleton", "Jointed-limb Animal", "Segmented Body Invertebrate", "Ecdysozoan"]
+    },
+    "Level 3": {
+      "label": "Marine Fossil Arthropod",
+      "synonyms": ["Paleozoic Marine Arthropod", "Three-lobed Fossil Animal", "Extinct Marine Invertebrate", "Trilobita class"]
+    },
+    "Level 4": {
+      "label": "Trilobite",
+      "synonyms": ["Trilobita", "Three-lobed Fossil", "Paleozoic Fossil Arthropod", "Extinct Marine Arthropod", "Segmented Fossil Animal"]
+    }
+  },
+  "umbrella": {
+    "Level 1": {
+      "label": "Tool",
+      "synonyms": ["Implement", "Device", "Apparatus", "Utensil", "Instrument"]
+    },
+    "Level 2": {
+      "label": "Weather Protection Device",
+      "synonyms": ["Rain Shield", "Sunshade", "Portable Shelter", "Personal Cover"]
+    },
+    "Level 3": {
+      "label": "Handheld Weather Shield",
+      "synonyms": ["Rain Umbrella", "Sun Umbrella", "Portable Canopy", "Handheld Shelter"]
+    },
+    "Level 4": {
+      "label": "Umbrella",
+      "synonyms": ["Rain Umbrella", "Parasol", "Folding Umbrella", "Collapsible Canopy", "Personal Rain Cover"]
+    }
+  },
+  "watch": {
+    "Level 1": {
+      "label": "Tool",
+      "synonyms": ["Implement", "Device", "Apparatus", "Utensil", "Instrument"]
+    },
+    "Level 2": {
+      "label": "Timekeeping Device",
+      "synonyms": ["Clock", "Chronometer", "Timer", "Timepiece"]
+    },
+    "Level 3": {
+      "label": "Wearable Timepiece",
+      "synonyms": ["Wristwatch", "Pocket Watch", "Personal Clock", "Portable Timekeeper"]
+    },
+    "Level 4": {
+      "label": "Watch",
+      "synonyms": ["Wristwatch", "Analog Watch", "Digital Watch", "Timepiece for Wrist", "Personal Watch"]
+    }
+  },
+  "water_lilly": {
+    "Level 1": {
+      "label": "Plant",
+      "synonyms": ["Vegetation", "Flora", "Greenery", "Botanical Life", "Autotroph"]
+    },
+    "Level 2": {
+      "label": "Aquatic Plant",
+      "synonyms": ["Water Plant", "Hydrophyte", "Plant growing in water", "Floating-leaved Plant"]
+    },
+    "Level 3": {
+      "label": "Flowering Aquatic Plant",
+      "synonyms": ["Nymphaeaceae family", "Water Flower Plant", "Floating Flower Plant", "Showy Water Flower"]
+    },
+    "Level 4": {
+      "label": "Water Lilly",
+      "synonyms": ["Nymphaea", "Lotus (common name)", "Floating Water Flower", "White Water Lilly", "Pink Water Lilly"]
+    }
+  },
+  "wheelchair": {
+    "Level 1": {
+      "label": "Vehicle",
+      "synonyms": ["Transport", "Conveyance", "Mode of Transportation", "Mechanical Transporter"]
+    },
+    "Level 2": {
+      "label": "Personal Mobility Device",
+      "synonyms": ["Mobility Aid", "Assistive Device", "Transport Chair", "Mobility Vehicle"]
+    },
+    "Level 3": {
+      "label": "Wheeled Mobility Device",
+      "synonyms": ["Manual Wheelchair", "Powered Wheelchair", "Rolling Chair", "Seated Mobility Aid"]
+    },
+    "Level 4": {
+      "label": "Wheelchair",
+      "synonyms": ["Manual Wheelchair", "Electric Wheelchair", "Mobility Chair", "Assistive Rolling Chair", "Personal Wheelchair"]
+    }
+  },
+  "wild_cat": {
+    "Level 1": {
+      "label": "Mammal",
+      "synonyms": ["Warm-blooded Vertebrate", "Hairy Animal", "Milk-producing Animal", "Therian"]
+    },
+    "Level 2": {
+      "label": "Feline",
+      "synonyms": ["Cat", "Felid", "Member of Felidae family", "Carnivorous Cat"]
+    },
+    "Level 3": {
+      "label": "Small Wild Cat",
+      "synonyms": ["Felis silvestris group", "Non-domesticated Cat", "Wild Feline", "Forest Cat"]
+    },
+    "Level 4": {
+      "label": "Wild Cat",
+      "synonyms": ["Felis silvestris", "European Wildcat", "African Wildcat", "Wild Feline", "Forest Cat"]
+    }
+  },
+  "windsor_chair": {
+    "Level 1": {
+      "label": "Man-made Object",
+      "synonyms": ["Artificial Item", "Human-crafted Product", "Manufactured Good", "Constructed Item"]
+    },
+    "Level 2": {
+      "label": "Furniture",
+      "synonyms": ["Household Furnishing", "Interior Decor Item", "Room Fixture", "Moveable Domestic Article"]
+    },
+    "Level 3": {
+      "label": "Seating Furniture",
+      "synonyms": ["Seat", "Sitting Support", "Rest Perch", "Item for Sitting"]
+    },
+    "Level 4": {
+      "label": "Windsor Chair",
+      "synonyms": ["Spindle-back Chair", "Wooden Armchair", "Classic English Chair", "Bow-back Chair", "Stick-back Chair"]
+    }
+  },
+  "wrench": {
+    "Level 1": {
+      "label": "Tool",
+      "synonyms": ["Implement", "Device", "Apparatus", "Utensil", "Instrument"]
+    },
+    "Level 2": {
+      "label": "Turning Tool",
+      "synonyms": ["Spanner", "Twisting Tool", "Rotating Tool", "Grip Tool"]
+    },
+    "Level 3": {
+      "label": "Handheld Turning Tool",
+      "synonyms": ["Manual Spanner", "Hand Tool for Nuts and Bolts", "Adjustable Wrench", "Socket Wrench"]
+    },
+    "Level 4": {
+      "label": "Wrench",
+      "synonyms": ["Spanner", "Adjustable Wrench", "Monkey Wrench", "Open-end Wrench", "Box-end Wrench"]
+    }
+  },
+  "yin_yang": {
+    "Level 1": {
+      "label": "Symbol",
+      "synonyms": ["Emblem", "Sign", "Icon", "Graphic Symbol"]
+    },
+    "Level 2": {
+      "label": "Philosophical Symbol",
+      "synonyms": ["Conceptual Symbol", "Spiritual Emblem", "Metaphysical Sign", "Cultural Symbol"]
+    },
+    "Level 3": {
+      "label": "Duality Symbol",
+      "synonyms": ["Balance Symbol", "Opposites Symbol", "Complementary Forces Icon", "Harmony Emblem"]
+    },
+    "Level 4": {
+      "label": "Yin Yang",
+      "synonyms": ["Taijitu", "Yin and Yang", "Duality Circle", "Chinese Dualism Symbol", "Black and White Swirl Symbol"]
+    }
+  }
+}

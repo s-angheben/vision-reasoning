@@ -1,0 +1,1011 @@
+{
+  "category_outputs": {
+    "Faces": [
+      "office equipment",
+      "Artwork",
+      "Person, Individual, Human",
+      "person",
+      "Person",
+      "Human face",
+      "Cartoon character",
+      "Person, Man, Portrait"
+    ],
+    "Faces_easy": [],
+    "Leopards": [
+      "Big cat, wild animal, feline.",
+      "Big cat.",
+      "Animal - Cheetah",
+      "Big cat, wild animal, jungle predator",
+      "Big cat standing on hind legs",
+      "Big cat, Wild animal, Leopard",
+      "Cheetahs",
+      "Big cat, Wild animal, Feline",
+      "Big cat, Wild animal, Jaguar",
+      "Big cats",
+      "Big cat, wild animal, predator",
+      "Big cat",
+      "Big Cat",
+      "Feline, Wild, Tree-dwelling",
+      "Big cat in tree"
+    ],
+    "Motorbikes": [
+      "Motorcycle",
+      "Motorcycle model",
+      "Motorcycle Model"
+    ],
+    "accordion": [
+      "Musical Instrument",
+      "Electronic Instrument",
+      "Electronic device",
+      "Musical Instrument - Harmonica"
+    ],
+    "airplanes": [
+      "Military aircraft",
+      "Aircraft",
+      "Concorde supersonic passenger aircraft",
+      "Model Airplane",
+      "Military Aircraft",
+      "Military Transport Aircraft",
+      "aircraft",
+      "Airplane"
+    ],
+    "anchor": [
+      "Ancient tool",
+      "Animal Statue",
+      "Nautical Symbol",
+      "Glass Pipe",
+      "Skateboarder with large anchor.",
+      "Anchor",
+      "Life buoy",
+      "Nautical Equipment"
+    ],
+    "ant": [
+      "Origami Insect",
+      "Insects - Ants",
+      "Insect Model",
+      "Insects",
+      "Insect - Ant"
+    ],
+    "barrel": [
+      "Television",
+      "Wooden Barrel",
+      "Barrel with Engraved Design",
+      "Water barrel",
+      "Signpost",
+      "Barrel",
+      "Bottle"
+    ],
+    "bass": [
+      "Fishing lure",
+      "Fish, Marine, Freshwater",
+      "Fish, Freshwater, Bass",
+      "Fish"
+    ],
+    "beaver": [
+      "Mammal, Rodent, Beaver",
+      "Rodent",
+      "Mammal, Aquatic, River otter",
+      "Mammal - Rodent - Beaver",
+      "Statue, Sculpture, Bronze Figure",
+      "Mammal, Beaver, Aquatic",
+      "Mammal, Beaver, Wildlife"
+    ],
+    "binocular": [
+      "Optical Instrument",
+      "Audio Device",
+      "Camera lens assembly",
+      "Optical instrument",
+      "Binoculars",
+      "Footwear",
+      "Optical Device"
+    ],
+    "bonsai": [
+      "Bonsai Tree",
+      "Tree",
+      "Bonsai Trees"
+    ],
+    "brain": [
+      "Neurological Structure",
+      "Brain Anatomy",
+      "Brain regions",
+      "Brain illustration",
+      "Anatomical Model",
+      "Medical Device",
+      "Neurological Model",
+      "Medical Image",
+      "Brain scan",
+      "Brain Diagram",
+      "Neurological imaging",
+      "Brain anatomy",
+      "Organ, Biological, Neurological",
+      "Medical Services",
+      "Neurological Imaging",
+      "Organ",
+      "Neuroscience",
+      "Neurology",
+      "Neurological Disorder"
+    ],
+    "brontosaurus": [
+      "prehistoric animal",
+      "Prehistoric creature",
+      "Dinosaur Statue",
+      "Dinosaur",
+      "prehistoric creature",
+      "Dinosaur Sculpture",
+      "Elephant - Animal"
+    ],
+    "buddha": [
+      "Statue, Religious, Meditation",
+      "Statue, Religious, Buddha",
+      "Statue, Ancient, Buddha",
+      "Religious Figure",
+      "Statue, Religious, Golden",
+      "Statue, Religious Figure, Meditation Pose",
+      "Religious statue",
+      "Statue, Buddha, Religious",
+      "Statue, Buddha, Monument",
+      "Statue, Meditation, Buddha",
+      "Buddha Statue",
+      "Statue, Wooden, Buddha",
+      "Statue, Religious, Monument"
+    ],
+    "butterfly": [
+      "Butterfly Silhouette",
+      "Textile Art",
+      "Hair Accessories",
+      "Butterfly Embroidery",
+      "Insect, Butterfly, Blue",
+      "Butterfly Art",
+      "Insect, Butterfly, Artwork",
+      "Butterfly - Clothing Brand",
+      "Butterfly on flower",
+      "Insect - Butterfly",
+      "Origami Butterfly",
+      "Brooch",
+      "Butterfly"
+    ],
+    "camera": [
+      "Digital camera",
+      "Medical Device",
+      "Photography Equipment",
+      "Digital Camera",
+      "Camera Accessory",
+      "Camera",
+      "Photography - Camera"
+    ],
+    "cannon": [
+      "Historical cannon",
+      "Cart with wheels and handlebars",
+      "Historical Weapon",
+      "Artillery Gun",
+      "Artillery Weapon",
+      "Toy Cannon",
+      "Cannonball\u53d1\u5c04\u5668",
+      "Artillery Piece",
+      "Ancient artillery piece",
+      "Military Weapon"
+    ],
+    "car_side": [
+      "car",
+      "automobile",
+      "Automobile, Pickup Truck, Utility Vehicle",
+      "Automobile, Pickup Truck",
+      "Automobile"
+    ],
+    "ceiling_fan": [
+      "Helicopter",
+      "Furniture - Ceiling Fan",
+      "Electrical appliance",
+      "Light fixture"
+    ],
+    "cellphone": [
+      "Cell Phone",
+      "Communications Device",
+      "Remote Control",
+      "Biometric Scanner",
+      "Telephone",
+      "Calculator",
+      "remote control",
+      "Electronics - Mobile Phones"
+    ],
+    "chair": [
+      "furniture chair",
+      "Painting Supplies",
+      "Outdoor furniture",
+      "Furniture",
+      "office chair",
+      "furniture",
+      "Antique Furniture",
+      "Folding Chair",
+      "Furniture - Chair"
+    ],
+    "chandelier": [
+      "Candle Chandelier",
+      "Candleholder",
+      "Light fixture",
+      "Laboratory Equipment",
+      "ornate lamp"
+    ],
+    "cougar_body": [
+      "Felidae",
+      "Feline, Wild Cat, Mountain Lion",
+      "Feline - Felidae - Puma",
+      "Feline, Felidae, Panthera",
+      "Feline",
+      "Canine - Felidae - Canis - Lynx - Lynx - Lynx - Lynx - Lynx - Lynx - Lynx - Lynx - Lynx - Lynx - Lynx - Lynx - Lynx - Lynx - Lynx - Lynx - Lynx - Lynx -",
+      "Taxidermy Cat",
+      "Feline, Carnivore, Wildlife",
+      "Big cat",
+      "Big Cat",
+      "Feline, Carnivore, Felidae"
+    ],
+    "cougar_face": [
+      "Felidae",
+      "Feline",
+      "Feline, Roaring, Wild Cat",
+      "Mammal",
+      "Feline, Wildcat, Mountain Lion",
+      "Feline Face",
+      "Big Sur Chamber of Commerce",
+      "Wildlife - Lioness",
+      "Big Cat",
+      "Animal - Feline - Panther",
+      "Feline Portrait",
+      "Feline, Wildlife, Predator",
+      "Feline, Carnivore, Felidae"
+    ],
+    "crab": [
+      "Crab - Invertebrate - Marine Life",
+      "Crab",
+      "Crab, Sand Crab, Coastal Crab",
+      "Insects",
+      "Insect - Caterpillar",
+      "Plant - Flowering Plant - Conifer",
+      "Food",
+      "Arthropod, Insect, Lobster",
+      "Crustacean"
+    ],
+    "crayfish": [
+      "Arthropod",
+      "Invertebrate, Arthropod, Insect",
+      "Crustacean, aquatic, marine life",
+      "Crustacean, aquatic, lobster",
+      "Crustacean, Lobster, Marine Life",
+      "Insect, Invertebrate, Arthropod",
+      "Seafood, Lobster, Fresh seafood",
+      "Aquatic Invertebrate",
+      "Arthropod, Invertebrate, Crustacean",
+      "Insect",
+      "Arachnid",
+      "Crustacean"
+    ],
+    "crocodile": [
+      "Reptile, Crocodile, Saltwater.",
+      "Mammal",
+      "Reptile, Alligator, Crocodile",
+      "Reptile, Crocodile, Large, Water, Predatory, Aquatic, Wildlife, Nature, Exotic, Reptilian, Reptile Species",
+      "Reptile, Crocodile, Alligator",
+      "Reptile, Crocodile, Aquatic Animal",
+      "Reptile, Crocodile, Water Creature",
+      "Reptile - Crocodile",
+      "Reptile"
+    ],
+    "crocodile_head": [
+      "Reptile, Crocodile, Saltwater.",
+      "Animation, Cartoon, Crocodile",
+      "Reptile, Amphibian, Crocodile",
+      "Reptile, Crocodile, Water Animal",
+      "Reptile, Lizard, Monitor lizard",
+      "Reptile, Crocodile, Saltwater Crocodile",
+      "Reptile, Crocodile, Alligator",
+      "Reptile - Crocodile",
+      "Reptile"
+    ],
+    "cup": [
+      "Ceramic Mug",
+      "Metal Mug",
+      "Ceramic cup",
+      "Cup and Saucer",
+      "Cup with chocolate bar",
+      "Cup",
+      "Drinkware",
+      "Cups",
+      "Coffee Mug"
+    ],
+    "dalmatian": [
+      "Dog",
+      "Canine, Dalmatian, Pet",
+      "Dog Breed",
+      "Toys - Dolls - Collectible",
+      "Dalmatian Dog",
+      "Dog Statue",
+      "Dalmatian",
+      "Canine Breed",
+      "Canine"
+    ],
+    "dollar_bill": [
+      "Currency",
+      "Money - Horse - Currency",
+      "Currency Bill"
+    ],
+    "dolphin": [
+      "Whale",
+      "Aquatic Creature",
+      "Aquatic mammal, marine life, oceanic creature",
+      "Aquatic mammal",
+      "Whale - Dolphin",
+      "Whale, Marine Mammal, Cetacean",
+      "Aquatic Animal",
+      "Marine mammal",
+      "Marine Mammal",
+      "Whale - Blue Whale"
+    ],
+    "dragonfly": [
+      "Insect, Dragonfly, Red Dragonfly",
+      "Fossilized Plant",
+      "Insect, Dragonfly, Blue Dragonfly",
+      "Insect, Dragonfly, Invertebrate",
+      "Dragonfly, insect, nature, wildlife, outdoor, garden, decoration, art, sculpture, metalwork, ornamental, decorative, garden ornament, outdoor decor, nature art, wildlife art, garden art, outdoor art, nature decoration, wildlife decoration, garden decoration, outdoor decoration, nature sculpture, wildlife sculpture, garden",
+      "Insect - Dragonfly",
+      "Insect, Dragonfly, Red-winged"
+    ],
+    "electric_guitar": [
+      "Musical Instrument",
+      "Musical Instrument - Bass Guitar",
+      "Musical Instrument - Electric Guitar",
+      "Electric Guitar",
+      "Electric guitar"
+    ],
+    "elephant": [
+      "Elephant calf",
+      "Elephant walking on path",
+      "Elephant statue",
+      "Elephant",
+      "Elephant with saddle",
+      "Elephant, mammal, animal",
+      "Elephant with Blanket",
+      "Elephant walking on dirt path",
+      "Elephant, Wildlife, Animal",
+      "Elephant in savannah",
+      "Elephant Statue",
+      "Elephant - Flying",
+      "Elephant, Animal, Wildlife"
+    ],
+    "emu": [
+      "Bird - Emu",
+      "Large bird, Emu, Standing on grass",
+      "Birds, Emus, Young",
+      "Bird",
+      "Bird - Ostrich",
+      "Birds"
+    ],
+    "euphonium": [
+      "Musical Instrument",
+      "Cornet",
+      "Trumpet",
+      "Wind Instrument"
+    ],
+    "ewer": [
+      "Porcelain Pitcher and Bowl Set",
+      "Vase",
+      "Silver and crystal ewer",
+      "Porcelain Ewer",
+      "Ceramic Vase",
+      "Ceramic Bowl and Pitcher Set",
+      "ceramic teapot",
+      "ceramic pitcher",
+      "ceramic vase",
+      "Porcelain Pitcher",
+      "Ancient artifact",
+      "Silver Pitcher",
+      "Ceramic Pitcher"
+    ],
+    "ferry": [
+      "naval vessel",
+      "Toy Ship",
+      "Watercraft, Riverboat, Ferry",
+      "cargo ship",
+      "Ferry Ship",
+      "Transportation",
+      "Ferry",
+      "Watercraft, specifically a ferry or passenger boat.",
+      "Boat"
+    ],
+    "flamingo": [
+      "Artificial Flamingo",
+      "Flamingo Statue",
+      "Bird Statue",
+      "Birds - Flamingo",
+      "Birds - Flamingos",
+      "Birds",
+      "Bird - Flamingo"
+    ],
+    "flamingo_head": [
+      "Bird, Flamingo, Watering Can",
+      "Flamingo",
+      "Birds",
+      "Bird - Flamingo"
+    ],
+    "garfield": [
+      "Cartoon Character",
+      "Toy - Plush - Character"
+    ],
+    "gerenuk": [
+      "Deer",
+      "Antelope, Wildlife, African Animal",
+      "Antelope",
+      "Wildlife - Carnivore - Felidae",
+      "Animal - Mammal - Cat"
+    ],
+    "gramophone": [
+      "phonograph",
+      "Music Instrument",
+      "Music Player",
+      "Musical Instrument - Horn",
+      "Musical Instrument: Gramophone",
+      "Audio Device",
+      "Audio equipment",
+      "Audio Equipment",
+      "Gramophone"
+    ],
+    "grand_piano": [
+      "Musical Instrument",
+      "Electronic Piano"
+    ],
+    "hawksbill": [
+      "Marine Life - Sea Turtle",
+      "Marine Reptile",
+      "Turtle",
+      "Marine Life - Sea Turtles",
+      "Marine Life - Turtles",
+      "Sea turtle",
+      "Marine reptile",
+      "Turtle - Sea Life",
+      "Marine Life: Fish",
+      "Toy - Sea Turtle",
+      "Reptile, Marine, Sea Turtle",
+      "Reptile - Sea Turtle",
+      "Marine creature"
+    ],
+    "headphone": [
+      "Headphones",
+      "Communication Device",
+      "Audio Equipment",
+      "Audio equipment",
+      "Headset"
+    ],
+    "hedgehog": [
+      "Mammal",
+      "Pet Animal - Hedgehog",
+      "Mammal, Small, Spiny",
+      "Small mammal",
+      "Rodent",
+      "Mammal - Hedgehog",
+      "Bird",
+      "Furniture - Statues & Figurines - Animals - Hedgehog"
+    ],
+    "helicopter": [
+      "Military Helicopter",
+      "Helicopter, Utility, Water Drop",
+      "Military Model Helicopter",
+      "Transportation: Helicopter",
+      "Helicopter",
+      "Transportation - Helicopter",
+      "Transportation",
+      "Helicopter, Fire, Lava",
+      "Transport Helicopter"
+    ],
+    "ibis": [
+      "Bird - Waterfowl - Ibis",
+      "Birds - Waterfowl - Ibis",
+      "Bird, Stork, White-necked Stork",
+      "Birds, Waterfowl, Scarlet Ibis",
+      "Bird, Waterfowl, Shorebird",
+      "Bird - Waterfowl - White Crane",
+      "Bird - White Ibis",
+      "Bird - Extinct",
+      "Bird - Waterfowl - White Stork",
+      "Bird",
+      "Birds",
+      "Bird - White Crane",
+      "Bird - Scarlet Ibis",
+      "Bird - Waterfowl - Wading Bird"
+    ],
+    "inline_skate": [
+      "Sports Equipment",
+      "Skates",
+      "Skateboarding",
+      "Skate Boot",
+      "Roller skate"
+    ],
+    "joshua_tree": [
+      "Tree",
+      "Natural landmark",
+      "Comet",
+      "Cactus Silhouette",
+      "Plant",
+      "Cactus",
+      "Tree - Desert",
+      "desert plant",
+      "Nature - Landscape",
+      "Desert Plant",
+      "Cactus Plant",
+      "Asteroid",
+      "Tree - Joshua Tree"
+    ],
+    "kangaroo": [
+      "Mammal - Marsupial - Kangaroo",
+      "Mammal - Kangaroo",
+      "Mammal",
+      "Kangaroo Statue",
+      "Kangaroo",
+      "Mammal, Marsupial, Kangaroo"
+    ],
+    "ketch": [
+      "Sailing Ship",
+      "Sailing Boat",
+      "Sailboat",
+      "Sailing vessel"
+    ],
+    "lamp": [
+      "Table Lamp",
+      "Furniture",
+      "Lamp",
+      "Lighting - Table Lamp",
+      "Lampshade",
+      "Trinket Box",
+      "Art Glass Lamp",
+      "Decorative Lamp",
+      "Lighting - Lamp"
+    ],
+    "laptop": [
+      "Electronic Device",
+      "Electronics - Computers",
+      "Electronics - Computer",
+      "Electronics",
+      "Electronic device",
+      "Electronics - Computers - Laptops",
+      "Electronics - Computer Hardware - Laptop",
+      "Electronic Dictionary",
+      "Electronics - Computer - Laptop"
+    ],
+    "llama": [
+      "Antelope",
+      "Animal with backpack",
+      "Animal - Alpaca",
+      "Animal (Llama)",
+      "Animal - Guanaco",
+      "Domestic Animal",
+      "Sheep",
+      "Llama",
+      "Animal - Watering Hole - Llama",
+      "Animal - Llama",
+      "Camel",
+      "Animal, Human, Clothing"
+    ],
+    "lobster": [
+      "Artwork",
+      "Seafood Presentation",
+      "Insect - Arachnid - Spider",
+      "Crustacean, Insect, Lobster",
+      "Insect - Beetle",
+      "Seafood",
+      "Arachnid",
+      "Crustacean"
+    ],
+    "lotus": [
+      "Flower, Lotus, White",
+      "Flower, Lotus, Colorful",
+      "Flower, Lotus, Water Lily",
+      "Flower - Lotus",
+      "Flower",
+      "Flower, Lotus, Pink",
+      "Flower, Lotus, Embroidery",
+      "Flower, Aquatic, Blue",
+      "Aquatic Plant",
+      "Flower, aquatic, water lily",
+      "Flower, Lotus, Yellow",
+      "Flower, Water Lily, Pink Lily",
+      "Flower,\u9053\u6b49\uff0c\u5bf9\u4e0d\u8d77"
+    ],
+    "mandolin": [
+      "Musical Instrument",
+      "Musical Instrument - Mandolin",
+      "String Instrument",
+      "Toothbrush",
+      "Stringed Instrument",
+      "Musical Instrument - Lute"
+    ],
+    "mayfly": [
+      "Insect - Larva",
+      "Insect, Fly, Dragonfly",
+      "Insect",
+      "Fly Fishing Tackle",
+      "Seashell",
+      "Insect, Fly, Mayfly",
+      "Insect, Invertebrate, Flying insect"
+    ],
+    "menorah": [
+      "Religious Artifact",
+      "Candlestick Holder",
+      "Candlestick",
+      "Candlestick, Menorah, Hanukkah Lamp",
+      "Religious artifact",
+      "Religious Symbol",
+      "Candleholder",
+      "Candlestick, Menorah, Hanukkah",
+      "Artwork, Abstract, Modern"
+    ],
+    "metronome": [
+      "Metronome"
+    ],
+    "minaret": [
+      "Curtain Rod",
+      "Minaret, Mosque, Architecture",
+      "Military Equipment",
+      "Stone Column",
+      "Cannon",
+      "Minaret",
+      "Monument",
+      "Rocket\u53d1\u5c04\u5668",
+      "missile",
+      "Observatory Tower",
+      "Cigarette",
+      "Golden scepter with intricate carvings.",
+      "Ancient Monument",
+      "Architecture, Historical Structure, Monument",
+      "Weapon",
+      "Skyscraper",
+      "Architecture",
+      "Toilet Paper Dispenser",
+      "Lighthouse",
+      "Metallic Structure"
+    ],
+    "nautilus": [
+      "Sea creature",
+      "Seashell, Nautilus, Spiral Shell",
+      "Shell, Nautilus, Marine Life",
+      "Sea Shell",
+      "Shell - Nautilus - Marine Life",
+      "Fossil Shell",
+      "Shell, Nautilus, Spiral",
+      "Cephalopod",
+      "Cephalopod, Nautilus, Marine Life",
+      "Shell, Nautilus, Spiral, Oceanic, Marine, Aquatic, Bivalve, Cephalopod, Invertebrate, Seafood, Coastal, Underwater, Natural, Geometric, Artistic, Scientific, Educational, Biological, Zoology, Ecology, Conservation, Marine Biology, Oceanography,",
+      "Nautilus Shell",
+      "Nautilus",
+      "Shell, Nautilus, Oceanic.",
+      "Fossilized Shell"
+    ],
+    "octopus": [
+      "Arthropod",
+      "Kite",
+      "Invertebrate, cephalopod, marine animal",
+      "Cephalopod, Marine, Octopus",
+      "Wooden Sculpture",
+      "Cephalopod",
+      "Sea creature",
+      "Plant Root"
+    ],
+    "okapi": [
+      "Mammal",
+      "Animal - Mammal - Carnivore",
+      "Animal Illustration",
+      "Primates",
+      "Bongo",
+      "Bovine, Antelope, Ungulate",
+      "Mammal - Okapi",
+      "Bovine"
+    ],
+    "pagoda": [
+      "Towers and Structures",
+      "Towers and Temples",
+      "Building - Pagoda",
+      "Pagoda",
+      "Historical Site",
+      "Pagoda, Temple, Historical Structure",
+      "Historical Structure",
+      "Wooden Structure",
+      "Castle Tower",
+      "Pagoda, Temple, Architecture"
+    ],
+    "panda": [
+      "Cartoon - Animal - Panda",
+      "Stuffed Animal",
+      "Mammal - Giant Panda",
+      "Animal - Panda",
+      "animal, mammal, bear",
+      "Mammal - Bear - Panda",
+      "Animal - Bear - Panda",
+      "Animal - Mammal - Bear",
+      "Panda Bear",
+      "Mammal - Bear - Giant Panda"
+    ],
+    "pigeon": [
+      "Birds, Seabirds, Coastal Birds",
+      "Bird, Pigeon, White",
+      "Bird - Pigeon",
+      "Bird"
+    ],
+    "pizza": [
+      "Dishware: Pizza",
+      "Fruit Slice",
+      "Pizza",
+      "Dish: Pizza",
+      "Dishware",
+      "Food - Pizza",
+      "Food",
+      "Dish"
+    ],
+    "platypus": [
+      "Mammal - Platypus",
+      "Mammal",
+      "Duckbill Platypus",
+      "Aquatic mammal",
+      "Mammal - Duck-billed Platypus",
+      "Waterfowl, Aquatic, Duckbill Platypus",
+      "Plush Toy",
+      "Mammal, aquatic, platypus"
+    ],
+    "pyramid": [
+      "Pyramid",
+      "Ancient architecture, historical monument, pyramid structure",
+      "Architectural Model",
+      "Ancient architecture, monumental structure, historical monument",
+      "Architectural Structure",
+      "Geometric Shapes",
+      "Financial Status Pyramid",
+      "Geometric shape",
+      "architectural structure",
+      "Geometric Shape",
+      "Vehicle, Desert, Pyramid",
+      "Food Pyramid",
+      "Crystal Pyramid",
+      "Geometric Object"
+    ],
+    "revolver": [
+      "Firearm",
+      "Firearm, Handgun, Revolver",
+      "Weapon",
+      "Toy Gun",
+      "Handgun",
+      "Revolver, firearm, shooting equipment",
+      "Revolver",
+      "Firearm Set",
+      "Firearm, Collectible, Antique"
+    ],
+    "rhino": [
+      "Mammal - Extinct - Rhinoceros",
+      "Mammal - Rhinoceros - Indian Rhinoceros",
+      "Mammal, Herbivore, Wildlife",
+      "Mammal, Herbivore, Rhinoceros",
+      "Furniture - Sculpture - Animal Statue",
+      "Animal Figure",
+      "Bison",
+      "Miniature Sculpture",
+      "Mammal - Rhinoceros",
+      "Animal Sculpture"
+    ],
+    "rooster": [
+      " poultry",
+      "Rooster Statue",
+      "Farm Animal",
+      "Rooster",
+      "Animal - Bird - Rooster",
+      "Rooster Weather Vane",
+      "Bird - Rooster",
+      "Bird - Chicken",
+      "Bronze Sculpture",
+      "Weather Vane"
+    ],
+    "saxophone": [
+      "Musical Instrument",
+      "Musical Instrument - Saxophone"
+    ],
+    "schooner": [
+      "Sailing vessel",
+      "Sailing Ship",
+      "Model Sailboat",
+      "Sailing Boat",
+      "Sailboat"
+    ],
+    "scissors": [
+      "Medical instrument",
+      "scissors",
+      "Craft Supplies",
+      "Scissors",
+      "Medical Instrument",
+      "Cutting Tool"
+    ],
+    "scorpion": [
+      "Invertebrate",
+      "Arachnid, Insect, Scorpion",
+      "Invertebrate, Arachnid, Scorpion",
+      "Scorpion",
+      "Arachnid, Scorpion, Insectivore",
+      "Fossilized Animal Skeleton",
+      "Insect Model",
+      "Arachnid, Scorpion, Desert Animal",
+      "Arachnid",
+      "Arachnid, Scorpion, Insecticide",
+      "Insect - Ant"
+    ],
+    "sea_horse": [
+      "Aquatic Creature",
+      "Aquatic Creatures",
+      "Aquatic Life",
+      "Marine creature",
+      "Fossilized Sea Horse Shell",
+      "Marine Life - Sea Creatures - Seahorse",
+      "Diving Mask",
+      "Sea creature"
+    ],
+    "snoopy": [
+      "Cartoon Character",
+      "Tennis racket",
+      "Sports Equipment",
+      "Snoopy with acorn",
+      "Comic Book",
+      "Cartoon dog"
+    ],
+    "soccer_ball": [
+      "Sports Equipment - Soccer Ball",
+      "Sports Equipment",
+      "Geometric Model",
+      "Sports Equipment: Soccer Ball",
+      "Geometric Sphere",
+      "Sports Medals"
+    ],
+    "stapler": [
+      "Stationery - Stapler",
+      "Knife",
+      "Office Equipment",
+      "Stationery Tool",
+      "Stationery: Stapler",
+      "Office Supplies",
+      "Stationery",
+      "Tool"
+    ],
+    "starfish": [
+      "Aquatic Life - Starfish",
+      "Seashell Decor",
+      "Sea star",
+      "Starfish, Ornament, Christmas Decoration",
+      "Seashell, Starfish, Ocean Life",
+      "Starfish - Fitness",
+      "Sea Life - Starfish",
+      "Marine organism",
+      "Starfish Pin",
+      "Sea creature",
+      "Sea Star"
+    ],
+    "stegosaurus": [
+      "Prehistoric creature",
+      "Dinosaur Statue",
+      "Prehistoric creature sculpture",
+      "Prehistoric Reptile",
+      "Dinosaur",
+      "Prehistoric Creature",
+      "prehistoric creature",
+      "Dinosaur Model"
+    ],
+    "stop_sign": [
+      "Road Sign",
+      "Traffic Sign",
+      "Clock",
+      "Signs and Symbols",
+      "Sign - Traffic",
+      "Signs"
+    ],
+    "strawberry": [
+      "Fruit",
+      "Fruit - Chocolate Covered Strawberry",
+      "Fruit - Strawberry"
+    ],
+    "sunflower": [
+      "Flower, Sunflower, Helianthus annuus",
+      "Flower, Sunflower, Petal",
+      "Flower",
+      "Flower, Sunflower, Stained Glass",
+      "Flower, Sunflower, Bright Yellow",
+      "Flower - Sunflower",
+      "Flower, Sunflower, Yellow Flower"
+    ],
+    "tick": [
+      "Insect - Tick",
+      "Insect - Arachnid - Tick",
+      "Tick",
+      "Insect, Arachnid, Parasite",
+      "Insect - Arachnid - Ixodidae",
+      "Invertebrate - Arachnid - Ixodidae",
+      "Invertebrate, Arachnid, Parasite"
+    ],
+    "trilobite": [
+      "Fossilized Trilobite",
+      "Mollusk",
+      "Fossilized organism",
+      "Protozoan",
+      "Bread",
+      "Geological Formation",
+      "Fossilized Trilobite Shell",
+      "Fossil Trilobite",
+      "Fossilized Trilobite Footprint",
+      "Fossilized trilobite",
+      "Knitted Booties"
+    ],
+    "umbrella": [
+      "Parachute",
+      "BVDV umbrella",
+      "Outdoor umbrella",
+      "umbrella",
+      "Weather Protection",
+      "Beach umbrella and chairs",
+      "Accessories - Umbrellas",
+      "Umbrella and Boots",
+      "Umbrella",
+      "Umbrella, Beach, Outdoor",
+      "Outdoor Furniture"
+    ],
+    "watch": [
+      "Watch",
+      "Accessories - Wristbands",
+      "Accessories - Watches",
+      "Wristwatch"
+    ],
+    "water_lilly": [
+      "Flower, Lotus, White",
+      "Flower, Lotus, Water Lily",
+      "Flower, Water Lily, Lotus",
+      "Flower, Lotus, Pink",
+      "Flower",
+      "Aquatic Plant",
+      "Flower, Water Lily, White Lily",
+      "Flower, Yellow, Lotus",
+      "Flower, aquatic, water lily"
+    ],
+    "wheelchair": [
+      "Mobility Device",
+      "Wheelchair",
+      "Wheelchair, Frog, Accessibility",
+      "wheelchair"
+    ],
+    "wild_cat": [
+      "Felidae",
+      "Feline",
+      "Cat",
+      "Feline, Wild Cat, Leopard Cat",
+      "Feline, Carnivore, Felidae"
+    ],
+    "windsor_chair": [
+      "Furniture - Chairs",
+      "furniture chair",
+      "Furniture",
+      "Furniture - Chair",
+      "Furniture: Chair",
+      "Furniture, Chair, Vintage",
+      "Furniture - Rocking Chair"
+    ],
+    "wrench": [
+      "Wrench",
+      "Hand Tool",
+      "Tool: Wrench",
+      "Tools - Wrenches",
+      "Medical Instrument",
+      "Tool",
+      "Tools and Instruments"
+    ],
+    "yin_yang": [
+      "Taoist Symbol",
+      "Taoism Symbol",
+      "Symbol, Yin-Yang, Balance",
+      "Symbolic Design",
+      "Health Conditions",
+      "Symbolic Representation",
+      "Symbol, Chinese, Yin-Yang",
+      "Symbol, Yin-Yang, Chinese Philosophy",
+      "Symbol, Ornament, Feng Shui",
+      "Symbol, Chinese, Philosophy"
+    ]
+  },
+  "accuracy": 0.26774847870182555
+}

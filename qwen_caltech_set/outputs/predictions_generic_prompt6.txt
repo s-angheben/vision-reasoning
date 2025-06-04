@@ -1,0 +1,588 @@
+{
+  "category_outputs": {
+    "Faces": [
+      "Person",
+      "Man in hat",
+      "Man wearing hat",
+      "person",
+      "woman",
+      "Man"
+    ],
+    "Faces_easy": [],
+    "Leopards": [
+      "Cheetahs",
+      "Panther",
+      "animal",
+      "Leopard",
+      "Cat",
+      "Cheetah"
+    ],
+    "Motorbikes": [
+      "Motorcycle",
+      "Motorcycle model",
+      "scooter"
+    ],
+    "accordion": [
+      "Handheld keyboard",
+      "Handheld instrument",
+      "Electronic device",
+      "Keyboard",
+      "Musical instrument",
+      "Accordian",
+      "Accordions"
+    ],
+    "airplanes": [
+      "airplane",
+      "Jet aircraft",
+      "Concorde aircraft",
+      "Airplane"
+    ],
+    "anchor": [
+      "Life buoy",
+      "Anchor",
+      "Chimpanzee"
+    ],
+    "ant": [
+      "Ant robot",
+      "Ant",
+      "Ants",
+      "Insect"
+    ],
+    "barrel": [
+      "Wooden barrel",
+      "Bottle",
+      "Whiskey barrel",
+      "Signpost",
+      "Barrel",
+      "Television"
+    ],
+    "bass": [
+      "Fish"
+    ],
+    "beaver": [
+      "Rodent",
+      "bear",
+      "Cat",
+      "Otter",
+      "Statue",
+      "Beaver"
+    ],
+    "binocular": [
+      "Binoculars",
+      "Shoes",
+      "Headphones",
+      "Camera"
+    ],
+    "bonsai": [
+      "Bonsai trees",
+      "Tree",
+      "Bonsai tree",
+      "Bonsai Tree"
+    ],
+    "brain": [
+      "Brain scan",
+      "Brain"
+    ],
+    "brontosaurus": [
+      "Dinosaur statue",
+      "Elephant",
+      "Dinosaur"
+    ],
+    "buddha": [
+      "Statue",
+      "Buddha statue",
+      "Statue of Buddha"
+    ],
+    "butterfly": [
+      "Butterfly",
+      "Origami butterfly",
+      "Hair clip"
+    ],
+    "camera": [
+      "Camera",
+      "Digital camera"
+    ],
+    "cannon": [
+      "Toy cannon",
+      "Cart",
+      "Cannon"
+    ],
+    "car_side": [
+      "Car",
+      "car",
+      "SUV",
+      "Truck"
+    ],
+    "ceiling_fan": [
+      "Helicopter",
+      "Ceiling fan",
+      "Fan"
+    ],
+    "cellphone": [
+      "Remote control",
+      "Cell phone",
+      "remote control",
+      "Calculator",
+      "Telephone",
+      "Keyboard"
+    ],
+    "chair": [
+      "office chair",
+      "Chair",
+      "chair"
+    ],
+    "chandelier": [
+      "Candle holder",
+      "Chandelier",
+      "Laboratory equipment",
+      "Light fixture",
+      "Lamp"
+    ],
+    "cougar_body": [
+      "Mountain Lion",
+      "Panther",
+      "Cougar",
+      "Puma",
+      "Cat",
+      "Cheetah",
+      "Feline",
+      "Coyote"
+    ],
+    "cougar_face": [
+      "Mountain Lion",
+      "Cougar",
+      "Puma",
+      "Cat",
+      "Animal portrait",
+      "Lioness",
+      "Dog",
+      "Cheetah",
+      "Carnivore",
+      "Bear"
+    ],
+    "crab": [
+      "Spider",
+      "Crab",
+      "Insect",
+      "Plant"
+    ],
+    "crayfish": [
+      "Lobster",
+      "Crab",
+      "Insect",
+      "Fossilized insect",
+      "Ant",
+      "Crustacean"
+    ],
+    "crocodile": [
+      "Lizard",
+      "Puggle",
+      "Alligator",
+      "Crocodile"
+    ],
+    "crocodile_head": [
+      "Lizard",
+      "Alligator",
+      "Crocodylus",
+      "Crocodile"
+    ],
+    "cup": [
+      "Coffee mug",
+      "Cups",
+      "Cup and saucer",
+      "Cup",
+      "Metal mug",
+      "Mug"
+    ],
+    "dalmatian": [
+      "Dog toy",
+      "Dog head",
+      "Dog",
+      "Dalmatian dog"
+    ],
+    "dollar_bill": [
+      "Currency bill",
+      "Currency",
+      "Horse",
+      "Currency note"
+    ],
+    "dolphin": [
+      "Dolphin",
+      "Whale"
+    ],
+    "dragonfly": [
+      "Dragonfly",
+      "Plant"
+    ],
+    "electric_guitar": [
+      "Guitar",
+      "Bass guitar",
+      "Electric guitar"
+    ],
+    "elephant": [
+      "Elephant statue",
+      "Elephant"
+    ],
+    "emu": [
+      "Emu",
+      "Ostrich"
+    ],
+    "euphonium": [
+      "French horn",
+      "Tuba",
+      "Trumpet",
+      "Cornet",
+      "Musical Instruments"
+    ],
+    "ewer": [
+      "Pitcher",
+      "Silver pitcher",
+      "Teapot",
+      "Pitcher and bowl",
+      "Vessel",
+      "bowl",
+      "Pitcher and bowl set",
+      "Jug",
+      "Porcelain jug",
+      "Vase"
+    ],
+    "ferry": [
+      "Cruise ship",
+      "Cargo ship",
+      "Ferry",
+      "Ferry boat",
+      "Boat",
+      "Ship"
+    ],
+    "flamingo": [
+      "Flamingo statue",
+      "Flamingo"
+    ],
+    "flamingo_head": [
+      "Bird",
+      "Flamingo"
+    ],
+    "garfield": [
+      "Plush toy",
+      "Cartoon character",
+      "Cat",
+      "Garfield",
+      "Character"
+    ],
+    "gerenuk": [
+      "Deer",
+      "Caracal",
+      "Gazelle",
+      "Antelope"
+    ],
+    "gramophone": [
+      "Gramophone",
+      "Record player"
+    ],
+    "grand_piano": [
+      "Grand Piano",
+      "Electronic piano",
+      "Piano",
+      "Grand piano"
+    ],
+    "hawksbill": [
+      "Fish",
+      "Turtle"
+    ],
+    "headphone": [
+      "Headset",
+      "Headphones"
+    ],
+    "hedgehog": [
+      "Bat",
+      "Hedgehog",
+      "Hedgehog statue"
+    ],
+    "helicopter": [
+      "Helicopter",
+      "Helicopter model"
+    ],
+    "ibis": [
+      "Bird"
+    ],
+    "inline_skate": [
+      "Roller skates",
+      "Roller skate",
+      "Skateboard",
+      "Skates"
+    ],
+    "joshua_tree": [
+      "Cactus",
+      "Tree"
+    ],
+    "kangaroo": [
+      "Kangaroo"
+    ],
+    "ketch": [
+      "Sailboat"
+    ],
+    "lamp": [
+      "Vase",
+      "Table lamp",
+      "Lamp"
+    ],
+    "laptop": [
+      "Electronic device",
+      "Computer",
+      "laptop",
+      "Laptop"
+    ],
+    "llama": [
+      "Camel",
+      "Antelope",
+      "Sheep",
+      "Anteater",
+      "Llama",
+      "Alpaca",
+      "Animal",
+      "Guanaco"
+    ],
+    "lobster": [
+      "Seafood dish",
+      "Lobster",
+      "Crab",
+      "Insect",
+      "Person",
+      "Scorpion",
+      "lobster",
+      "Seafood",
+      " lobster"
+    ],
+    "lotus": [
+      "Lotus flower",
+      "Flower",
+      "Water lily"
+    ],
+    "mandolin": [
+      "Musical Instrument",
+      "Guitar",
+      "Musical instrument",
+      "mandolin",
+      "Mandolin",
+      "Toothbrush"
+    ],
+    "mayfly": [
+      "Fly fishing lure",
+      "Seashell",
+      "Insect"
+    ],
+    "menorah": [
+      "Candlestick",
+      "Candle holder",
+      "Menorah"
+    ],
+    "metronome": [
+      "Metronome"
+    ],
+    "minaret": [
+      "Cross",
+      "Pole",
+      "Minaret",
+      "Lighthouse",
+      "Cigarette",
+      "Grenade Launcher",
+      "Curtain rod",
+      "Rocket",
+      "Cannon",
+      "Tank",
+      "Skyscraper",
+      "Flute",
+      "Tower"
+    ],
+    "nautilus": [
+      "Shell",
+      "Nautilus shell",
+      "Ammonite shell",
+      "Nautilus"
+    ],
+    "octopus": [
+      "Octopus",
+      "Plant root",
+      "Octopus sculpture",
+      "Kite"
+    ],
+    "okapi": [
+      "Okapi",
+      "Zebra",
+      "Animal"
+    ],
+    "pagoda": [
+      "Building",
+      "Pagoda",
+      "Birdhouse",
+      "Castle",
+      "Tower"
+    ],
+    "panda": [
+      "Bear",
+      "Panda",
+      "Stuffed animal"
+    ],
+    "pigeon": [
+      "Pigeon",
+      "Bird"
+    ],
+    "pizza": [
+      "Pizza slice",
+      "Pizza"
+    ],
+    "platypus": [
+      "Alligator",
+      "Penguin",
+      "Turtle",
+      "Puggle",
+      "Platypus",
+      "Duck-billed platypus",
+      "Paddlefish",
+      "Platypus toy"
+    ],
+    "pyramid": [
+      "Mountain",
+      "Food Pyramid",
+      "Triangle",
+      "Pyramids",
+      "Pyramid"
+    ],
+    "revolver": [
+      "Handgun",
+      "Toy gun",
+      "Revolver"
+    ],
+    "rhino": [
+      "Bison",
+      "Rhino statue",
+      "Rhinoceros figurine",
+      "Rhinoceros",
+      "rhinoceros",
+      "Rhino"
+    ],
+    "rooster": [
+      "Rooster",
+      "Rooster statue",
+      "Chicken",
+      "Statue of Rooster"
+    ],
+    "saxophone": [
+      "Saxophone"
+    ],
+    "schooner": [
+      "Sailboat",
+      "Sailboat model"
+    ],
+    "scissors": [
+      "Tongs",
+      "scissors",
+      "Scissors"
+    ],
+    "scorpion": [
+      "Fossilized creature",
+      "Scorpion",
+      "Ant"
+    ],
+    "sea_horse": [
+      "Sea horse",
+      "Diving mask",
+      "Seahorse"
+    ],
+    "snoopy": [
+      "Snoopy skiing",
+      "Snoopy and acorn",
+      "Dog",
+      "Character",
+      "Snoopy"
+    ],
+    "soccer_ball": [
+      "Geometric shape",
+      "Soccer Ball",
+      "Soccer ball",
+      "Medal",
+      "Sphere"
+    ],
+    "stapler": [
+      "Stapler",
+      "Knife",
+      "Screwdriver",
+      "Punch"
+    ],
+    "starfish": [
+      "Starfish"
+    ],
+    "stegosaurus": [
+      "Dinosaur statue",
+      "Stegosaurus",
+      "Dinosaur"
+    ],
+    "stop_sign": [
+      "Stop sign",
+      "STOP sign"
+    ],
+    "strawberry": [
+      "Strawberry"
+    ],
+    "sunflower": [
+      "Flower",
+      "Sunflower"
+    ],
+    "tick": [
+      "Tick"
+    ],
+    "trilobite": [
+      "Fossil",
+      "Rock",
+      "Fossilized trilobite",
+      "Fossilized trilobite.",
+      "Fossilized trilobite shell",
+      "Trilobite fossil",
+      "Fossilized organism",
+      "Fossil trilobite",
+      "Shell",
+      "Fossilized shell",
+      "Knitted item",
+      "Cornbread",
+      "Spines"
+    ],
+    "umbrella": [
+      "Beach umbrella",
+      "Umbrella",
+      "Parachute",
+      "umbrella"
+    ],
+    "watch": [
+      "Wristwatch",
+      "Watch"
+    ],
+    "water_lilly": [
+      "Lotus flower",
+      "Flower",
+      "Water lily"
+    ],
+    "wheelchair": [
+      "Wheelchair",
+      "person in wheelchair"
+    ],
+    "wild_cat": [
+      "Cat"
+    ],
+    "windsor_chair": [
+      "Chair",
+      "Rocking Chair"
+    ],
+    "wrench": [
+      "Caliper",
+      "Wrench"
+    ],
+    "yin_yang": [
+      "Yin-Yang symbol",
+      "Tie clip",
+      "Yin-Yang Symbol",
+      "Diagram",
+      "Tennis ball"
+    ]
+  },
+  "accuracy": 0.40486815415821503
+}

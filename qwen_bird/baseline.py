@@ -6,7 +6,7 @@ import datetime
 import re
 
 # Base path configuration
-BASE_PATH = "/home/samuele.angheben/vision-reasoning"
+BASE_PATH = "/home/samuele.angheben/vision-reasoning/qwen_bird"
 
 def evaluate_dataset(dataset, dataset_name, output_file, prompt, model, class_names_dict, is_reasoning=False):
     """Evaluate a dataset and save results to file"""
