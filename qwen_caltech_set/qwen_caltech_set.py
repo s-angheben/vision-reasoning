@@ -3,6 +3,7 @@ import json
 import os
 import re
 import random
+import string
 from caltech101 import Caltech101
 
 
@@ -29,7 +30,33 @@ prompts = {
     "prompt8": ("Classify the main object in this image using up to 3 words.", False),
     "prompt9": ("Provide the category of the object in 1-3 words, as a classifier would.", False),
     "prompt10": ("As an open-world classifier, state the object's class (max 3 words).", False),
+    "prompt11": ("What is that? Use 1 to 3 words.", False),
 }
+
+def normalize_text(text):
+    # Replace all non-alphanumeric characters with spaces, collapse multiple spaces, lowercase
+    text = re.sub(rf"[{re.escape(string.punctuation)}]", " ", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip().lower()
+
+def label_in_prediction(label, prediction):
+    label_norm = normalize_text(label)
+    pred_norm = normalize_text(prediction)
+    label_words = label_norm.split()
+    pred_words = pred_norm.split()
+    if not label_words:
+        return False
+    # For single-word label
+    if len(label_words) == 1:
+        return label_words[0] in pred_words
+    # For multi-word label: check if all words appear in order
+    try:
+        idx = 0
+        for word in label_words:
+            idx = pred_words.index(word, idx) + 1
+        return True
+    except ValueError:
+        return False
 
 # Initial step: test all prompts on 4 random images and print predictions
 print("\n=== Initial prompt testing on 4 random images ===")
@@ -50,7 +77,6 @@ for idx in sample_indices:
         else:
             print(f"[{prompt_name}] Prediction: {prediction}")
 
-exit(0)
 
 os.makedirs(f"{BASE_PATH}/outputs", exist_ok=True)
 
@@ -62,6 +88,8 @@ for prompt_name, (prompt_text, is_reasoning) in prompts.items():
     
     category_outputs = {cat: set() for cat in dataset.categories}
     invalid_count = 0  # Track invalid outputs for reasoning prompts
+    correct = 0
+    total = 0
 
     with open(output_file, "w") as f:
         for idx, (image, label) in enumerate(dataset):
@@ -82,16 +110,27 @@ for prompt_name, (prompt_text, is_reasoning) in prompts.items():
             # Add prediction to the global category_outputs_all
             category_outputs_all[ground_truth].add(prediction)
 
+            # Accuracy calculation
+            total += 1
+            if label_in_prediction(ground_truth, prediction):
+                correct += 1
+
         # Convert sets to lists for JSON serialization
         serializable_outputs = {cat: list(outputs) for cat, outputs in category_outputs.items()}
+        accuracy = correct / total if total > 0 else 0.0
         if is_reasoning:
             output_data = {
                 "category_outputs": serializable_outputs,
-                "invalid_count": invalid_count
+                "invalid_count": invalid_count,
+                "accuracy": accuracy
             }
             json.dump(output_data, f, indent=2)
         else:
-            json.dump(serializable_outputs, f, indent=2)
+            output_data = {
+                "category_outputs": serializable_outputs,
+                "accuracy": accuracy
+            }
+            json.dump(output_data, f, indent=2)
     print(f"Saved predictions to {output_file}")
 
 # After all prompts, save category_outputs_all to a file
