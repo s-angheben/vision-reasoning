@@ -15,6 +15,6 @@ source /home/samuele.angheben/vr_env/bin/activate
 # only first time
 # pip install -r requirements.txt
 
-python qwen_bird/baseline.py
+python qwen_bird_open/baseline.py
 
 
